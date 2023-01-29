@@ -1,6 +1,8 @@
 package hust.oop.thuvienlichsu;
 
+import hust.oop.thuvienlichsu.scraper.DiaDiemScraper;
 import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
+import hust.oop.thuvienlichsu.scraper.SuKienScraper;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -21,5 +23,7 @@ public class ThuVienLichSu extends Application {
     public static void main(String[] args) {
         // NhanVatScraper scraper = new NhanVatScraper();
         // launch();
+        SuKienScraper test = new SuKienScraper();
+        test.printListSuKien();
     }
 }

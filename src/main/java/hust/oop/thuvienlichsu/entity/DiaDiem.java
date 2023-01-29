@@ -3,17 +3,17 @@ package hust.oop.thuvienlichsu.entity;
 import java.util.List;
 
 public class DiaDiem {
-    private String ten;
+    private String tenDiaDiem;
     private String noiDung;
     private List<String> tenSuKien;
     private List<String> tenNhanVat;
 
-    public String getTen() {
-        return ten;
+    public String getTenDiaDiemString() {
+        return tenDiaDiem;
     }
 
-    public void setTen(String ten) {
-        this.ten = ten;
+    public void setTenDiaDiem(String ten) {
+        this.tenDiaDiem = ten;
     }
 
     public String getNoiDung() {
