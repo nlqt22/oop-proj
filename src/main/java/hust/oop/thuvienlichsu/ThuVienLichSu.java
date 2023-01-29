@@ -1,12 +1,12 @@
 package hust.oop.thuvienlichsu;
 
+import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.util.List;
 
 public class ThuVienLichSu extends Application {
     @Override
@@ -19,6 +19,7 @@ public class ThuVienLichSu extends Application {
     }
 
     public static void main(String[] args) {
-        launch();
+        // NhanVatScraper scraper = new NhanVatScraper();
+        // launch();
     }
 }

@@ -1,14 +1,19 @@
 package hust.oop.thuvienlichsu.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class NhanVat {
-    private List<String> hoTen;
+    private List<String> hoTen = new ArrayList<>();
     private int namSinh;
     private int namMat;
     private String queQuan;
     private String chiTiet;
-    private String thoiKi;
+    private List<ThoiKi> danhSachThoiKi = new ArrayList<>();
+    @JsonIgnoreProperties(ignoreUnknown = true)
+    private List<String> tenThoiKi = new ArrayList<>();
 
     public NhanVat() {
     }
@@ -53,12 +58,28 @@ public class NhanVat {
         this.chiTiet = chiTiet;
     }
 
-    public String getThoiKi() {
-        return thoiKi;
+    public List<String> getTenThoiKi() {
+        return tenThoiKi;
     }
 
-    public void setThoiKi(String thoiKi) {
-        this.thoiKi = thoiKi;
+    public void setTenThoiKi(List<String> tenThoiKi) {
+        this.tenThoiKi = tenThoiKi;
+    }
+
+    public List<ThoiKi> getDanhSachThoiKi() {
+        return danhSachThoiKi;
+    }
+
+    public void setDanhSachThoiKi(List<ThoiKi> danhSachThoiKi) {
+        this.danhSachThoiKi = danhSachThoiKi;
+    }
+
+    public void addHoTen(String hoTen) {
+        this.hoTen.add(hoTen);
+    }
+
+    public void addTenThoiKi(String tenThoiKi) {
+        this.tenThoiKi.add(tenThoiKi);
     }
 
     @Override
@@ -69,7 +90,7 @@ public class NhanVat {
                 ", namMat=" + namMat +
                 ", queQuan='" + queQuan + '\'' +
                 ", chiTiet='" + chiTiet + '\'' +
-                ", thoiKi='" + thoiKi + '\'' +
+                ", tenThoiKi=" + tenThoiKi +
                 '}';
     }
 }
