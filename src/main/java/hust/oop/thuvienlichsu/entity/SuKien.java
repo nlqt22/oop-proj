@@ -45,13 +45,5 @@ public class SuKien {
     }
     public void setTenDiaDiem(List<String> tenDiaDiem) {
         this.tenDiaDiem = tenDiaDiem;
-    }
-    
-    @Override
-    public String toString() {
-        return "SuKien [tenSuKien=" + tenSuKien + ", namDienRa=" + namDienRa + ", namKetThuc=" + namKetThuc
-                + ", dienBien=" + dienBien + ", tenNhanVat=" + tenNhanVat + ", tenDiaDiem=" + tenDiaDiem + "]";
-    }
-    
-    
+    }   
 }
