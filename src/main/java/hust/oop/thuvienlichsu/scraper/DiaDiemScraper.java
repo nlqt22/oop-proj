@@ -13,12 +13,15 @@ import java.util.List;
 public class DiaDiemScraper {
     private final String URL = "https://thuvienlichsu.com/dia-diem";
     private final String ROOT = "https://thuvienlichsu.com";
-    private Document web;
     private List<DiaDiem> danhSachDiaDiem;
 
     public DiaDiemScraper() {
         this.danhSachDiaDiem = new ArrayList<>();
         scrap();
+    }
+
+    public List<DiaDiem> getDanhSachDiaDiem() {
+        return danhSachDiaDiem;
     }
 
     private DiaDiem scrapInSubUrl(String subUrl) {
@@ -82,7 +85,7 @@ public class DiaDiemScraper {
 
     public void printListDiaDiem() {
         for(DiaDiem diaDiem : danhSachDiaDiem) {
-            System.out.println(diaDiem.getTenDiaDiemString());
+            System.out.println(diaDiem.getTenDiaDiem());
         }
     }
 }

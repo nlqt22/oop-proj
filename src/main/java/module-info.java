@@ -6,7 +6,6 @@ module hust.oop.thuvienlichsu {
     requires com.fasterxml.jackson.databind;
     requires org.jsoup;
 
-
     opens hust.oop.thuvienlichsu to javafx.fxml;
     exports hust.oop.thuvienlichsu;
     exports hust.oop.thuvienlichsu.entity;

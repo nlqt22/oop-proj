@@ -8,7 +8,7 @@ public class DiaDiem {
     private List<String> tenSuKien;
     private List<String> tenNhanVat;
 
-    public String getTenDiaDiemString() {
+    public String getTenDiaDiem() {
         return tenDiaDiem;
     }
 

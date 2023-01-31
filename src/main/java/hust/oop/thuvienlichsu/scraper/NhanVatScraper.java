@@ -3,7 +3,6 @@ package hust.oop.thuvienlichsu.scraper;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
