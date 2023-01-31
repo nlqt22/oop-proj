@@ -1,5 +1,5 @@
 module hust.oop.thuvienlichsu {
-    requires javafx.controls;
+    requires transitive javafx.controls;
     requires javafx.base;
     requires javafx.fxml;
     requires javafx.swing;
