@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class JsonReader {
-    public static List<NhanVat> readFileNhanVat() throws IOException {
+    public List<NhanVat> readFileNhanVat() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
         List<NhanVat> list = mapper.readValue(new File("src/main/resources/json/nhanvat.json"),
             new TypeReference<List<NhanVat>>() {
@@ -21,7 +21,7 @@ public class JsonReader {
         return list;
     }
 
-    public static List<DiaDiem> readFileDiaDiem() throws IOException{
+    public List<DiaDiem> readFileDiaDiem() throws IOException{
         ObjectMapper mapper = new ObjectMapper();
         List<DiaDiem> list = mapper.readValue(new File("src/main/resources/json/diadiem.json"),
             new TypeReference<List<DiaDiem>>() {
@@ -30,7 +30,7 @@ public class JsonReader {
         return list;
     }
 
-    public static List<ThoiKi> readFileThoiKi() throws IOException{
+    public List<ThoiKi> readFileThoiKi() throws IOException{
         ObjectMapper mapper = new ObjectMapper();
         List<ThoiKi> list = mapper.readValue(new File("src/main/resources/json/thoiki.json"),
             new TypeReference<List<ThoiKi>>() {
