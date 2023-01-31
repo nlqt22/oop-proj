@@ -82,6 +82,10 @@ public class NhanVat {
         this.tenThoiKi.add(tenThoiKi);
     }
 
+    public void addThoiKi(ThoiKi thoiKi) {
+        this.danhSachThoiKi.add(thoiKi);
+    }
+
     @Override
     public String toString() {
         return "NhanVat{" +

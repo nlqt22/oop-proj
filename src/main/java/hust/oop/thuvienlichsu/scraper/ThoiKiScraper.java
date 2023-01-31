@@ -1,6 +1,7 @@
 package hust.oop.thuvienlichsu.scraper;
 
 import hust.oop.thuvienlichsu.entity.ThoiKi;
+import hust.oop.thuvienlichsu.utils.StringFormater;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -23,6 +24,7 @@ public class ThoiKiScraper {
     }
 
     private void scrap() {
+        StringFormater formater = new StringFormater();
         try {
             Document doc = Jsoup.connect(URL).get();
             Elements firstResult = doc.select(".menu:nth-child(4)");
@@ -32,6 +34,16 @@ public class ThoiKiScraper {
                 ThoiKi thoiKi = new ThoiKi();
                 String tenThoiKi = thoiKiHTML.get(i).text();
                 thoiKi.setTenThoiKi(tenThoiKi);
+                List<String> nam = formater.removeMinusAtBegin(tenThoiKi);
+                thoiKi.setTenThoiKi(tenThoiKi);
+                int namBatDau = 0, namKetThuc = 0;
+                if(nam.size() > 1) {
+                    if(nam.get(1).contains("trCN")) namBatDau = Integer.parseInt(nam.get(1).replace(" trCN", "")) * (-1);
+                    else namBatDau = Integer.parseInt(nam.get(1));
+                    if(nam.get(2).contains("trCN")) namKetThuc = Integer.parseInt(nam.get(2).replace(" trCN", "")) * (-1);
+                    else namKetThuc = Integer.parseInt(nam.get(2));
+
+                }
                 this.danhSachThoiKi.add(thoiKi);
             }
         } catch (IOException e) {

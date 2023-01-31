@@ -19,6 +19,10 @@ public class ThuVienLichSu extends Application {
     }
 
     public static void main(String[] args) {
+        String str = "- Trưng Nữ Vương (40-43)";
+        for(String s : str.substring(2, str.length()).split("[()-]")) {
+            System.out.println(s);
+        }
         // NhanVatScraper scraper = new NhanVatScraper();
         // launch();
     }

@@ -1,16 +1,12 @@
 package hust.oop.thuvienlichsu.entity;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ThoiKi {
     private String tenThoiKi;
     private int namBatDau;
     private int namKetThuc;
-    private List<NhanVat> danhSachNhanVat;
 
     public ThoiKi() {
-        this.danhSachNhanVat = new ArrayList<NhanVat>();
+
     }
 
     public String getTenThoiKi() {
@@ -35,13 +31,5 @@ public class ThoiKi {
 
     public void setNamKetThuc(int namKetThuc) {
         this.namKetThuc = namKetThuc;
-    }
-
-    public List<NhanVat> getDanhSachNhanVat() {
-        return danhSachNhanVat;
-    }
-
-    public void setDanhSachNhanVat(List<NhanVat> danhSachNhanVat) {
-        this.danhSachNhanVat = danhSachNhanVat;
     }
 }
