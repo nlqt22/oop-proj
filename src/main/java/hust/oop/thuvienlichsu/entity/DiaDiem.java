@@ -39,4 +39,19 @@ public class DiaDiem {
     public void setTenNhanVat(List<String> tenNhanVat) {
         this.tenNhanVat = tenNhanVat;
     }
+
+    @Override
+    public String toString() {
+        return "DiaDiem [tenDiaDiem=" + tenDiaDiem + ", noiDung=" + noiDung + ", tenSuKien=" + tenSuKien
+                + ", tenNhanVat=" + tenNhanVat + "]";
+    }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getTenDiaDiem().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
+    }
 }
