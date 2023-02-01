@@ -13,7 +13,6 @@ import java.util.List;
 public class SuKienScraper {
     private final String URL = "https://thuvienlichsu.com/su-kien";
     private final String ROOT = "https://thuvienlichsu.com";
-    private Document web;
     private List<SuKien> danhSachSuKien;
 
     public SuKienScraper() {
