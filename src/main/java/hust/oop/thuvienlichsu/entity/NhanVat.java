@@ -5,15 +5,18 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.util.ArrayList;
 import java.util.List;
 
+@JsonIgnoreProperties(value = {"tenThoiKi", "tenSuKien", "tenDiaDiem"})
 public class NhanVat {
     private List<String> hoTen = new ArrayList<>();
-    private int namSinh;
-    private int namMat;
+    private String namSinh;
+    private String namMat;
     private String queQuan;
-    private String chiTiet;
     private List<ThoiKi> danhSachThoiKi = new ArrayList<>();
-    @JsonIgnoreProperties(ignoreUnknown = true)
+    private List<SuKien> danhSachSuKien = new ArrayList<>();
+    private List<DiaDiem> danhSachDiaDiem = new ArrayList<>();
     private List<String> tenThoiKi = new ArrayList<>();
+    private List<String> tenSuKien = new ArrayList<>();
+    private List<String> tenDiaDiem = new ArrayList<>();
 
     public NhanVat() {
     }
@@ -26,19 +29,19 @@ public class NhanVat {
         this.hoTen = hoTen;
     }
 
-    public int getNamSinh() {
+    public String getNamSinh() {
         return namSinh;
     }
 
-    public void setNamSinh(int namSinh) {
+    public void setNamSinh(String namSinh) {
         this.namSinh = namSinh;
     }
 
-    public int getNamMat() {
+    public String getNamMat() {
         return namMat;
     }
 
-    public void setNamMat(int namMat) {
+    public void setNamMat(String namMat) {
         this.namMat = namMat;
     }
 
@@ -50,12 +53,28 @@ public class NhanVat {
         this.queQuan = queQuan;
     }
 
-    public String getChiTiet() {
-        return chiTiet;
+    public List<ThoiKi> getDanhSachThoiKi() {
+        return danhSachThoiKi;
     }
 
-    public void setChiTiet(String chiTiet) {
-        this.chiTiet = chiTiet;
+    public void setDanhSachThoiKi(List<ThoiKi> danhSachThoiKi) {
+        this.danhSachThoiKi = danhSachThoiKi;
+    }
+
+    public List<SuKien> getDanhSachSuKien() {
+        return danhSachSuKien;
+    }
+
+    public void setDanhSachSuKien(List<SuKien> danhSachSuKien) {
+        this.danhSachSuKien = danhSachSuKien;
+    }
+
+    public List<DiaDiem> getDanhSachDiaDiem() {
+        return danhSachDiaDiem;
+    }
+
+    public void setDanhSachDiaDiem(List<DiaDiem> danhSachDiaDiem) {
+        this.danhSachDiaDiem = danhSachDiaDiem;
     }
 
     public List<String> getTenThoiKi() {
@@ -66,12 +85,20 @@ public class NhanVat {
         this.tenThoiKi = tenThoiKi;
     }
 
-    public List<ThoiKi> getDanhSachThoiKi() {
-        return danhSachThoiKi;
+    public List<String> getTenSuKien() {
+        return tenSuKien;
     }
 
-    public void setDanhSachThoiKi(List<ThoiKi> danhSachThoiKi) {
-        this.danhSachThoiKi = danhSachThoiKi;
+    public void setTenSuKien(List<String> tenSuKien) {
+        this.tenSuKien = tenSuKien;
+    }
+
+    public List<String> getTenDiaDiem() {
+        return tenDiaDiem;
+    }
+
+    public void setTenDiaDiem(List<String> tenDiaDiem) {
+        this.tenDiaDiem = tenDiaDiem;
     }
 
     public void addHoTen(String hoTen) {
@@ -90,10 +117,10 @@ public class NhanVat {
     public String toString() {
         return "NhanVat{" +
                 "hoTen=" + hoTen +
-                ", namSinh=" + namSinh +
-                ", namMat=" + namMat +
+                ", namSinh='" + namSinh + '\'' +
+                ", namMat='" + namMat + '\'' +
                 ", queQuan='" + queQuan + '\'' +
-                ", chiTiet='" + chiTiet + '\'' +
+                ", danhSachThoiKi=" + danhSachThoiKi +
                 ", tenThoiKi=" + tenThoiKi +
                 '}';
     }

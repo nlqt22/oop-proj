@@ -7,6 +7,10 @@ import java.util.List;
 public class ThoiKiService {
     private List<ThoiKi> danhSachThoiKi;
 
+    public ThoiKiService(List<ThoiKi> danhSachThoiKi) {
+        this.danhSachThoiKi = danhSachThoiKi;
+    }
+
     public List<ThoiKi> getDanhSachThoiKi() {
         return danhSachThoiKi;
     }

@@ -1,14 +1,21 @@
 package hust.oop.thuvienlichsu;
 
+import hust.oop.thuvienlichsu.mapping.DataMapping;
 import hust.oop.thuvienlichsu.scraper.DiaDiemScraper;
 import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
 import hust.oop.thuvienlichsu.scraper.SuKienScraper;
+import hust.oop.thuvienlichsu.utils.StringFormater;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.util.List;
 
 public class ThuVienLichSu extends Application {
     @Override
@@ -20,14 +27,9 @@ public class ThuVienLichSu extends Application {
         stage.show();
     }
 
-    public static void main(String[] args) {
-        String str = "- Trưng Nữ Vương (40-43)";
-        for(String s : str.substring(2, str.length()).split("[()-]")) {
-            System.out.println(s);
-        }
-        // NhanVatScraper scraper = new NhanVatScraper();
+    public static void main(String[] args) throws IOException {
+        GettingData gettingData = new GettingData();
+        System.out.println("DONE (V)");
         // launch();
-        SuKienScraper test = new SuKienScraper();
-        test.printListSuKien();
     }
 }

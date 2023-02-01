@@ -2,11 +2,10 @@ package hust.oop.thuvienlichsu.entity;
 
 public class ThoiKi {
     private String tenThoiKi;
-    private int namBatDau;
-    private int namKetThuc;
+    private String namBatDau;
+    private String namKetThuc;
 
     public ThoiKi() {
-
     }
 
     public String getTenThoiKi() {
@@ -17,19 +16,28 @@ public class ThoiKi {
         this.tenThoiKi = tenThoiKi;
     }
 
-    public int getNamBatDau() {
+    public String getNamBatDau() {
         return namBatDau;
     }
 
-    public void setNamBatDau(int namBatDau) {
+    public void setNamBatDau(String namBatDau) {
         this.namBatDau = namBatDau;
     }
 
-    public int getNamKetThuc() {
+    public String getNamKetThuc() {
         return namKetThuc;
     }
 
-    public void setNamKetThuc(int namKetThuc) {
+    public void setNamKetThuc(String namKetThuc) {
         this.namKetThuc = namKetThuc;
+    }
+
+    @Override
+    public String toString() {
+        return "ThoiKi{" +
+                "tenThoiKi='" + tenThoiKi + '\'' +
+                ", namBatDau='" + namBatDau + '\'' +
+                ", namKetThuc='" + namKetThuc + '\'' +
+                '}';
     }
 }

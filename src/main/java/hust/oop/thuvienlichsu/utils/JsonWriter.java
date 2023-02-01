@@ -5,18 +5,37 @@ import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
-import hust.oop.thuvienlichsu.scraper.ThoiKiScraper;
+import hust.oop.thuvienlichsu.mapping.DataMapping;
 
 import java.io.IOException;
 import java.nio.file.Paths;
 
 public class JsonWriter {
-    public void thoiKiFileWriter() {
-        ThoiKiScraper scraper = new ThoiKiScraper();
+    private DataMapping dataMapper;
+
+    public JsonWriter() {
+        this.dataMapper = new DataMapping();
+    }
+
+    public void nhanVatFileWriter() {
         try {
             ObjectMapper mapper = new ObjectMapper();
             ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
-            writer.writeValue(Paths.get("src/main/resources/json/thoiki.json").toFile(), scraper.getDanhSachThoiKi());
+            writer.writeValue(Paths.get("src/main/resources/json/nhanvat.json").toFile(), dataMapper.getDanhSachNhanVat());
+        } catch (StreamWriteException e) {
+            throw new RuntimeException(e);
+        } catch (DatabindException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void thoiKiFileWriter() {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+            writer.writeValue(Paths.get("src/main/resources/json/thoiki.json").toFile(), dataMapper.getDanhSachThoiKi());
         } catch (StreamWriteException e) {
             throw new RuntimeException(e);
         } catch (DatabindException e) {

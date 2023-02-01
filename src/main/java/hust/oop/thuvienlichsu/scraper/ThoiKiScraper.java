@@ -8,6 +8,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.time.Year;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,24 +34,23 @@ public class ThoiKiScraper {
             for(int i = 1; i < thoiKiHTML.size(); i++) {
                 ThoiKi thoiKi = new ThoiKi();
                 String tenThoiKi = thoiKiHTML.get(i).text();
-                thoiKi.setTenThoiKi(tenThoiKi);
-                List<String> nam = formater.removeMinusAtBegin(tenThoiKi);
-                thoiKi.setTenThoiKi(tenThoiKi);
-                int namBatDau = 0, namKetThuc = 0;
-                if(nam.size() > 1) {
-                    if(nam.get(1).contains("trCN")) namBatDau = Integer.parseInt(nam.get(1).replace(" trCN", "")) * (-1);
-                    else namBatDau = Integer.parseInt(nam.get(1));
-                    if(nam.get(2).contains("trCN")) namKetThuc = Integer.parseInt(nam.get(2).replace(" trCN", "")) * (-1);
-                    else namKetThuc = Integer.parseInt(nam.get(2));
-
+                List<String> componentThoiKi = StringFormater.specForTenThoiKiObject(tenThoiKi);
+                thoiKi.setTenThoiKi(componentThoiKi.get(0));
+                if(componentThoiKi.size() > 1) {
+                    thoiKi.setNamBatDau(componentThoiKi.get(1));
+                    thoiKi.setNamKetThuc(componentThoiKi.get(2));
                 }
                 this.danhSachThoiKi.add(thoiKi);
             }
+            this.danhSachThoiKi.get(0).setNamBatDau("Không rõ");
+            this.danhSachThoiKi.get(0).setNamKetThuc("Không rõ");
+
+            int namKetThucGanNhat = Integer.parseInt(this.danhSachThoiKi.get(this.danhSachThoiKi.size()-2).getNamKetThuc());
+            this.danhSachThoiKi.get(danhSachThoiKi.size()-1).setNamBatDau(String.valueOf(namKetThucGanNhat));
+            this.danhSachThoiKi.get(danhSachThoiKi.size()-1).setNamKetThuc(Year.now().toString());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
-
     }
 
 }

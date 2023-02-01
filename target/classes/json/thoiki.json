@@ -1,121 +1,97 @@
 [ {
   "tenThoiKi" : "Thời tiền sử",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "namBatDau" : "Không rõ",
+  "namKetThuc" : "Không rõ"
 }, {
-  "tenThoiKi" : "Dựng nước (2000 - 258 trCN)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Dựng nước",
+  "namBatDau" : "2000",
+  "namKetThuc" : "258 trCN"
 }, {
-  "tenThoiKi" : "Nhà Thục (257- 208 trCN)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Thục",
+  "namBatDau" : "257",
+  "namKetThuc" : "208 trCN"
 }, {
-  "tenThoiKi" : "Bắc thuộc lần 1 (207 trCN - 39)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Bắc thuộc lần 1",
+  "namBatDau" : "207 trCN",
+  "namKetThuc" : "39"
 }, {
-  "tenThoiKi" : "Trưng Nữ Vương (40-43)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Trưng Nữ Vương",
+  "namBatDau" : "40",
+  "namKetThuc" : "43"
 }, {
-  "tenThoiKi" : "Bắc thuộc lần 2 (43-542)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Bắc thuộc lần 2",
+  "namBatDau" : "43",
+  "namKetThuc" : "542"
 }, {
-  "tenThoiKi" : "Nhà Tiền Lý, Triệu (544-602)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+  "namBatDau" : "544",
+  "namKetThuc" : "602"
 }, {
-  "tenThoiKi" : "Bắc thuộc lần lần 3 (603-939)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Bắc thuộc lần lần 3",
+  "namBatDau" : "603",
+  "namKetThuc" : "939"
 }, {
-  "tenThoiKi" : "Xây nền tự chủ (905 - 938)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Xây nền tự chủ",
+  "namBatDau" : "905",
+  "namKetThuc" : "938"
 }, {
-  "tenThoiKi" : "Nhà Ngô (939-965)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Ngô",
+  "namBatDau" : "939",
+  "namKetThuc" : "965"
 }, {
-  "tenThoiKi" : "Nhà Đinh (968-980)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Đinh",
+  "namBatDau" : "968",
+  "namKetThuc" : "980"
 }, {
-  "tenThoiKi" : "Nhà Tiền Lê (980-1009)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Tiền Lê",
+  "namBatDau" : "980",
+  "namKetThuc" : "1009"
 }, {
-  "tenThoiKi" : "Nhà Lý (1010-1225)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Lý",
+  "namBatDau" : "1010",
+  "namKetThuc" : "1225"
 }, {
-  "tenThoiKi" : "Nhà Trần (1225-1400)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Trần",
+  "namBatDau" : "1225",
+  "namKetThuc" : "1400"
 }, {
-  "tenThoiKi" : "Nhà Hồ (1400-1407)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Hồ",
+  "namBatDau" : "1400",
+  "namKetThuc" : "1407"
 }, {
-  "tenThoiKi" : "Hậu Trần (1407-1413)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Hậu Trần",
+  "namBatDau" : "1407",
+  "namKetThuc" : "1413"
 }, {
-  "tenThoiKi" : "Thuộc Minh (1414-1427)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Thuộc Minh",
+  "namBatDau" : "1414",
+  "namKetThuc" : "1427"
 }, {
-  "tenThoiKi" : "Triều Lê Sơ (1428-1527)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Triều Lê Sơ",
+  "namBatDau" : "1428",
+  "namKetThuc" : "1527"
 }, {
-  "tenThoiKi" : "Nam - Bắc Triều (1527-1592)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nam",
+  "namBatDau" : "Bắc Triều",
+  "namKetThuc" : "1527"
 }, {
-  "tenThoiKi" : "Trịnh - Nguyễn (1533-1788)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Trịnh",
+  "namBatDau" : "Nguyễn",
+  "namKetThuc" : "1533"
 }, {
-  "tenThoiKi" : "Nhà Tây Sơn (1778-1802)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Tây Sơn",
+  "namBatDau" : "1778",
+  "namKetThuc" : "1802"
 }, {
-  "tenThoiKi" : "Nhà Nguyễn độc lập (1802-1883)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Nhà Nguyễn độc lập",
+  "namBatDau" : "1802",
+  "namKetThuc" : "1883"
 }, {
-  "tenThoiKi" : "Pháp đô hộ (1883-1945)",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "tenThoiKi" : "Pháp đô hộ",
+  "namBatDau" : "1883",
+  "namKetThuc" : "1945"
 }, {
   "tenThoiKi" : "Nước Việt Nam mới",
-  "namBatDau" : 0,
-  "namKetThuc" : 0,
-  "danhSachNhanVat" : [ ]
+  "namBatDau" : "1945",
+  "namKetThuc" : "2023"
 } ]

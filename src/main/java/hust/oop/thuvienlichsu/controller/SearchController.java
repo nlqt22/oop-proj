@@ -30,7 +30,7 @@ public class SearchController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         nhanVatService = new NhanVatService();
-        listNhanVat = nhanVatService.getDanhSachNhanVat();
+        listNhanVat = null;
         for(NhanVat nhanVat : listNhanVat) {
             String nhanVatTitle = nhanVat.getHoTen().get(0);
             for(int i = 1; i < nhanVat.getHoTen().size(); ++i) nhanVatTitle += " - " + nhanVat.getHoTen().get(i);
