@@ -1,6 +1,6 @@
 package hust.oop.thuvienlichsu;
 
-<<<<<<< Updated upstream
+import hust.oop.thuvienlichsu.JavaFx.Controller.searchScreen;
 import hust.oop.thuvienlichsu.mapping.DataMapping;
 import hust.oop.thuvienlichsu.scraper.DiaDiemScraper;
 import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
@@ -15,8 +15,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-=======
->>>>>>> Stashed changes
 import java.io.IOException;
 import java.util.List;
 
@@ -31,8 +29,9 @@ public class ThuVienLichSu{
     // }
 
     public static void main(String[] args) throws IOException {
-        GettingData gettingData = new GettingData();
-        System.out.println("DONE (V)");
+        // GettingData gettingData = new GettingData();
+        // System.out.println("DONE (V)");
         // launch();
+        new searchScreen();
     }
 }

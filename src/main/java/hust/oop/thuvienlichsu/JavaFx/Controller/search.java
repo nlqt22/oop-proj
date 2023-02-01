@@ -13,10 +13,10 @@ import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import java.io.IOException;
 
-import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.utils.JsonReader;
 
-public class search extends ListCell<DiaDiem> {
+public class search extends ListCell<NhanVat> {
     @FXML
     public Button detailButton;
 
@@ -24,15 +24,15 @@ public class search extends ListCell<DiaDiem> {
     public TextField inputField;
 
     @FXML
-    public ListView<DiaDiem> listViewer;
+    public ListView<NhanVat> listViewer;
 
     private JsonReader jsonReader;
-    ObservableList<DiaDiem> list;
+    ObservableList<NhanVat> list;
     
     @FXML
     public void initialize() throws IOException {
         this.jsonReader = new JsonReader();
-        list = FXCollections.observableList(jsonReader.readFileDiaDiem());
+        list = FXCollections.observableList(jsonReader.readFileNhanVat());
         
         listViewer.setItems(list);
         listViewer.setCellFactory(new CellFactory());
@@ -41,10 +41,10 @@ public class search extends ListCell<DiaDiem> {
         detailButton.setVisible(false);
 
         listViewer.getSelectionModel().selectedItemProperty().addListener(
-            new ChangeListener<DiaDiem>() {
+            new ChangeListener<NhanVat>() {
                 @Override
-                public void changed(ObservableValue<? extends DiaDiem> observable, DiaDiem oldValue,
-                        DiaDiem newValue) {
+                public void changed(ObservableValue<? extends NhanVat> observable, NhanVat oldValue,
+                        NhanVat newValue) {
                     if (newValue != null) {
                         displayDetailButton(newValue);
                     }
@@ -62,8 +62,8 @@ public class search extends ListCell<DiaDiem> {
     }
 
     void showFilteredString(String newValue) {
-        FilteredList<DiaDiem> new_list = new FilteredList<>(list, null);
-        new_list.setPredicate(diadiem -> diadiem.filterProperty(newValue));
+        FilteredList<NhanVat> new_list = new FilteredList<>(list, null);
+        new_list.setPredicate(NhanVat -> NhanVat.filterProperty(newValue));
 
         if (list != null) {
             listViewer.setItems(new_list);
@@ -72,13 +72,13 @@ public class search extends ListCell<DiaDiem> {
 
     }
 
-    void displayDetailButton(DiaDiem newValue) {
+    void displayDetailButton(NhanVat newValue) {
         detailButton.setVisible(true);
     }
 
     @FXML
     public void btnDetailPressed(ActionEvent event) {
-        DiaDiem name = listViewer.getSelectionModel().getSelectedItem();
+        NhanVat name = listViewer.getSelectionModel().getSelectedItem();
         java.awt.Window win[] = java.awt.Window.getWindows();
         for (int i = 0; i < win.length; i++) {
             win[i].setVisible(false);

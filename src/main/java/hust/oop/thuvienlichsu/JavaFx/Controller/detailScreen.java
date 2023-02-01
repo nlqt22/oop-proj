@@ -1,10 +1,9 @@
 package hust.oop.thuvienlichsu.JavaFx.Controller;
 
+import hust.oop.thuvienlichsu.entity.NhanVat;
+
 import java.io.IOException;
-
 import javax.swing.JFrame;
-
-import hust.oop.thuvienlichsu.entity.DiaDiem;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.fxml.FXMLLoader;
@@ -12,9 +11,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
  
 public class detailScreen extends JFrame {
-    private DiaDiem name;
+    private NhanVat name;
     
-    public detailScreen(DiaDiem name){
+    public detailScreen(NhanVat name){
         this.name = name;
 
         JFXPanel fxPanel = new JFXPanel();

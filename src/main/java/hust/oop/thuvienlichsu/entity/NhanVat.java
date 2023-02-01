@@ -124,4 +124,13 @@ public class NhanVat {
                 ", tenThoiKi=" + tenThoiKi +
                 '}';
     }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getHoTen().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
+    }
 }
