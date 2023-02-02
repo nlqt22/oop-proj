@@ -14,8 +14,8 @@ public class NhanVatScraper {
     private final String URL = "https://vansu.vn/viet-nam/viet-nam-nhan-vat?page=";
     private final String ROOT = "https://vansu.vn";
 
-    private final int START_PAGE = 36;
-    private final int END_PAGE = 36;
+    private final int START_PAGE = 0;
+    private final int END_PAGE = 119;
     private List<NhanVat> danhSachNhanVat;
 
     public List<NhanVat> getDanhSachNhanVat() {

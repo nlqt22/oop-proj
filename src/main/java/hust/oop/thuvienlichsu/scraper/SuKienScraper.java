@@ -78,7 +78,7 @@ public class SuKienScraper {
     }
 
     private void scrap() {
-        int start = 1, end = 1;
+        int start = 1, end = 19;
         try {
             Document doc = Jsoup.connect(URL).get();
             for(int i = start; i <= end; i++) {
