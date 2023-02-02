@@ -1,6 +1,7 @@
 package hust.oop.thuvienlichsu.scraper;
 
 import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.utils.StringFormater;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -35,8 +36,9 @@ public class DiaDiemScraper {
             for(int i = 0; i < result.size(); i++) {
                 Elements header = result.get(i).select("h3.header-edge");
                 String title = header.text();
-                // Code tiep tu day nhe !
-                if(i == 0) diaDiem.setTenDiaDiem(title);
+                if(i == 0) {
+                    diaDiem.setTenDiaDiem(title);
+                }
                 if(title.equals("Diễn biễn lịch sử")) {
                     for(Element element: result.select("p")){
                         element.remove();
@@ -46,17 +48,21 @@ public class DiaDiemScraper {
                 if(title.equals("Sự kiện liên quan")) {
                     Elements suKienLienQuanHTML = result.get(i).select(".card-body h4.card-title");
                     for(Element element : suKienLienQuanHTML) {
-                        listEv.add(element.text());
+                        String tenSuKien = element.text();
+                        tenSuKien = StringFormater.splitStringInTitle(tenSuKien).get(0);
+                        listEv.add(tenSuKien);
                     }
-                    diaDiem.setTenSuKien(listEv);
                 }
                 if(title.equals("Nhân vật liên quan")) {
                     Elements nhanVatLienQuanHTML = result.get(i).select(".card-body h4.card-title");
                     for(Element element : nhanVatLienQuanHTML) {
-                        listChar.add(element.text());
+                        String tenNhanVat = element.text();
+                        tenNhanVat = StringFormater.splitStringInTitle(tenNhanVat).get(0);
+                        listChar.add(tenNhanVat);
                     }
-                    diaDiem.setTenNhanVat(listChar);
                 }
+                diaDiem.setTenSuKien(listEv);
+                diaDiem.setTenNhanVat(listChar);
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -72,9 +78,7 @@ public class DiaDiemScraper {
             for(int i = start; i <= end; i++) {
                 Elements result = doc.select(".divide-content .card-body a.click");
                 for(int j = 0; j < result.size(); j++) {
-                    System.out.println(ROOT+ result.get(j).attr("href"));
                     this.danhSachDiaDiem.add(scrapInSubUrl(ROOT + result.get(j).attr("href")));
-                    System.out.println("--> EXTRACT-DONE (V)");
                 }
             }
 

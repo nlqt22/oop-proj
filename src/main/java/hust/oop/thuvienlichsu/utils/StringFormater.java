@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StringFormater {
-    // "- Dựng nước (2000 - 258 trCN) "
+    // "- Dựng nước (2000 - 258 trCN)"
     public static String removeMinusAtBegin(String str) {
         return str.substring(2, str.length()).strip();
     }
@@ -54,10 +54,17 @@ public class StringFormater {
         return result;
     }
 
-    public static List<String> specForTenThoiKiObject(String tenThoiKiString) {
+    public static List<String> splitStringInTitle(String title) {
+        List<String> resultTmp = new ArrayList<>();
         List<String> result = new ArrayList<>();
-        for(String sp : tenThoiKiString.split("[()-]")) {
-            result.add(sp.strip());
+        for(String s : title.split("[()]")) {
+            resultTmp.add(s.strip());
+        }
+        result.add(resultTmp.get(0));
+        if(resultTmp.size() > 1) {
+            for(String s : resultTmp.get(1).split("[-]")) {
+                result.add(s.strip());
+            }
         }
         return result;
     }

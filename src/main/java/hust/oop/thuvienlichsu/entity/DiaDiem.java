@@ -1,12 +1,18 @@
 package hust.oop.thuvienlichsu.entity;
 
+import hust.oop.thuvienlichsu.entity.dto.NhanVatDTO;
+import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class DiaDiem {
     private String tenDiaDiem;
     private String noiDung;
-    private List<String> tenSuKien;
-    private List<String> tenNhanVat;
+    private List<String> tenSuKien = new ArrayList<>();
+    private List<String> tenNhanVat = new ArrayList<>();
+    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
+    private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
 
     public String getTenDiaDiem() {
         return tenDiaDiem;

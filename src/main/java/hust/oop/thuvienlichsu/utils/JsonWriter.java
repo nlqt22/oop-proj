@@ -44,4 +44,18 @@ public class JsonWriter {
             throw new RuntimeException(e);
         }
     }
+
+    public void suKienFileWriter() {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+            writer.writeValue(Paths.get("src/main/resources/json/sukien.json").toFile(), dataMapper.getDanhSachSuKien());
+        } catch (StreamWriteException e) {
+            throw new RuntimeException(e);
+        } catch (DatabindException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

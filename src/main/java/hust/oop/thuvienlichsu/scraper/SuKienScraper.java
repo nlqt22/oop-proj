@@ -2,6 +2,7 @@ package hust.oop.thuvienlichsu.scraper;
 
 import hust.oop.thuvienlichsu.entity.SuKien;
 
+import hust.oop.thuvienlichsu.utils.StringFormater;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -18,6 +19,7 @@ public class SuKienScraper {
     public SuKienScraper() {
         this.danhSachSuKien = new ArrayList<>();
         scrap();
+        System.out.println("Scraping for Su Kien is done !");
     }
 
     private SuKien scrapInSubUrl(String subUrl) {
@@ -31,9 +33,17 @@ public class SuKienScraper {
             for(int i = 0; i < result.size(); i++) {
                 Elements header = result.get(i).select("h3.header-edge");
                 String title = header.text();
-                // Code tiep tu day nhe !
                 if(i == 0){
-                    suKien.setTenSuKien(title);
+                    List<String> tt = StringFormater.splitStringInTitle(title);
+                    suKien.setTenSuKien(tt.get(0));
+                    if(tt.size() == 2) {
+                        suKien.setNamDienRa(tt.get(1));
+                        suKien.setNamKetThuc(tt.get(1));
+                    }
+                    if(tt.size() == 3) {
+                        suKien.setNamDienRa(tt.get(1).equals("") ? tt.get(2) : tt.get(1));
+                        suKien.setNamKetThuc(tt.get(2).equals("") ? tt.get(1) : tt.get(2));
+                    }
                 }
                 if(title.equals("Diễn biễn lịch sử")) {
                     for(Element element: result.select("p")){
@@ -42,19 +52,23 @@ public class SuKienScraper {
                     suKien.setDienBien(result.get(i).select(".card-body").text());
                 }
                 if(title.equals("Địa điểm liên quan")) {
-                    Elements suKienLienQuanHTML = result.get(i).select(".card-body h4.card-title");
-                    for(Element element : suKienLienQuanHTML) {
-                        listPlaces.add(element.text());
+                    Elements diaDiemHTML = result.get(i).select(".card-body .card-title");
+                    for(Element element : diaDiemHTML) {
+                        String tenDiaDiem = element.text();
+                        tenDiaDiem = StringFormater.splitStringInTitle(tenDiaDiem).get(0);
+                        listPlaces.add(tenDiaDiem);
                     }
-                    suKien.setTenDiaDiem(listPlaces);
                 }
                 if(title.equals("Nhân vật liên quan")) {
                     Elements nhanVatLienQuanHTML = result.get(i).select(".card-body h4.card-title");
                     for(Element element : nhanVatLienQuanHTML) {
-                        listChar.add(element.text());
+                        String tenNhanVat = element.text();
+                        tenNhanVat = StringFormater.splitStringInTitle(tenNhanVat).get(0);
+                        listChar.add(tenNhanVat);
                     }
-                    suKien.setTenNhanVat(listChar);
                 }
+                suKien.setTenDiaDiem(listPlaces);
+                suKien.setTenNhanVat(listChar);
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -70,9 +84,8 @@ public class SuKienScraper {
             for(int i = start; i <= end; i++) {
                 Elements result = doc.select(".divide-content .card-body a.click");
                 for(int j = 0; j < result.size(); j++) {
-                    System.out.println(ROOT+ result.get(j).attr("href"));
+                    // System.out.println(ROOT+ result.get(j).attr("href"));
                     this.danhSachSuKien.add(scrapInSubUrl(ROOT + result.get(j).attr("href")));
-                    System.out.println("--> EXTRACT-DONE (V)");
                 }
             }
 
@@ -81,10 +94,8 @@ public class SuKienScraper {
         }
     }
 
-    public void printListSuKien() {
-        for(SuKien suKien : danhSachSuKien) {
-            System.out.println(suKien.getTenSuKien());
-        }
+    public List<SuKien> getDanhSachSuKien() {
+        return danhSachSuKien;
     }
 }
 

@@ -11,6 +11,6 @@ module hust.oop.thuvienlichsu {
     opens hust.oop.thuvienlichsu to javafx.fxml;
     exports hust.oop.thuvienlichsu;
     exports hust.oop.thuvienlichsu.entity;
-    exports hust.oop.thuvienlichsu.controller;
+    exports hust.oop.thuvienlichsu.entity.dto;
     exports hust.oop.thuvienlichsu.JavaFx.Controller;
 }

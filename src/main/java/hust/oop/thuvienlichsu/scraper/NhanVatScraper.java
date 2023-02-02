@@ -13,6 +13,9 @@ import java.util.List;
 public class NhanVatScraper {
     private final String URL = "https://vansu.vn/viet-nam/viet-nam-nhan-vat?page=";
     private final String ROOT = "https://vansu.vn";
+
+    private final int START_PAGE = 36;
+    private final int END_PAGE = 36;
     private List<NhanVat> danhSachNhanVat;
 
     public List<NhanVat> getDanhSachNhanVat() {
@@ -22,6 +25,7 @@ public class NhanVatScraper {
     public NhanVatScraper() {
         this.danhSachNhanVat = new ArrayList<>();
         scrap();
+        System.out.println("Scraping for Nhan Vat is done !");
     }
 
     private void scrapInSubUrl(String subUrl) {
@@ -62,13 +66,12 @@ public class NhanVatScraper {
     }
 
     private void scrap() {
-        for(int i = 0; i <= 0; i++) {
+        for(int i = START_PAGE; i <= END_PAGE; i++) {
             String page = URL + String.valueOf(i);
             try {
                 Document doc = Jsoup.connect(page).get();
                 Elements result = doc.select("table.table tr td a");
                 for(int j = 0; j < result.size(); j += 2) {
-                    // System.out.println(ROOT + result.get(j).attr("href"));
                     scrapInSubUrl(ROOT + result.get(j).attr("href"));
                 }
             } catch (IOException e) {

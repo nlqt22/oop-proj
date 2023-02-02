@@ -7,12 +7,13 @@ import java.util.List;
 public class ThoiKiService {
     private List<ThoiKi> danhSachThoiKi;
 
-    public ThoiKiService(List<ThoiKi> danhSachThoiKi) {
-        this.danhSachThoiKi = danhSachThoiKi;
+    public ThoiKiService() {
     }
-
     public List<ThoiKi> getDanhSachThoiKi() {
         return danhSachThoiKi;
+    }
+    public void setDanhSachThoiKi(List<ThoiKi> danhSachThoiKi) {
+        this.danhSachThoiKi = danhSachThoiKi;
     }
 
     public ThoiKi findThoiKiByTen(String ten) {

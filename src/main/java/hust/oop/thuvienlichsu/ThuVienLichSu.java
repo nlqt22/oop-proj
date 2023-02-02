@@ -1,24 +1,14 @@
 package hust.oop.thuvienlichsu;
 
-<<<<<<< Updated upstream
-import hust.oop.thuvienlichsu.mapping.DataMapping;
 import hust.oop.thuvienlichsu.scraper.DiaDiemScraper;
-import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
-import hust.oop.thuvienlichsu.scraper.SuKienScraper;
 import hust.oop.thuvienlichsu.utils.StringFormater;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
-=======
->>>>>>> Stashed changes
+
 import java.io.IOException;
-import java.util.List;
 
 public class ThuVienLichSu{
     // @Override
@@ -32,7 +22,7 @@ public class ThuVienLichSu{
 
     public static void main(String[] args) throws IOException {
         GettingData gettingData = new GettingData();
-        System.out.println("DONE (V)");
+        System.out.println("DONE !");
         // launch();
     }
 }

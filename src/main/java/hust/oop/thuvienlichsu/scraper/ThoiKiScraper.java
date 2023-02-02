@@ -18,6 +18,7 @@ public class ThoiKiScraper {
     public ThoiKiScraper() {
         this.danhSachThoiKi = new ArrayList<>();
         scrap();
+        System.out.println("Scraping for Thoi Ki is done !");
     }
 
     public List<ThoiKi> getDanhSachThoiKi() {
@@ -34,7 +35,7 @@ public class ThoiKiScraper {
             for(int i = 1; i < thoiKiHTML.size(); i++) {
                 ThoiKi thoiKi = new ThoiKi();
                 String tenThoiKi = thoiKiHTML.get(i).text();
-                List<String> componentThoiKi = StringFormater.specForTenThoiKiObject(tenThoiKi);
+                List<String> componentThoiKi = StringFormater.splitStringInTitle(tenThoiKi);
                 thoiKi.setTenThoiKi(componentThoiKi.get(0));
                 if(componentThoiKi.size() > 1) {
                     thoiKi.setNamBatDau(componentThoiKi.get(1));

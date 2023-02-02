@@ -1,19 +1,21 @@
 package hust.oop.thuvienlichsu.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
+import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(value = {"tenThoiKi", "tenSuKien", "tenDiaDiem"})
+@JsonIgnoreProperties(value = {"tenThoiKi" ,"tenSuKien", "tenDiaDiem"})
 public class NhanVat {
     private List<String> hoTen = new ArrayList<>();
     private String namSinh;
     private String namMat;
     private String queQuan;
     private List<ThoiKi> danhSachThoiKi = new ArrayList<>();
-    private List<SuKien> danhSachSuKien = new ArrayList<>();
-    private List<DiaDiem> danhSachDiaDiem = new ArrayList<>();
+    private List<DiaDiemDTO> danhSachDiaDiem = new ArrayList<>();
+    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
     private List<String> tenThoiKi = new ArrayList<>();
     private List<String> tenSuKien = new ArrayList<>();
     private List<String> tenDiaDiem = new ArrayList<>();
@@ -61,20 +63,20 @@ public class NhanVat {
         this.danhSachThoiKi = danhSachThoiKi;
     }
 
-    public List<SuKien> getDanhSachSuKien() {
-        return danhSachSuKien;
-    }
-
-    public void setDanhSachSuKien(List<SuKien> danhSachSuKien) {
-        this.danhSachSuKien = danhSachSuKien;
-    }
-
-    public List<DiaDiem> getDanhSachDiaDiem() {
+    public List<DiaDiemDTO> getDanhSachDiaDiem() {
         return danhSachDiaDiem;
     }
 
-    public void setDanhSachDiaDiem(List<DiaDiem> danhSachDiaDiem) {
+    public void setDanhSachDiaDiem(List<DiaDiemDTO> danhSachDiaDiem) {
         this.danhSachDiaDiem = danhSachDiaDiem;
+    }
+
+    public List<SuKienDTO> getDanhSachSuKien() {
+        return danhSachSuKien;
+    }
+
+    public void setDanhSachSuKien(List<SuKienDTO> danhSachSuKien) {
+        this.danhSachSuKien = danhSachSuKien;
     }
 
     public List<String> getTenThoiKi() {
@@ -105,12 +107,12 @@ public class NhanVat {
         this.hoTen.add(hoTen);
     }
 
-    public void addTenThoiKi(String tenThoiKi) {
-        this.tenThoiKi.add(tenThoiKi);
-    }
-
     public void addThoiKi(ThoiKi thoiKi) {
         this.danhSachThoiKi.add(thoiKi);
+    }
+
+    public void addSuKien(SuKienDTO suKienDTO) {
+        if(suKienDTO != null) this.danhSachSuKien.add(suKienDTO);
     }
 
     @Override

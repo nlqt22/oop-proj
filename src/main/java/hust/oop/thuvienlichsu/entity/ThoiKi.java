@@ -34,10 +34,6 @@ public class ThoiKi {
 
     @Override
     public String toString() {
-        return "ThoiKi{" +
-                "tenThoiKi='" + tenThoiKi + '\'' +
-                ", namBatDau='" + namBatDau + '\'' +
-                ", namKetThuc='" + namKetThuc + '\'' +
-                '}';
+        return this.tenThoiKi + "(" + this.namBatDau + "-" + this.namKetThuc + ")";
     }
 }

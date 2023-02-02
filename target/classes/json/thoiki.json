@@ -71,13 +71,13 @@
   "namBatDau" : "1428",
   "namKetThuc" : "1527"
 }, {
-  "tenThoiKi" : "Nam",
-  "namBatDau" : "Bắc Triều",
-  "namKetThuc" : "1527"
+  "tenThoiKi" : "Nam - Bắc Triều",
+  "namBatDau" : "1527",
+  "namKetThuc" : "1592"
 }, {
-  "tenThoiKi" : "Trịnh",
-  "namBatDau" : "Nguyễn",
-  "namKetThuc" : "1533"
+  "tenThoiKi" : "Trịnh - Nguyễn",
+  "namBatDau" : "1533",
+  "namKetThuc" : "1788"
 }, {
   "tenThoiKi" : "Nhà Tây Sơn",
   "namBatDau" : "1778",
