@@ -58,4 +58,18 @@ public class JsonWriter {
             throw new RuntimeException(e);
         }
     }
+
+    public void diaDiemFileWriter() {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+            writer.writeValue(Paths.get("src/main/resources/json/diadiem.json").toFile(), dataMapper.getDanhSachDiaDiem());
+        } catch (StreamWriteException e) {
+            throw new RuntimeException(e);
+        } catch (DatabindException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

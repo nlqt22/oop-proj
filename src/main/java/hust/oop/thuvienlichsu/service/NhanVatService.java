@@ -4,6 +4,7 @@ import hust.oop.thuvienlichsu.entity.NhanVat;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class NhanVatService {
     private List<NhanVat> danhSachNhanVat = new ArrayList<>();
@@ -24,7 +25,9 @@ public class NhanVatService {
         for(int i = 0; i < this.danhSachNhanVat.size(); i++) {
             List<String> hoTen = this.danhSachNhanVat.get(i).getHoTen();
             for(String t : hoTen) {
-                if(t.contains(tenNhanVat)) return i;
+                String s1 = t.toLowerCase();
+                String s2 = tenNhanVat.toLowerCase();
+                if(s1.contains(s2) || s2.contains(s1)) return i;
             }
         }
         return nf;

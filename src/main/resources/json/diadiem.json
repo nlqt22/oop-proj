@@ -1,0 +1,219 @@
+[ {
+  "tenDiaDiem" : "Hồ Chí Minh",
+  "noiDung" : "Thành phố Hồ Chí Minh ban đầu được gọi là Prey Nokor, thành phố sau đó hình thành nhờ công cuộc khai phá miền Nam của nhà Nguyễn. Năm 1698, theo lệnh Chúa Nguyễn, Nguyễn Hữu Cảnh vào Nam kinh lược lập ra phủ Gia Định để cai quản vùng đất mới phía Nam và lập ra hai huyện đầu tiên Phước Long và Tân Bình thuộc phủ Gia Định.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Gia Định",
+  "noiDung" : "Gia Định là một địa danh cũ ở miền Nam Việt Nam. Trải bao biến cố, ngày nay, địa danh ấy chỉ còn dùng để chỉ khu vực trung tâm quận Bình Thạnh của Thành phố Hồ Chí Minh.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  } ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Việt Trì",
+  "noiDung" : "Việt Trì là trung tâm chính trị, hành chính và kinh tế, xã hội của tỉnh Phú Thọ và trung tâm của liên tỉnh phía bắc, nằm ở phía đông của tỉnh, bên tả ngạn sông Hồng, bên kia là huyện Ba Vì, Hà Nội. Đây là nơi có kinh đô Văn Lang - Kinh đô đầu tiên của người Việt, quê hương đất tổ vua Hùng. Tháng ba âm lịch hàng năm, vào dịp Giỗ tổ Hùng Vương, hàng triệu con cháu Lạc Hồng từ khắp cả nước lại nô nức về núi Nghĩa Lĩnh nằm tại địa phận thôn Cổ Tích - xã Hi Cương - Việt Trì để thăm viếng tổ tông",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Cổ Loa",
+  "noiDung" : "Cổ Loa là di tích lịch sử nổi tiếng, thuộc địa phận huyện Đông Anh cách trung tâm Hà Nội khoảng 17km về hướng Tây Bắc. Đây là thủ đô thứ 2 của Việt Nam sau Phong Châu (Phú Thọ). Vào cuối thời Hùng Vương, vua nước Thục tên Phán, chiếm được nước của Hùng Vương, lập nước Âu Lạc, xưng là An Dương Vương, đóng đô ở Phong Khuê (Cổ Loa ngày nay). Sau đó ông cho xây dựng một khu thành lớn mà người sau gọi là Loa thành hay thành Cổ Loa. Khu vực Cổ Loa là một khu thành đất đồ sộ với 3 vòng thành, chiều dài cả 3 vòng thành tổng cộng hơn 16 cây số. Đây cũng là kinh đô từ năm 939 đến 965 thuộc triều đại Ngô Quyền, triều đại gắn liền với chiến công hiển hách trên sông Bạch Đằng, đánh bại quân xâm lược Nam Hán.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  } ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Hoa Lư",
+  "noiDung" : "Hoa Lư nay là xã Trường Yên, huyện Hoa Lư, tỉnh Ninh Bình, cách Hà Nội chừng 100km về phía Nam theo Quốc lộ 1A. Đây là kinh đô thuộc các triều đại nhà Đinh- Đinh Tiên Hoàng (968-980), nhà Tiền Lê-Lê Đại Hành (980-1009). Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế, gọi là Đinh Tiên Hoàng, đặt tên nước là Đại Cồ Việt và chọn Hoa Lư làm kinh đô của đất nước. Hoa Lư ghi các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  } ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Giao Châu",
+  "noiDung" : "Giao Châu là tên một châu hoặc phủ thời xưa, bao trùm vùng đất miền Bắc Việt Nam ngày nay. Ban đầu Giao Châu còn bao gồm một phần đất Quảng Tây và Quảng Đông thuộc Trung Quốc ngày nay.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
+    "namBatDau" : "679",
+    "namKetThuc" : "679"
+  } ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Thăng Long",
+  "noiDung" : "Thăng Long là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng. Năm 1010, tương truyền khi vua Lý Công Uẩn rời kinh đô từ Hoa Lư đến đất Đại La thì thấy rồng bay lên nên gọi tên kinh đô mới là Thăng Long, hay \"rồng bay lên\" theo nghĩa Hán Việt. Trong suốt thời kỳ của các triều đại Lý, Trần, Lê, Mạc, kinh thành Thăng Long là nơi buôn bán, trung tâm văn hóa, giáo dục của cả miền Bắc. Khi Tây Sơn rồi nhà Nguyễn lên nắm quyền trị vì, kinh đô được chuyển về Huế và Thăng Long bắt đầu mang tên Hà Nội từ năm 1831, dưới thời vua Minh Mạng.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Sông Cầu",
+  "noiDung" : "Sông Cầu hay còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức (xưa kia còn có tên là sông Vũ Bình), là con sông quan trọng nhất trong hệ thống sông Thái Bình, dòng sông có tổng chiều dài 290km bắt nguồn từ núi Văn Ôn, chảy qua nhiều làng mạc, cuối cùng hợp lưu với sông Thương để tạo thành sông Thái Bình. Sông Như Nguyệt là nơi diễn ra trận đánh nổi tiếng của quân đội nhà Lý dưới sự chỉ của danh tướng Lý Thường Kiệt, là minh chứng về trận đánh Như Nguyệt hào hùng đã đánh đuổi 10 vạn quân bắc Tống do Quách Quỳ làm chỉ huy.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Cửa Hàm Tử",
+  "noiDung" : "Cửa Hàm Tử xưa thuộc xã Hàm Tử, huyện Khoái Châu, Hưng Yên. Tháng 5 năm 1285, sau cuộc rút lui chiến lược về Thiên Trường (tháng 2 năm 1285), và vào Thanh Hoá (tháng 4 năm 1285), vua Trần bắt đầu mở cuộc phản công vào các cứ điểm quan trọng của quân Nguyên tại vùng Khoái Châu, Hưng Yên. Trận quyết chiến tại cửa Hàm Tử diễn ra vào cuối tháng 5 năm 1285,5 vạn quân do Chiêu Văn Vương Trần Nhật Duật chỉ huy, đã nhanh chóng giành thắng lợi. Cùng với các trận Tây Kết, Chương Dương, Vạn Kiếp, chiến thắng Hàm Tử đã góp phần tiêu diệt và quét sạch 50 vạn quân Nguyên ra khỏi bờ cõi, giải phóng hoàn toàn Đại Việt.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Bến Chương Dương",
+  "noiDung" : "Bến Chương Dương thuộc xã Chương Dương, Thường Tín, Hà Nội. Nơi đây từ lâu đã trở thành niềm tự hào của dân tộc, như một huyền thoại chói lọi trong cuộc kháng chiến chống Nguyên Mông lần thứ hai của quân và dân nhà Trần",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Vân Đồn",
+  "noiDung" : "Vân Đồn là một huyện đảo của tỉnh Quảng Ninh, Việt Nam. Nơi đây diễn ra trận Vân Đồn năm 1288 gắn liền với tên tuổi của danh tướng Trần Khánh Dư đánh tan đoàn thuyền lương của Trương Văn Hổ, góp phần quan trọng vào chiến thắng chung của trận Bạch Đằng năm 1288.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Sông Bạch Đằng",
+  "noiDung" : "Sông Bạch Đằng, còn gọi là Bạch Đằng Giang, hiệu là sông Vân Cừ, là một con sông chảy giữa thị xã Quảng Yên (Quảng Ninh) và huyện Thủy Nguyên (Hải Phòng), cách vịnh Hạ Long, cửa Lục khoảng 40 km. Nó nằm trong hệ thống sông Thái Bình, có vị trí quan trọng và mang dấu ấn sâu đậm trong suốt chiều dài lịch sử, văn hoá ngàn năm. Sông Bạch Đằng nổi tiếng với 3 chiến công của dân tộc Việt Nam: Trận thủy chiến của Ngô Quyền trên sông Bạch Đằng năm 938 đánh thắng quân xâm lược Nam Hán, trận thủy chiến sông Bạch Đằng của Hoàng đế Lê Đại Hành năm 981 đập tan quân Tống và trận thủy chiến sông Bạch Đằng năm 1288 do Hưng Đạo Vương Trần Quốc Tuấn chỉ huy đánh tan quân xâm lược Nguyên.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Hà Nội",
+  "noiDung" : "Dải đất nay là Hà Nội có dân cư từ vài ngàn năm trước nhưng cái tên gọi Hà Nội thì chỉ có từ năm 1831. Từ năm 1010, vua Lý Thái Tổ dời đô ra thành Đại La, đổi gọi thành này là kinh đô Thăng Long. Kinh đô ngày ấy ứng với quận Hoàn Kiếm và một phần của hai quận Đống Đa, Hai Bà Trưng ngày nay. Sau đó địa giới Thăng Long dần mở rộng và tới cuối thế kỷ 18 thì tương ứng với năm quận nội thành bây giờ. Năm 1802, nhà Nguyễn lên ngôi dời đô về Huế, Thăng Long không còn là Kinh đô nữa và ít lâu sau bị đổi gọi là phủ Hoài Đức.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Kiều",
+    "tenGoiKhac" : [ "Nguyễn Kiều", "Hạo Hiên" ],
+    "namSinh" : "1694",
+    "namMat" : "1771",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Mậu Áng",
+    "tenGoiKhac" : [ "Nguyễn Mậu Áng" ],
+    "namSinh" : "1668",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  } ]
+}, {
+  "tenDiaDiem" : "Thành Tây Đô",
+  "noiDung" : "Năm 1397, Hồ Quý Ly một quyền thần của nhà Trần cho xây dựng thành Tây Đô. Thành xây trên địa phận hai thôn Tây Giai, Xuân Giai nay thuộc xã Vĩnh Tiến và thôn Đông Môn nay thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Hà Tĩnh",
+  "noiDung" : "Hà Tĩnh là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam, cách thủ đô Hà Nội 340 km về phía nam, ở phía đông dãy Trường Sơn với địa hình hẹp, dốc và nghiêng từ tây sang đông.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Huy Oánh",
+    "tenGoiKhac" : [ "Nguyễn Huy Oánh" ],
+    "namSinh" : "1713",
+    "namMat" : "1789",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Huy Tự",
+    "tenGoiKhac" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
+    "namSinh" : "1743",
+    "namMat" : "1790",
+    "queQuan" : "Hà Tĩnh"
+  } ]
+}, {
+  "tenDiaDiem" : "Nghệ An",
+  "noiDung" : "Nghệ An thuộc vùng Bắc Trung Bộ Việt Nam, trung tâm hành chính của Nghệ An là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam. Thời Bắc thuộc, Nghệ An và Hà Tĩnh cùng có tên là Hoan Châu, đến đời nhà Lý, Trần đổi thành Nghệ An châu, có tên là xứ Nghệ vào năm 1490, đời vua Lê Thánh Tông, rồi trấn Nghệ An. Năm 1831, vua Minh Mệnh chia trấn Nghệ An thành 2 tỉnh: Nghệ An và Hà Tĩnh . Năm 1976 đến 1991, Nghệ An và Hà Tĩnh sáp nhập thành một tỉnh Nghệ Tĩnh. Từ năm 1991, lại tách ra thành 2 tỉnh là Nghệ An và Hà Tĩnh.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+}, {
+  "tenDiaDiem" : "Thanh Hóa",
+  "noiDung" : "Thanh Hóa là tỉnh thuốc miền Trung Việt Nam, cách thủ đô Hà Nội khoảng 140 km về phía Nam. Thanh Hoá là vùng đất có từ lâu đời, một trong những cái nôi của dân tộc Việt Nam. Ngay từ thời tiền sử vùng đất này đã có người sinh sống. Qua những công cụ thô sơ trong những xưởng chế tác đá công cụ Núi Ðọ (Thanh Hoá) cho thấy, người tiền sử đã sinh sống trên mảnh đất này từ thời đại đồ đá cũ. Ngoài ra, các nhà khảo cổ học còn tìm thấy nhiều công cụ đồ đá đẽo gọt tinh xảo ở Thiệu Dương (Thiệu Hoá), Ða Bút (Vĩnh Lộc),v.v.. Phát triển hơn nữa, nền văn hoá đồ đồng Ðông Sơn với trống đồng và các loại đồ đồng tinh xảo khác không chỉ nổi tiếng ở Việt Nam, ở Ðông Nam á mà còn được cả thế giới biết đến.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Bà Triệu",
+    "namBatDau" : "248",
+    "namKetThuc" : "248"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Hoản",
+    "tenGoiKhac" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
+    "namSinh" : "1713",
+    "namMat" : "1792",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
+    "namSinh" : "1524",
+    "namMat" : "1613",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Dật",
+    "tenGoiKhac" : [ "Nguyễn Hữu Dật" ],
+    "namSinh" : "1603",
+    "namMat" : "1681",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Hào",
+    "tenGoiKhac" : [ "Nguyễn Hữu Hào" ],
+    "namSinh" : "",
+    "namMat" : "1713",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Kính",
+    "tenGoiKhac" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
+    "namSinh" : "1650",
+    "namMat" : "1700",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Tiến (I)",
+    "tenGoiKhac" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
+    "namSinh" : "1602",
+    "namMat" : "1665",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Kim",
+    "tenGoiKhac" : [ "Nguyễn Kim" ],
+    "namSinh" : "1467",
+    "namMat" : "1545",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Lại",
+    "tenGoiKhac" : [ "Nguyễn Lại", "Nghè Bột" ],
+    "namSinh" : "1511",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Mậu Tuyên",
+    "tenGoiKhac" : [ "Nguyễn Mậu Tuyên" ],
+    "namSinh" : "1518",
+    "namMat" : "1599",
+    "queQuan" : "Thanh Hóa"
+  } ]
+}, {
+  "tenDiaDiem" : "Quảng Bình",
+  "noiDung" : "Các tên gọi cũ của Quảng Bình này gồm: Lâm Bình, Tiên Bình, Tây Bình, Tân Bình, là một tỉnh duyên hải thuộc vùng Bắc Trung Bộ Việt Nam. Các khai quật khảo cổ ở khu vực đã chứng tỏ rằng đã có loài người sinh sống ở khu vực này từ thời kỳ đồ đá. Nhiều hiện vật như bình sử, sành, công cụ lao động đã được phát hiện ở đây",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Hàm Trực",
+    "tenGoiKhac" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  } ]
+}, {
+  "tenDiaDiem" : "Quảng Trị",
+  "noiDung" : "Quảng Trị là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam. Từ thời Hùng Vương - An Dương Vương, vùng Quảng Trị ngày nay được cho là thuộc lãnh địa bộ Việt Thường của Nhà nước Văn Lang - Âu Lạc. Đầu thời Hán thuộc (từ năm 179 Trước Công nguyên đến năm 192), Quảng Trị thuộc đất quận Nhật Nam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Hữu Thận",
+    "tenGoiKhac" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
+    "namSinh" : "1757",
+    "namMat" : "1831",
+    "queQuan" : "Quảng Trị"
+  } ]
+}, {
+  "tenDiaDiem" : "Thuận Hóa",
+  "noiDung" : "Thuận Hóa là địa danh hành chính cũ của vùng đất bao gồm Quảng Bình, Quảng Trị, Thừa Thiên-Huế. Đây nguyên là đất các châu Bố Chính, Địa Lý, Ma Linh, Châu Ô, Châu Ri (hay Lý) của Chiêm Thành.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ]
+} ]

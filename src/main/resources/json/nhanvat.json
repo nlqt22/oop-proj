@@ -20,7 +20,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
@@ -32,7 +34,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
@@ -44,7 +48,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Dật" ],
@@ -56,7 +62,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Hào" ],
@@ -68,7 +76,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
@@ -80,7 +90,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
     "namBatDau" : "1698",
@@ -96,7 +108,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Trị"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
@@ -108,7 +122,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Huy Oánh" ],
@@ -120,7 +136,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tĩnh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
@@ -132,7 +150,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tĩnh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Chiêm" ],
@@ -192,7 +212,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nội"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Kim" ],
@@ -204,7 +226,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Lại", "Nghè Bột" ],
@@ -216,7 +240,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Mậu Áng" ],
@@ -228,7 +254,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nội"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Mậu Tuyên" ],
@@ -240,6 +268,8 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
   "danhSachSuKien" : [ ]
 } ]

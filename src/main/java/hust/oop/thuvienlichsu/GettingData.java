@@ -8,5 +8,6 @@ public class GettingData {
         writer.thoiKiFileWriter();
         writer.nhanVatFileWriter();
         writer.suKienFileWriter();
+        writer.diaDiemFileWriter();
     }
 }

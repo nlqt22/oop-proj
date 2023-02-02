@@ -73,10 +73,13 @@ public class SuKien {
         this.danhSachDiaDiem = danhSachDiaDiem;
     }
 
-    public void addNhanVatDTO(NhanVatDTO nhanVatDTO) {
+    public void addNhanVat(NhanVatDTO nhanVatDTO) {
         if(nhanVatDTO != null) this.danhSachNhanVat.add(nhanVatDTO);
     }
 
+    public void addDiaDiem(DiaDiemDTO diaDiemDTO) {
+        if(diaDiemDTO != null) this.danhSachDiaDiem.add(diaDiemDTO);
+    }
     @Override
     public String toString() {
         return "SuKien{" +

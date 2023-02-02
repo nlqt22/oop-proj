@@ -115,15 +115,7 @@ public class NhanVat {
         if(suKienDTO != null) this.danhSachSuKien.add(suKienDTO);
     }
 
-    @Override
-    public String toString() {
-        return "NhanVat{" +
-                "hoTen=" + hoTen +
-                ", namSinh='" + namSinh + '\'' +
-                ", namMat='" + namMat + '\'' +
-                ", queQuan='" + queQuan + '\'' +
-                ", danhSachThoiKi=" + danhSachThoiKi +
-                ", tenThoiKi=" + tenThoiKi +
-                '}';
+    public void addDiaDiem(DiaDiemDTO diaDiemDTO) {
+        if(diaDiemDTO != null) this.danhSachDiaDiem.add(diaDiemDTO);
     }
 }

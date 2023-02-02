@@ -4,6 +4,7 @@ public class SuKienDTO {
     private String tenSuKien;
     private String namBatDau;
     private String namKetThuc;
+
     public SuKienDTO(String tenSuKien, String namBatDau, String namKetThuc) {
         this.tenSuKien = tenSuKien;
         this.namBatDau = namBatDau;

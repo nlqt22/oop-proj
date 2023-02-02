@@ -10,7 +10,9 @@
     "namMat" : "1700",
     "queQuan" : "Thanh Hóa"
   } ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Gia Định"
+  } ]
 }, {
   "tenSuKien" : "Nhà nước Văn Lang ra đời",
   "namDienRa" : "700",
@@ -24,7 +26,9 @@
   "namKetThuc" : "939",
   "dienBien" : "Sau chiến thắng Bạch Đằng năm 938, mưu đồ xâm lược của quân Nam Hán bị đè bẹp, Việt Nam chính thức kết thúc hơn một thiên niên kỉ Bắc thuộc, mở ra một thời kì độc lập lâu dài. Sau chiến thắng này, năm 939 Ngô Quyền lên ngôi vua, chọn Cổ Loa làm kinh đô.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cổ Loa"
+  } ]
 }, {
   "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
   "namDienRa" : "930",
@@ -59,7 +63,9 @@
   "namKetThuc" : "968",
   "dienBien" : "Năm 944 Ngô Quyền mất, năm 945 Dương Tam Kha chiếm ngôi. Nhiều quan lại cựu thần của Ngô Quyền đã nổi lên chống lại Dương Tam Kha, thổ hào các nơi cũng đua nhau nổi dậy. Từ năm 966, hình thành đầy đủ 12 sứ quân chiếm giữ các địa phương. Trong hoàn cảnh nói trên, Đinh Bộ Lĩnh đã liên kết với sứ quân Trần Lãm, chiêu dụ được sứ quân Phạm Bạch Hổ, tiến đánh các sứ quân khác.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hoa Lư"
+  } ]
 }, {
   "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
   "namDienRa" : "981",
@@ -73,7 +79,9 @@
   "namKetThuc" : "1009",
   "dienBien" : "Sau khi Đinh Tiên Hoàng và con là Đinh Liễn bị ám hại, Vệ Vương Toàn lên làm vua, Lê Hoàn làm phụ chính, xưng là Phó Vương. Triều thần sợ Lê Hoàn cướp ngôi vua nhỏ, Định Quốc Công Nguyễn Bặc và ngoại giáp Đinh Điền dẫn quân về kinh đô định giết Lê Hoàn, thua trận bị Lê Hoàn giết. Năm 980, quân Tống nhân cơ hội đem quân sang muốn cướp nước, triều thần và thái hậu Dương Vân Nga đưa Lê Hoàn lên làm vua (vua Lê Đại Hành) lập ra nhà Tiền Lê, đổi niên hiệu là Thiên Phúc, đóng đô ở Hoa Lư. Nhà Tiền Lê trải qua ba đời vua và chấm dứt khi Lê Ngọa Triều qua đời, hoàng tử kế vị đang còn nhỏ tuổi và được kế tục bởi nhà Lý.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hoa Lư"
+  } ]
 }, {
   "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
   "namDienRa" : "1009",
@@ -87,7 +95,9 @@
   "namKetThuc" : "1010",
   "dienBien" : "Cuối năm 1009, Lý Công Uẩn lên ngôi, nhà Lý thành lập. Năm 1010 Lý Công Uẩn đặt niên hiệu là Thuận Thiên, ông ban hành chiếu dời đô để chuyển kinh đô nước Đại Cồ Việt từ Hoa Lư (Ninh Bình) vể Đại La (Hà Nội ngày nay) và đổi tên thành là Thăng Long. Thời Lý, kinh thành Thăng Long đã dần trở thành đô thị phồn thịnh và có quy mô lớn trong cả khu vực và trên thế giới.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hoa Lư"
+  } ]
 }, {
   "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
   "namDienRa" : "905",
@@ -101,7 +111,9 @@
   "namKetThuc" : "679",
   "dienBien" : "Năm 618, nhà Đường được thành lập ở Trung Quốc. Nước ta lại chịu sự thống trị của nhà Đường. Năm 679 nhà Đường đổi Giao Châu thành An Nam đô hộ phủ (sử Trung Quốc bắt đầu gọi ta là An Nam kể từ đó). Với các hình thức và thủ đoạn cai trị xảo quyệt, hà khắc và ngu dân. An Nam đô hộ phủ tương ứng với một phần tây nam Quảng Tây (Trung Quốc), Miền Bắc và miền Trung Việt Nam ngày nay, có địa bàn từ Hà Tĩnh trở ra.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Giao Châu"
+  } ]
 }, {
   "tenSuKien" : "Triệu Quang Phục giành lại độc lập",
   "namDienRa" : "550",
@@ -129,7 +141,9 @@
   "namKetThuc" : "248",
   "dienBien" : "Khi nhà Ngô xâm lược đất nước, chế độ áp bức và bóc lột của nhà Ngô trên nước ta vô cùng tàn bạo. Khi được vua Ngô cử sang làm thứ sử nước ta, Chu Phù và bọn tay chân của hắn ngang ngược hoành hành, thẳng tay cướp bóc tài sản của nhân dân Việt Nam. Nhân dân ta bị cưỡng bức phải đi kiếm các thứ như hương thơm, hạt trai, ngọc lưu ly, đồi mồi, ngà voi nộp cho vua Ngô. Mùa nào thức ấy, nhân dân ta còn phải nộp các thứ quả lạ như chuối tiêu, dứa, nhãn… để cung đốn cho bọn quan lại nhà Ngô. Không cam chịu áp bức bóc lột, dân ta đã nổi lên ở nhiều nơi. Giữa thế kỉ III, ở quận Cửu Chân đã nổi lên cuộc khởi nghĩa của bà Triệu. Năm 19 tuồi bà đã cùng anh trai Triệu Quốc Đạt một hào trưởng lớn ở miền núi Quan yên, thuộc quận Cửu Chân (Yên Định, Thanh Hóa) tập hợp nhiều nghĩa sĩ trên đỉnh núi Nưa, mài gươm luyện võ, chuẩn bị khởi nghĩa.",
   "danhSachNhanVat" : [ ],
-  "danhSachDiaDiem" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ]
 }, {
   "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
   "namDienRa" : "42",

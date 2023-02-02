@@ -19,6 +19,7 @@ public class DiaDiemScraper {
     public DiaDiemScraper() {
         this.danhSachDiaDiem = new ArrayList<>();
         scrap();
+        System.out.println("Scraping for Dia Diem is done !");
     }
 
     public List<DiaDiem> getDanhSachDiaDiem() {
