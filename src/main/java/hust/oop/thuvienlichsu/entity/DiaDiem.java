@@ -45,4 +45,13 @@ public class DiaDiem {
         return "DiaDiem [tenDiaDiem=" + tenDiaDiem + ", noiDung=" + noiDung + ", tenSuKien=" + tenSuKien
                 + ", tenNhanVat=" + tenNhanVat + "]";
     }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getTenDiaDiem().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
+    }
 }

@@ -1,7 +1,5 @@
 package hust.oop.thuvienlichsu.JavaFx.Controller;
 
-import hust.oop.thuvienlichsu.entity.NhanVat;
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -14,8 +12,8 @@ public class detail {
     @FXML
     public TextArea detailField;
 
-    public NhanVat element;
-    public detail(NhanVat name){
+    public Object element;
+    public detail(Object name){
         this.element = name;
     }
 

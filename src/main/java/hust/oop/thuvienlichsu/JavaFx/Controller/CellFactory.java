@@ -5,18 +5,21 @@ import javafx.util.Callback;
 import javafx.scene.control.ListCell;
 
 import hust.oop.thuvienlichsu.entity.NhanVat;
+import hust.oop.thuvienlichsu.entity.ThoiKi;
 
-public class CellFactory implements Callback<ListView<NhanVat>, ListCell<NhanVat>> {
+public class CellFactory implements Callback<ListView<Object>, ListCell<Object>> {
     @Override
-    public ListCell<NhanVat> call(ListView<NhanVat> param) {
+    public ListCell<Object> call(ListView<Object> param) {
         return new ListCell<>(){
             @Override
-            public void updateItem(NhanVat person, boolean empty) {
-                super.updateItem(person, empty);
-                if (empty || person == null) {
+            public void updateItem(Object element, boolean empty) {
+                super.updateItem(element, empty);
+                if (empty || element == null) {
                     setText(null);
-                } else {
-                    setText(person.getHoTen().toString().replace("[", "").replace("]", ""));
+                } else if(element instanceof NhanVat){
+                    setText(((NhanVat) element).getHoTen().toString().replace("[", "").replace("]", ""));
+                } else if(element instanceof ThoiKi){
+                    setText(((ThoiKi) element).getTenThoiKi().toString().replace("[", "").replace("]", ""));
                 }
             }
         };

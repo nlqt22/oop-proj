@@ -1,22 +1,7 @@
 package hust.oop.thuvienlichsu;
 
 import hust.oop.thuvienlichsu.JavaFx.Controller.searchScreen;
-import hust.oop.thuvienlichsu.mapping.DataMapping;
-import hust.oop.thuvienlichsu.scraper.DiaDiemScraper;
-import hust.oop.thuvienlichsu.scraper.NhanVatScraper;
-import hust.oop.thuvienlichsu.scraper.SuKienScraper;
-import hust.oop.thuvienlichsu.utils.StringFormater;
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
 import java.io.IOException;
-import java.util.List;
 
 public class ThuVienLichSu{
     // @Override

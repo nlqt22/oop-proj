@@ -11,9 +11,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
  
 public class detailScreen extends JFrame {
-    private NhanVat name;
+    private Object name;
     
-    public detailScreen(NhanVat name){
+    public detailScreen(Object name){
         this.name = name;
 
         JFXPanel fxPanel = new JFXPanel();
