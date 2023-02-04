@@ -9,6 +9,9 @@ public class NhanVatDTO {
     private String namMat;
     private String queQuan;
 
+    public NhanVatDTO(){
+    }
+
     public NhanVatDTO(String hoTen, List<String> tenGoiKhac, String namSinh, String namMat, String queQuan) {
         this.hoTen = hoTen;
         this.tenGoiKhac = tenGoiKhac;

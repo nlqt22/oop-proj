@@ -20,7 +20,7 @@ public class NhanVat {
     private List<String> tenSuKien = new ArrayList<>();
     private List<String> tenDiaDiem = new ArrayList<>();
 
-    public NhanVat() {
+    public NhanVat(){
     }
 
     public List<String> getHoTen() {
@@ -117,5 +117,22 @@ public class NhanVat {
 
     public void addDiaDiem(DiaDiemDTO diaDiemDTO) {
         if(diaDiemDTO != null) this.danhSachDiaDiem.add(diaDiemDTO);
+    }
+
+    @Override
+    public String toString() {
+        return "NhanVat [hoTen=" + hoTen + ", namSinh=" + namSinh + ", namMat=" + namMat + ", queQuan=" + queQuan
+                + ", danhSachThoiKi=" + danhSachThoiKi + ", danhSachDiaDiem=" + danhSachDiaDiem + ", danhSachSuKien="
+                + danhSachSuKien + ", tenThoiKi=" + tenThoiKi + ", tenSuKien=" + tenSuKien + ", tenDiaDiem="
+                + tenDiaDiem + "]";
+    }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getHoTen().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
     }
 }

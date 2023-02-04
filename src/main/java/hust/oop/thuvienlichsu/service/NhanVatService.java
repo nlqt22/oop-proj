@@ -4,7 +4,6 @@ import hust.oop.thuvienlichsu.entity.NhanVat;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 public class NhanVatService {
     private List<NhanVat> danhSachNhanVat = new ArrayList<>();

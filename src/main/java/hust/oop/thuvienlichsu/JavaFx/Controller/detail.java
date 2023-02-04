@@ -1,6 +1,5 @@
 package hust.oop.thuvienlichsu.JavaFx.Controller;
 
-import hust.oop.thuvienlichsu.entity.DiaDiem;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -13,8 +12,8 @@ public class detail {
     @FXML
     public TextArea detailField;
 
-    public DiaDiem element;
-    public detail(DiaDiem name){
+    public Object element;
+    public detail(Object name){
         this.element = name;
     }
 

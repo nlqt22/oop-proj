@@ -5,9 +5,6 @@ public class ThoiKi {
     private String namBatDau;
     private String namKetThuc;
 
-    public ThoiKi() {
-    }
-
     public String getTenThoiKi() {
         return tenThoiKi;
     }
@@ -35,5 +32,14 @@ public class ThoiKi {
     @Override
     public String toString() {
         return this.tenThoiKi + "(" + this.namBatDau + "-" + this.namKetThuc + ")";
+    }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getTenThoiKi().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
     }
 }

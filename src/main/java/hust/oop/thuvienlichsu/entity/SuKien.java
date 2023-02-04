@@ -92,4 +92,13 @@ public class SuKien {
                 ", danhSachDiaDiem=" + danhSachDiaDiem +
                 '}';
     }
+
+    public boolean filterProperty(String filter) {
+        if (filter == null || filter.isEmpty()) {
+            return true;
+        } else if (this.getTenSuKien().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+    		return true;
+        }
+        return false;
+    }
 }

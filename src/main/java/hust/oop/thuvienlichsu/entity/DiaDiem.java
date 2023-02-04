@@ -16,6 +16,9 @@ public class DiaDiem {
     private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
     private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
 
+    public DiaDiem(){
+    }
+
     public String getTenDiaDiem() {
         return tenDiaDiem;
     }
@@ -78,11 +81,10 @@ public class DiaDiem {
                 + ", tenNhanVat=" + tenNhanVat + "]";
     }
 
-
     public boolean filterProperty(String filter) {
         if (filter == null || filter.isEmpty()) {
             return true;
-        } else if (this.getTenDiaDiem().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
+        } else if (this.getTenDiaDiem().toString().toLowerCase().indexOf(filter.toLowerCase()) != -1) {
     		return true;
         }
         return false;
