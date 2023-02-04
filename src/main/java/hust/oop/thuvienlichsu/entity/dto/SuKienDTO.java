@@ -37,4 +37,8 @@ public class SuKienDTO {
         this.namKetThuc = namKetThuc;
     }
 
+    @Override
+    public String toString() {
+        return "\n\t\ttenSuKien=" + tenSuKien + ", namBatDau=" + namBatDau + ", namKetThuc=" + namKetThuc;
+    }
 }

@@ -31,7 +31,7 @@ public class ThoiKi {
 
     @Override
     public String toString() {
-        return this.tenThoiKi + "(" + this.namBatDau + "-" + this.namKetThuc + ")";
+        return this.tenThoiKi + " (" + this.namBatDau + " - " + this.namKetThuc + ")";
     }
 
     public boolean filterProperty(String filter) {

@@ -77,8 +77,9 @@ public class DiaDiem {
 
     @Override
     public String toString() {
-        return "DiaDiem [tenDiaDiem=" + tenDiaDiem + ", noiDung=" + noiDung + ", tenSuKien=" + tenSuKien
-                + ", tenNhanVat=" + tenNhanVat + "]";
+        return "DiaDiem [\n\ttenDiaDiem=" + tenDiaDiem + ",\n\tnoiDung=" + noiDung + ",\n\ttenSuKien=" + tenSuKien
+                + ",\n\ttenNhanVat=" + tenNhanVat + ",\n\tdanhSachSuKien=" + danhSachSuKien + ",\n\tdanhSachNhanVat="
+                + danhSachNhanVat + "\n]";
     }
 
     public boolean filterProperty(String filter) {

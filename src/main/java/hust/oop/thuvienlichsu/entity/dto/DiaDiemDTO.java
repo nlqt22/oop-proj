@@ -18,4 +18,8 @@ public class DiaDiemDTO {
         this.tenDiaDiem = tenDiaDiem;
     }
 
+    @Override
+    public String toString() {
+        return tenDiaDiem;
+    }
 }

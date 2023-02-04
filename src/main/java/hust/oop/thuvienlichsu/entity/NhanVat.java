@@ -5,6 +5,7 @@ import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
 import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 @JsonIgnoreProperties(value = {"tenThoiKi" ,"tenSuKien", "tenDiaDiem"})
@@ -121,10 +122,9 @@ public class NhanVat {
 
     @Override
     public String toString() {
-        return "NhanVat [hoTen=" + hoTen + ", namSinh=" + namSinh + ", namMat=" + namMat + ", queQuan=" + queQuan
-                + ", danhSachThoiKi=" + danhSachThoiKi + ", danhSachDiaDiem=" + danhSachDiaDiem + ", danhSachSuKien="
-                + danhSachSuKien + ", tenThoiKi=" + tenThoiKi + ", tenSuKien=" + tenSuKien + ", tenDiaDiem="
-                + tenDiaDiem + "]";
+        return "NhanVat [\n\thoTen=" + hoTen + ",\n\tnamSinh=" + namSinh + ",\n\tnamMat=" + namMat + ",\n\tqueQuan=" + queQuan
+                + ",\n\tdanhSachThoiKi=" + Arrays.toString(danhSachThoiKi.toArray()) + ",\n\tdanhSachDiaDiem=" + danhSachDiaDiem.toString() + ",\n\tdanhSachSuKien="
+                + danhSachSuKien.toString() + "\n]";
     }
 
     public boolean filterProperty(String filter) {

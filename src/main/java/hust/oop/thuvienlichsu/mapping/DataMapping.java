@@ -31,6 +31,7 @@ public class DataMapping {
     private List<ThoiKi> danhSachThoiKi;
     private List<SuKien> danhSachSuKien;
     private List<DiaDiem> danhSachDiaDiem;
+    
     public DataMapping() {
 
         thoiKiScraper = new ThoiKiScraper();

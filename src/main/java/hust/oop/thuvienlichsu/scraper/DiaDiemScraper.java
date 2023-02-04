@@ -15,6 +15,7 @@ import java.util.List;
 public class DiaDiemScraper {
     private final String URL = "https://thuvienlichsu.com/dia-diem";
     private final String ROOT = "https://thuvienlichsu.com";
+    private final String PAGE = "?page=";
     private int count = 0;
     private final int START_PAGE = 1;
     private final int END_PAGE = 6;
@@ -80,8 +81,8 @@ public class DiaDiemScraper {
 
     private void scrap() {
         try {
-            Document doc = Jsoup.connect(URL).get();
             for(int i = START_PAGE; i <= END_PAGE; i++) {
+                Document doc = Jsoup.connect(URL + PAGE + String.valueOf(i)).get();
                 Elements result = doc.select(".divide-content .card-body a.click");
                 for(int j = 0; j < result.size(); j++) {
                     this.danhSachDiaDiem.add(scrapInSubUrl(ROOT + result.get(j).attr("href")));
@@ -91,12 +92,6 @@ public class DiaDiemScraper {
 
         } catch (IOException ex) {
             ex.printStackTrace();
-        }
-    }
-
-    public void printListDiaDiem() {
-        for(DiaDiem diaDiem : danhSachDiaDiem) {
-            System.out.println(diaDiem.getTenDiaDiem());
         }
     }
 }

@@ -20,11 +20,11 @@ public class CellFactory implements Callback<ListView<Object>, ListCell<Object>>
                 } else if(obj instanceof NhanVat){
                     setText(((NhanVat) obj).getHoTen().toString().replace("[", "").replace("]", ""));
                 } else if(obj instanceof ThoiKi){
-                    setText(((ThoiKi) obj).getTenThoiKi().toString());
+                    setText(((ThoiKi) obj).getTenThoiKi());
                 } else if(obj instanceof DiaDiem){
-                    setText(((DiaDiem) obj).getTenDiaDiem().toString());
+                    setText(((DiaDiem) obj).getTenDiaDiem());
                 } else if(obj instanceof SuKien){
-                    setText(((SuKien) obj).getTenSuKien().toString());
+                    setText(((SuKien) obj).getTenSuKien());
                 }
             }
         };

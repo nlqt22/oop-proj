@@ -56,7 +56,9 @@
     "namBatDau" : "2000 trCN",
     "namKetThuc" : "258 trCN"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Cường Bạo Đại Vương" ],
@@ -68,7 +70,9 @@
     "namBatDau" : "2000 trCN",
     "namKetThuc" : "258 trCN"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồng Bàng" ],
@@ -93,7 +97,11 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
+    "namBatDau" : "207",
+    "namKetThuc" : "207"
+  } ]
 }, {
   "hoTen" : [ "Kinh Dương Vương" ],
   "namSinh" : "Không rõ",
@@ -142,7 +150,9 @@
     "namBatDau" : "2000 trCN",
     "namKetThuc" : "258 trCN"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Sùng Lãm", "Lạc Long Quân" ],
@@ -166,7 +176,9 @@
     "namBatDau" : "257 trCN",
     "namKetThuc" : "208 trCN"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Thục Phán", "An Dương Vương" ],
@@ -179,7 +191,19 @@
     "namKetThuc" : "208 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nước Âu lạc bị quân Triệu Đà xâm chiếm",
+    "namBatDau" : "179",
+    "namKetThuc" : "179"
+  }, {
+    "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
+    "namBatDau" : "207",
+    "namKetThuc" : "207"
+  }, {
+    "tenSuKien" : "Kháng chiến chống quân xâm lược Tần",
+    "namBatDau" : null,
+    "namKetThuc" : null
+  } ]
 }, {
   "hoTen" : [ "Bốc Long" ],
   "namSinh" : "Không rõ",
@@ -228,7 +252,9 @@
     "namBatDau" : "40",
     "namKetThuc" : "43"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Phúc"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
@@ -240,7 +266,11 @@
     "namBatDau" : "40",
     "namKetThuc" : "43"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Phúc"
+  }, {
+    "tenDiaDiem" : "Vĩnh Phúc"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Hạp" ],
@@ -268,7 +298,9 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Pháp Thuận" ],
@@ -300,7 +332,9 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bạch Hoa" ],
@@ -327,16 +361,6 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
     "tenDiaDiem" : "Thanh Hóa"
   }, {
     "tenDiaDiem" : "Thanh Hóa"
@@ -376,7 +400,9 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Long Đinh" ],
@@ -388,7 +414,9 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Long Đĩnh" ],
@@ -400,28 +428,10 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
@@ -436,7 +446,9 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Ngân Tích" ],
@@ -448,8 +460,14 @@
     "namBatDau" : "980",
     "namKetThuc" : "1009"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  } ]
 }, {
   "hoTen" : [ "Ngô Chân Lưu", "Khuông Việt" ],
   "namSinh" : "933",
@@ -507,26 +525,6 @@
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
   } ]
 }, {
   "hoTen" : [ "Vạn Hạnh", "Nguyễn Vạn Hạnh" ],
@@ -542,28 +540,10 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
-  }, {
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
@@ -578,7 +558,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bản Tịch", "Pháp Mật" ],
@@ -590,7 +572,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nộn" ],
@@ -602,7 +586,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Quảng Nghiêm", "Quảng Nghiêm" ],
@@ -614,7 +600,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Trí Bảo" ],
@@ -692,7 +680,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Thọ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phan Trường Nguyên" ],
@@ -704,7 +694,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Pháp Bảo" ],
@@ -756,16 +748,6 @@
   } ],
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
   } ],
   "danhSachSuKien" : [ ]
 }, {
@@ -816,7 +798,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Viên Thông" ],
@@ -828,7 +812,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vương Hải Thiềm" ],
@@ -840,7 +826,9 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Ỷ Lan", "Lê Thị Yến Loan" ],
@@ -852,8 +840,16 @@
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  }, {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
+    "namBatDau" : "1070",
+    "namKetThuc" : "1070"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Thuyên" ],
   "namSinh" : "Không rõ",
@@ -876,8 +872,14 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ban hành Quốc triều hình luật",
+    "namBatDau" : "1230",
+    "namKetThuc" : "1230"
+  } ]
 }, {
   "hoTen" : [ "Phạm Bân", "Phạm Công Bân" ],
   "namSinh" : "Không rõ",
@@ -924,7 +926,9 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Nhân Khanh", "Cổ Sơn" ],
@@ -962,7 +966,9 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Bình Trọng" ],
@@ -974,7 +980,9 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Cảnh", "Trần Thái Tông" ],
@@ -986,8 +994,26 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
+    "namBatDau" : "1226",
+    "namKetThuc" : "1226"
+  }, {
+    "tenSuKien" : "Ban hành Quốc triều hình luật",
+    "namBatDau" : "1230",
+    "namKetThuc" : "1230"
+  }, {
+    "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
+    "namBatDau" : "1253",
+    "namKetThuc" : "1253"
+  }, {
+    "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
+    "namBatDau" : "1258",
+    "namKetThuc" : "1258"
+  } ]
 }, {
   "hoTen" : [ "Trần Hạo", "Trần Dụ Tông" ],
   "namSinh" : "1336",
@@ -1010,8 +1036,18 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
+    "namBatDau" : "1076",
+    "namKetThuc" : "1076"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  } ]
 }, {
   "hoTen" : [ "Trần Ích Tắc" ],
   "namSinh" : "Không rõ",
@@ -1035,7 +1071,11 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  } ]
 }, {
   "hoTen" : [ "Trần Khánh Dư" ],
   "namSinh" : "Không rõ",
@@ -1047,7 +1087,15 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Trận Vân Đồn",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  } ]
 }, {
   "hoTen" : [ "Trần Khát Chân" ],
   "namSinh" : "1370",
@@ -1073,7 +1121,11 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  } ]
 }, {
   "hoTen" : [ "Trần Mạnh", "Trần Minh Tông" ],
   "namSinh" : "1300",
@@ -1084,7 +1136,9 @@
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Ngạc" ],
@@ -1122,7 +1176,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Dục Tài" ],
@@ -1148,7 +1204,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Đoan Giáo" ],
@@ -1212,7 +1270,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Cao Quýnh" ],
@@ -1276,7 +1336,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Dương Tôn Hải" ],
@@ -1288,7 +1350,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Dương Trực Nguyên" ],
@@ -1314,7 +1378,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đàm Thận Huy" ],
@@ -1326,7 +1392,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đàm Văn Lễ" ],
@@ -1338,7 +1406,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Chiêm" ],
@@ -1364,7 +1434,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lý Tử Tấn", "Chuyết Am" ],
@@ -1376,7 +1448,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Mạc Bang Hộ", "Võ Hộ" ],
@@ -1400,7 +1474,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nghiêm Hiến" ],
@@ -1412,7 +1488,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nghiêm Ích Khiêm" ],
@@ -1424,7 +1502,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nghiêm Viến" ],
@@ -1436,7 +1516,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Ngô Chi Lan", "Nguyễn Hạ Huệ" ],
@@ -1474,7 +1556,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Ngô Thị Ngọc Dao" ],
@@ -1514,7 +1598,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Bá Kí" ],
@@ -1526,7 +1612,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Bảo", "Châu Khê" ],
@@ -1538,7 +1626,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Địch Tâm" ],
@@ -1550,7 +1640,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đức Trung", "Nguyễn Văn Thường" ],
@@ -1576,7 +1668,11 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  }, {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hãng", "Nại Hiên" ],
@@ -1588,7 +1684,9 @@
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Thọ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Lí" ],
@@ -1615,9 +1713,15 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Giang"
+  }, {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ]
 }, {
   "hoTen" : [ "Hà Nhậm Đại" ],
   "namSinh" : "1525",
@@ -1628,7 +1732,9 @@
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Phúc"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Bôi" ],
@@ -1682,7 +1788,9 @@
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Sĩ Khải" ],
@@ -1694,7 +1802,9 @@
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lại Thế Khanh" ],
@@ -1747,7 +1857,11 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
+    "namBatDau" : "1483",
+    "namKetThuc" : "1483"
+  } ]
 }, {
   "hoTen" : [ "Lê Duy Huyên", "Lê Trung Tông" ],
   "namSinh" : "1535",
@@ -1770,7 +1884,9 @@
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Quang Bí", "Lê Quang Bôn" ],
@@ -1794,7 +1910,9 @@
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lương Hữu Khánh" ],
@@ -1845,7 +1963,27 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  } ]
 }, {
   "hoTen" : [ "Mạc Đôn Nhượng" ],
   "namSinh" : "Không rõ",
@@ -1868,7 +2006,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Chất" ],
@@ -1880,7 +2020,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Đại Độ" ],
@@ -1904,8 +2046,14 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  } ]
 }, {
   "hoTen" : [ "Đặng Đình Gián" ],
   "namSinh" : "Không rõ",
@@ -1916,7 +2064,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Đình Lân" ],
@@ -1942,7 +2092,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Đức Thuật" ],
@@ -1954,7 +2106,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bình Thuận"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Hữu Tâm" ],
@@ -1992,7 +2146,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Tiến Thự" ],
@@ -2004,7 +2160,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đặng Trần Côn" ],
@@ -2030,7 +2188,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đào Công Chính" ],
@@ -2193,7 +2353,15 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ]
 }, {
   "hoTen" : [ "Lê Duy Kỳ", "Lê Thần Tông" ],
   "namSinh" : "1607",
@@ -2264,7 +2432,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Duy Thìn", "Lê Ý Tông" ],
@@ -2364,7 +2534,11 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  }, {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
@@ -2379,7 +2553,23 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Phong trào Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
   "namSinh" : "1713",
@@ -2393,7 +2583,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
   "namSinh" : "1524",
@@ -2453,26 +2647,6 @@
     "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
     "namBatDau" : "1698",
     "namKetThuc" : "1698"
-  }, {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
-  }, {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
-  }, {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
-  }, {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
-  }, {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
   } ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
@@ -2499,6 +2673,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  }, {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
   "danhSachSuKien" : [ ]
@@ -2552,7 +2728,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Kiên" ],
@@ -2564,7 +2742,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Toàn", "Nguyễn Khoa Thuyên" ],
@@ -2576,7 +2756,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Kiều", "Hạo Hiên" ],
@@ -2605,7 +2787,19 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Lại", "Nghè Bột" ],
   "namSinh" : "1511",
@@ -2659,16 +2853,6 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
     "tenDiaDiem" : "Thanh Hóa"
   }, {
     "tenDiaDiem" : "Thanh Hóa"
@@ -2753,7 +2937,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  } ]
 }, {
   "hoTen" : [ "Trịnh Tùng", "Bình An Vương" ],
   "namSinh" : "1550",
@@ -2767,7 +2955,15 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  } ]
 }, {
   "hoTen" : [ "Trương Phúc Loan" ],
   "namSinh" : "Không rõ",
@@ -2842,7 +3038,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Diệm" ],
@@ -2892,7 +3090,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Đức Nghiêm", "Minh Giác" ],
@@ -2904,7 +3104,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Miên" ],
@@ -2916,7 +3118,9 @@
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
@@ -2928,7 +3132,9 @@
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Long", "Đô Đốc Long" ],
@@ -2940,7 +3146,9 @@
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Thủ" ],
@@ -2952,7 +3160,9 @@
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Ngô Văn Sở" ],
@@ -2989,7 +3199,15 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Nhạc", "Trung Ương Hoàng Đế" ],
   "namSinh" : "Không rõ",
@@ -3001,7 +3219,19 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Cảnh", "Hoàng Tử Cảnh" ],
   "namSinh" : "1779",
@@ -3048,7 +3278,9 @@
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trương Văn Đa" ],
@@ -3073,7 +3305,11 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ]
 }, {
   "hoTen" : [ "Hồ Văn Bôi" ],
   "namSinh" : "Không rõ",
@@ -3134,7 +3370,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "An Thường", "Tam Xuân", "Lương Đức" ],
@@ -3146,7 +3384,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Âu Dương Lân" ],
@@ -3158,7 +3398,11 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  }, {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bạch Công Trân" ],
@@ -3170,7 +3414,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đào Doãn Địch" ],
@@ -3220,7 +3466,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đẩu Nương" ],
@@ -3232,7 +3480,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đinh Công Mĩ" ],
@@ -3336,7 +3586,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Công Tường" ],
@@ -3348,7 +3600,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Đăng Đệ" ],
@@ -3360,7 +3614,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Hải Thuận" ],
@@ -3386,7 +3642,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Huy Uyển", "Tân Giang" ],
@@ -3398,7 +3656,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Minh Tâm", "Đỗ Như Tâm", "Minh Giám" ],
@@ -3410,7 +3670,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Long"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Quang" ],
@@ -3448,7 +3710,11 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thừa Thiên-Huế"
+  }, {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Quang Quan", "Lê Tán Kế" ],
@@ -3460,7 +3726,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Sĩ" ],
@@ -3486,7 +3754,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Trọng Đôn" ],
@@ -3512,7 +3782,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Tuấn" ],
@@ -3527,7 +3799,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
+    "namBatDau" : "1874",
+    "namKetThuc" : "1874"
+  } ]
 }, {
   "hoTen" : [ "Lê Văn Duyệt" ],
   "namSinh" : "1763",
@@ -3538,8 +3814,14 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  } ]
 }, {
   "hoTen" : [ "Lê Văn Gẫm" ],
   "namSinh" : "1813",
@@ -3550,7 +3832,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Nai"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Khôi" ],
@@ -3565,7 +3849,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  } ]
 }, {
   "hoTen" : [ "Lê Văn Lộc" ],
   "namSinh" : "1830",
@@ -3579,7 +3867,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ]
 }, {
   "hoTen" : [ "Lê Vĩnh Khanh" ],
   "namSinh" : "1819",
@@ -3590,7 +3882,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lữ Xuân Uy", "Thúc Bào" ],
@@ -3602,7 +3896,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lưu Đình Lễ" ],
@@ -3654,7 +3950,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Mai Xuân Thưởng" ],
@@ -3678,7 +3976,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Văn Diêu", "Tú Nhơn Ân" ],
@@ -3702,7 +4002,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Văn Giao" ],
@@ -3728,7 +4030,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Văn Hoành", "Nguyễn Hựu Hoành" ],
@@ -3740,7 +4044,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cao Bằng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Văn Linh" ],
@@ -3752,7 +4058,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Văn Siêu", "Tốn Ban", "Phương Đình" ],
@@ -3792,7 +4100,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Ôn", "Ngọc Đường", "Lương Giang", "Hiến Đình" ],
@@ -3832,7 +4142,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cao Bằng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Đăng Giảng" ],
@@ -3844,7 +4156,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Đình Dục", "Mộng Phủng", "Loát Trúc Đạo Nhân", "Văn Sử Thị" ],
@@ -3932,7 +4246,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Duy Đề" ],
@@ -3944,7 +4260,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Duy Ninh" ],
@@ -3956,7 +4274,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Duy Thanh", "Trạng Bồng" ],
@@ -3968,7 +4288,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Đăng Xuân", "Võ Tấn Thượng" ],
@@ -3980,7 +4302,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Đức Khuê" ],
@@ -4030,7 +4354,9 @@
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vũ Tông Phan", "Hoán Phủ", "Lỗ Am", "Đường Xuyên" ],
@@ -4086,7 +4412,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Như Quảng", "Đốc Đen" ],
@@ -4102,7 +4430,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Cầm Bá Thước" ],
@@ -4170,7 +4500,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Châu Thuợng Văn" ],
@@ -4186,7 +4518,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đinh Công Tráng" ],
@@ -4202,8 +4536,14 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  } ]
 }, {
   "hoTen" : [ "Đinh Nho Quang" ],
   "namSinh" : "Không rõ",
@@ -4236,7 +4576,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Tôn Thất Thuyết" ],
@@ -4252,8 +4594,26 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Phong trào Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  } ]
 }, {
   "hoTen" : [ "Tống Duy Tân" ],
   "namSinh" : "1837",
@@ -4271,7 +4631,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
+    "namBatDau" : "1887",
+    "namKetThuc" : "1892"
+  } ]
 }, {
   "hoTen" : [ "Tổng Lung" ],
   "namSinh" : "Không rõ",
@@ -4304,7 +4668,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "An Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đình Phong", "Mã Sơn" ],
@@ -4341,7 +4707,11 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Quý Mùi",
+    "namBatDau" : "Hiệp ước Harmand",
+    "namKetThuc" : "Hiệp ước Harmand"
+  } ]
 }, {
   "hoTen" : [ "Trần Hữu Thường" ],
   "namSinh" : "1844",
@@ -4356,7 +4726,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Lục", "Cha Sáu" ],
@@ -4408,7 +4780,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Trọng Cung" ],
@@ -4442,7 +4816,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Thọ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Viết Thọ" ],
@@ -4494,7 +4870,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trương Quang Đản", "Trương Đăng Đản", "Tử Minh", "Cúc Viên" ],
@@ -4510,7 +4888,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trương Quang Ngọc" ],
@@ -4544,7 +4924,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trương Văn Thám", "Hoàng Hoa Thám", "Trương Văn Nghĩa" ],
@@ -4560,8 +4942,18 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  } ]
 }, {
   "hoTen" : [ "Đặng Văn Bá" ],
   "namSinh" : "1877",
@@ -4586,7 +4978,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đào Thành Đô" ],
@@ -4676,7 +5070,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đinh Hữu Thuật" ],
@@ -4688,7 +5084,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đinh Kinh Luân" ],
@@ -4712,7 +5110,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đinh Quang Nhường" ],
@@ -4774,7 +5174,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Đỗ Ngọc Du" ],
@@ -4822,7 +5224,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Khiết", "An Ba", "Lê Thứu Khiết" ],
@@ -4834,7 +5238,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Khoan Hoằng" ],
@@ -4872,7 +5278,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Ngung" ],
@@ -4884,7 +5292,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Phát An" ],
@@ -4920,7 +5330,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cần Thơ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Quang Nhơn", "Thường Tiên" ],
@@ -4932,7 +5344,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Long"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Quang Sung" ],
@@ -4944,7 +5358,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Quang Trinh" ],
@@ -4956,7 +5372,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Sum", "Trường Mậu" ],
@@ -4968,7 +5386,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Tấn Bê" ],
@@ -4994,7 +5414,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Thế Hiếu" ],
@@ -5048,7 +5470,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Trực" ],
@@ -5074,7 +5498,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tuyên Quang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Minh Hòe" ],
@@ -5086,7 +5512,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nam Thông" ],
@@ -5098,7 +5526,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nghiêm" ],
@@ -5110,7 +5540,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Ngọc Bích" ],
@@ -5122,7 +5554,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Ngọc Tương" ],
@@ -5134,7 +5568,11 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cà Mau"
+  }, {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nhu", "Nguyễn Văn Sử" ],
@@ -5146,7 +5584,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nhự" ],
@@ -5158,7 +5598,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nhuận" ],
@@ -5170,7 +5612,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Nhược Pháp" ],
@@ -5196,7 +5640,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phong Di" ],
@@ -5236,7 +5682,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Bửu Đình", "Bửu Đình", "Hà Trì" ],
@@ -5248,7 +5696,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Hồng Dật", "Hiệp Hòa" ],
@@ -5260,7 +5710,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Chân", "Dục Đức" ],
@@ -5272,7 +5724,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Đăng", "Kiến Phúc" ],
@@ -5284,7 +5738,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Ki", "Đồng Khánh" ],
@@ -5296,7 +5752,11 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  }, {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Lịch", "Hàm Nghi" ],
@@ -5308,7 +5768,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Nhân Thuần" ],
@@ -5320,7 +5782,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Quỳnh", "Thượng Chi", "Hồng Nhân" ],
@@ -5344,7 +5808,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Văn Chí" ],
@@ -5398,7 +5864,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phan Bội Châu", "Phan Văn San", "Sào Nam", "Hải Thu", "Thị Hán", "Độc Tĩnh Tử", "Hãn Mạn Tử" ],
@@ -5413,7 +5881,27 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Hội Duy Tân được thành lập",
+    "namBatDau" : "1904",
+    "namKetThuc" : "1904"
+  }, {
+    "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
+    "namBatDau" : "1912",
+    "namKetThuc" : "1912"
+  }, {
+    "tenSuKien" : "Phong trào Đông Du",
+    "namBatDau" : "1905",
+    "namKetThuc" : "1908"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  } ]
 }, {
   "hoTen" : [ "Phan Châu Trinh", "Phan Chu Trinh", "Tây Hồ", "Tử Cán", "Hi Mã" ],
   "namSinh" : "1872",
@@ -5424,8 +5912,18 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  } ]
 }, {
   "hoTen" : [ "Phan Đăng Lưu" ],
   "namSinh" : "1902",
@@ -5481,17 +5979,13 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   }, {
-    "tenDiaDiem" : "Hà Tĩnh"
-  }, {
-    "tenDiaDiem" : "Hà Tĩnh"
-  }, {
-    "tenDiaDiem" : "Hà Tĩnh"
-  }, {
-    "tenDiaDiem" : "Hà Tĩnh"
-  }, {
-    "tenDiaDiem" : "Hà Tĩnh"
+    "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Hương Khê",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  } ]
 }, {
   "hoTen" : [ "Phan Huấn Chương", "Phan Văn Tí" ],
   "namSinh" : "1900",
@@ -5502,7 +5996,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vĩnh Long"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phan Kế Bính", "Bưu Văn" ],
@@ -5515,16 +6011,6 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
-    "tenDiaDiem" : "Hà Nội"
-  }, {
     "tenDiaDiem" : "Hà Nội"
   }, {
     "tenDiaDiem" : "Hà Nội"
@@ -5554,7 +6040,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phan Ngọc Hiển", "Giáo Hiền" ],
@@ -5566,7 +6054,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cần Thơ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phan Phát Sanh", "Phan Xích Long" ],
@@ -5592,8 +6082,14 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  } ]
 }, {
   "hoTen" : [ "Vũ Phạm Hàm", "Mộng Hải", "Thư Trì" ],
   "namSinh" : "1864",
@@ -5604,7 +6100,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vũ Trọng Can" ],
@@ -5644,7 +6142,9 @@
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vương Thúc Mậu" ],
@@ -5674,7 +6174,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bông Văn Dĩa" ],
@@ -5690,7 +6192,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cà Mau"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Biên" ],
@@ -5706,7 +6210,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Công Trừng" ],
@@ -5722,7 +6228,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Đình Diệm", "Quang Dũng" ],
@@ -5756,7 +6264,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Hữu Sủng" ],
@@ -5806,7 +6316,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Kiến Tín", "Bùi Thử" ],
@@ -5822,7 +6334,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Kỷ" ],
@@ -5838,7 +6352,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Lâm" ],
@@ -5854,7 +6370,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Phong Tư", "Nguyễn Đức Thuận" ],
@@ -5870,7 +6388,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Thị Hậu" ],
@@ -5886,7 +6406,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Bùi Tường Chiểu" ],
@@ -5938,7 +6460,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Huệ Bá" ],
@@ -5954,7 +6478,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "An Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Hữu Tường" ],
@@ -5970,7 +6496,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cần Thơ"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Liên", "Hoàng Bích Sơn" ],
@@ -5986,7 +6514,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Tá Khanh" ],
@@ -6002,7 +6532,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Thị Hạnh", "Diệu Không" ],
@@ -6018,7 +6550,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Trọng Hiếu", "Tú Mỡ" ],
@@ -6055,7 +6589,15 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
+    "namBatDau" : "1925",
+    "namKetThuc" : "1925"
+  } ]
 }, {
   "hoTen" : [ "Hồ Văn Hiến" ],
   "namSinh" : "1900",
@@ -6070,7 +6612,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Văn Trung", "Hồ Biểu Chánh", "Thứ Tiên" ],
@@ -6086,7 +6630,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hồ Xuân Lưu", "Trần Quốc Thảo" ],
@@ -6138,7 +6684,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Vũng Tàu"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Minh Giám" ],
@@ -6154,7 +6702,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Minh Giám" ],
@@ -6170,7 +6720,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Ngọc Phách", "Song An" ],
@@ -6204,7 +6756,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Phú Sổ", "Huỳnh Phú Sổ" ],
@@ -6220,7 +6774,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "An Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Thúc Tấn" ],
@@ -6254,7 +6810,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Hiến" ],
@@ -6270,7 +6828,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đà Nẵng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Hòe", "Lê Văn Hạc" ],
@@ -6286,7 +6846,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Năng", "Lê Văn Quới" ],
@@ -6302,7 +6864,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Ngôn", "Bảo Hương" ],
@@ -6318,7 +6882,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Phúc", "Lê Thọ Xuân" ],
@@ -6334,7 +6900,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Sĩ", "Võ Sĩ" ],
@@ -6350,7 +6918,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Siêu" ],
@@ -6402,7 +6972,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tây Ninh"
+  }, {
+    "tenDiaDiem" : "Tây Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Văn Thử", "Việt Tha" ],
@@ -6504,7 +7078,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lương Tri", "Lê Văn Quới", "Lê Văn Năng" ],
@@ -6520,7 +7096,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lương Trọng Hối" ],
@@ -6536,7 +7114,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lương Văn Nho" ],
@@ -6552,7 +7132,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Nai"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lương Vĩnh Thuật", "Thanh Long", "Hành Sơn" ],
@@ -6568,7 +7150,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đình Thi" ],
@@ -6618,7 +7202,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đóa" ],
@@ -6634,7 +7220,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đôn Phục", "Hi Cán", "Tùng Vân" ],
@@ -6650,7 +7238,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đổng Chi" ],
@@ -6702,7 +7292,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đức Long", "Thượng Sĩ" ],
@@ -6754,7 +7346,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nhuận" ],
@@ -6770,7 +7364,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Trà Vinh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nhuận", "Phú Đức" ],
@@ -6804,7 +7400,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Đức Thuận", "Bùi Phong Tư" ],
@@ -6820,7 +7418,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Gia Trí" ],
@@ -6872,7 +7472,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hiến Lê", "Lộc Đình" ],
@@ -6888,7 +7490,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Hoàng", "Vĩnh Mai" ],
@@ -6926,18 +7530,44 @@
     "tenDiaDiem" : "Nghệ An"
   }, {
     "tenDiaDiem" : "Nghệ An"
-  }, {
-    "tenDiaDiem" : "Nghệ An"
-  }, {
-    "tenDiaDiem" : "Nghệ An"
-  }, {
-    "tenDiaDiem" : "Nghệ An"
-  }, {
-    "tenDiaDiem" : "Nghệ An"
-  }, {
-    "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  }, {
+    "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
+    "namBatDau" : "1920",
+    "namKetThuc" : "1920"
+  }, {
+    "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc đến Quảng Châu",
+    "namBatDau" : "Trung Quốc",
+    "namKetThuc" : "Trung Quốc"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
+    "namBatDau" : "1925",
+    "namKetThuc" : "1925"
+  } ]
 }, {
   "hoTen" : [ "Nguyễn Thái Sơn", "Bảy Bình" ],
   "namSinh" : "1928",
@@ -6952,7 +7582,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thành Châu", "Năm Châu" ],
@@ -6968,7 +7600,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thành Giung" ],
@@ -6984,7 +7618,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thành Long", "Lưu Quỳnh", "Phan Minh Thảo" ],
@@ -7000,7 +7636,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thành Tâm", "Nguyễn Văn Hưởng" ],
@@ -7016,7 +7654,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "An Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thanh Tích", "Phả Minh" ],
@@ -7032,7 +7672,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thành Vĩnh" ],
@@ -7048,7 +7690,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thế Long" ],
@@ -7064,7 +7708,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thế Phương", "Nam Đình", "Nguyễn Kì Nam" ],
@@ -7096,7 +7742,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Ninh Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thị Định" ],
@@ -7112,7 +7760,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  }, {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thị Kiêm", "Nguyễn Thị Manh Manh", "Myn", "Nguyễn Văn Myn", "Lệ Thủy" ],
@@ -7128,7 +7780,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thị Lan", "Nam Phương" ],
@@ -7162,7 +7816,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thị Trừ", "Huỳnh Liên" ],
@@ -7178,7 +7834,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thiệu Lâu" ],
@@ -7212,7 +7870,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Thức Canh", "Trần Hữu Công", "Trần Trọng Khắc" ],
@@ -7246,7 +7906,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Bái" ],
@@ -7262,7 +7924,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Khoát" ],
@@ -7296,7 +7960,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bến Tre"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Nhí", "Nguyễn Công Tâm" ],
@@ -7312,7 +7978,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Oánh" ],
@@ -7328,7 +7996,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Giang"
+  }, {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Nông Văn Quỳnh", "Nông Quốc Chấn" ],
@@ -7344,7 +8016,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Cao Bằng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Biểu Tâm" ],
@@ -7360,7 +8034,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Công Tắc" ],
@@ -7410,7 +8086,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Đình Bách", "Họa Sơn" ],
@@ -7426,7 +8104,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Đình Tân", "Từ Huệ", "Lĩnh Việt" ],
@@ -7442,7 +8122,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Đức Hạp", "Đức Nhuận" ],
@@ -7458,7 +8140,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Hoanh" ],
@@ -7474,7 +8158,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Hữu Lầu" ],
@@ -7490,7 +8176,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Huy Thông" ],
@@ -7506,7 +8194,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hưng Yên"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Khắc Hòe" ],
@@ -7540,7 +8230,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Lợi" ],
@@ -7556,7 +8248,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Yên Bái"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Phạm Ngọc Chi" ],
@@ -7622,7 +8316,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "An Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Tôn Quang Phiệt" ],
@@ -7659,15 +8355,7 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
-  }, {
-    "tenDiaDiem" : "Thanh Hóa"
+    "tenDiaDiem" : "Huế"
   } ],
   "danhSachSuKien" : [ ]
 }, {
@@ -7702,7 +8390,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Dần", "Trần Văn Dần" ],
@@ -7718,7 +8408,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đăng Khoa" ],
@@ -7734,7 +8426,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đình Đàn" ],
@@ -7750,7 +8444,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đình Nam" ],
@@ -7766,7 +8462,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đình Tri" ],
@@ -7782,7 +8480,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đình Xu" ],
@@ -7801,15 +8501,7 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
+    "tenDiaDiem" : "Huế"
   } ],
   "danhSachSuKien" : [ ]
 }, {
@@ -7826,7 +8518,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Giang"
+  }, {
+    "tenDiaDiem" : "Hà Tây"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Đức Thảo" ],
@@ -7842,7 +8538,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Hữu Thung" ],
@@ -7876,7 +8574,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
@@ -7892,7 +8592,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  }, {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Trần Hữu Tước" ],
@@ -7926,7 +8630,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vi Huyền Đắc", "Giới Chi" ],
@@ -7942,7 +8648,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hải Phòng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vi Văn Định" ],
@@ -7976,7 +8684,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Huế"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Chí Thâm", "Giác Nhiên" ],
@@ -8010,8 +8720,14 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Phú Yên"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
+    "namBatDau" : "1821",
+    "namKetThuc" : "1827"
+  } ]
 }, {
   "hoTen" : [ "Võ Hải Thu", "Nguyễn Hải Thần" ],
   "namSinh" : "1878",
@@ -8044,7 +8760,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Hoành", "Ngọc Tiểu" ],
@@ -8100,16 +8818,6 @@
     "tenDiaDiem" : "Quảng Bình"
   }, {
     "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
-  }, {
-    "tenDiaDiem" : "Quảng Bình"
   } ],
   "danhSachSuKien" : [ ]
 }, {
@@ -8162,7 +8870,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Toàn", "Võ Chí Công" ],
@@ -8178,7 +8888,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Võ Tùng" ],
@@ -8194,7 +8906,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Ngãi"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vũ Anh Khanh", "Nguyễn Năm" ],
@@ -8210,7 +8924,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bình Thuận"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vũ Đăng Bằng", "Vũ Bằng", "Tiêu Liêu", "Lê Tâm", "Vũ Tường Khanh", "Hoàng Thị Trâm" ],
@@ -8242,7 +8958,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bắc Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Vũ Đình Hòe" ],
@@ -8298,7 +9016,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hải Phòng"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Kiện" ],
@@ -8324,7 +9044,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tây Ninh"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Minh Tuynh" ],
@@ -8336,7 +9058,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Nam Định"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Phê" ],
@@ -8348,7 +9072,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Tố Nguyên" ],
@@ -8360,7 +9086,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Tiền Giang"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Trung Thông" ],
@@ -8373,6 +9101,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Yên Bái"
+  }, {
     "tenDiaDiem" : "Nghệ An"
   } ],
   "danhSachSuKien" : [ ]
@@ -8428,7 +9158,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Bình Thuận"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Văn Thái" ],
@@ -8440,7 +9172,11 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thái Bình"
+  }, {
+    "tenDiaDiem" : "Thái Bình"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Hoàng Văn Thiệu", "Hoàng Văn Khánh" ],
@@ -8452,7 +9188,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Huỳnh Văn Bánh" ],
@@ -8502,7 +9240,9 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Quảng Nam"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
   "hoTen" : [ "Lê Minh Xuân" ],
@@ -8526,6 +9266,8 @@
     "namBatDau" : "1945",
     "namKetThuc" : "2023"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Đồng Tháp"
+  } ],
   "danhSachSuKien" : [ ]
 } ]

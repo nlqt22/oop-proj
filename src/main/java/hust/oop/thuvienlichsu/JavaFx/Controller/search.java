@@ -100,10 +100,6 @@ public class search extends ListCell<Object> {
     @FXML
     public void btnDetailPressed(ActionEvent event) {
         Object element = listViewer.getSelectionModel().getSelectedItem();
-        java.awt.Window win[] = java.awt.Window.getWindows();
-        for (int i = 0; i < win.length; i++) {
-            win[i].setVisible(false);
-        }
         new detailScreen(element);
     }
 

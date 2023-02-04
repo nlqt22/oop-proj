@@ -59,4 +59,12 @@ public class NhanVatDTO {
     public void setTenGoiKhac(List<String> tenGoiKhac) {
         this.tenGoiKhac = tenGoiKhac;
     }
+
+    @Override
+    public String toString() {
+        return "\n\t\thoTen=" + hoTen + ", tenGoiKhac=" + tenGoiKhac + ", namSinh=" + namSinh + ", namMat="
+                + namMat + ", queQuan=" + queQuan;
+    }
+
+    
 }

@@ -19,7 +19,6 @@ public class detailScreen extends JFrame {
         this.setTitle("Detail");
         this.setSize(1280, 768);
         this.setVisible(true);
-        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         
         Platform.runLater(new Runnable() {
             @Override

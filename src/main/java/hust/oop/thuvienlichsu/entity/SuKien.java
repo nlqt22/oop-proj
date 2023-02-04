@@ -82,15 +82,9 @@ public class SuKien {
     }
     @Override
     public String toString() {
-        return "SuKien{" +
-                "tenSuKien='" + tenSuKien + '\'' +
-                ", namDienRa=" + namDienRa +
-                ", namKetThuc=" + namKetThuc +
-                ", tenNhanVat=" + tenNhanVat +
-                ", tenDiaDiem=" + tenDiaDiem +
-                ", danhSachNhanVat=" + danhSachNhanVat +
-                ", danhSachDiaDiem=" + danhSachDiaDiem +
-                '}';
+        return "SuKien [\n\ttenSuKien=" + tenSuKien + ",\n\tnamDienRa=" + namDienRa + ",\n\tnamKetThuc=" + namKetThuc
+                + ",\n\tdienBien=" + dienBien + ",\n\ttenNhanVat=" + tenNhanVat + ",\n\ttenDiaDiem=" + tenDiaDiem
+                + ",\n\tdanhSachNhanVat=" + danhSachNhanVat + ",\n\tdanhSachDiaDiem=" + danhSachDiaDiem + "\n]";
     }
 
     public boolean filterProperty(String filter) {
