@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.entity.LeHoi;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.entity.SuKien;
 import hust.oop.thuvienlichsu.entity.ThoiKi;
@@ -44,6 +45,15 @@ public class JsonReader {
         ObjectMapper mapper = new ObjectMapper();
         List<SuKien> list = mapper.readValue(new File("src/main/resources/json/sukien.json"),
             new TypeReference<List<SuKien>>() {
+            });
+            
+        return list;
+    }
+
+    public List<LeHoi> readFileLeHoi() throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+        List<LeHoi> list = mapper.readValue(new File("src/main/resources/json/lehoi.json"),
+            new TypeReference<List<LeHoi>>() {
             });
             
         return list;

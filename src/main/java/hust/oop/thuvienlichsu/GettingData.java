@@ -11,3 +11,4 @@ public class GettingData {
         writer.diaDiemFileWriter();
     }
 }
+ 

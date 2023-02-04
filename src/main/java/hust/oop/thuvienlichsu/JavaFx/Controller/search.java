@@ -16,6 +16,7 @@ import javafx.beans.value.ObservableValue;
 import java.io.IOException;
 
 import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.entity.LeHoi;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.entity.SuKien;
 import hust.oop.thuvienlichsu.entity.ThoiKi;
@@ -45,6 +46,9 @@ public class search extends ListCell<Object> {
 
     @FXML
     public MenuItem listThoiKi;
+
+    @FXML
+    public MenuItem listLeHoi;
 
     private JsonReader jsonReader;
     ObservableList<Object> list;
@@ -87,7 +91,9 @@ public class search extends ListCell<Object> {
             new_list.setPredicate(Object -> ((DiaDiem) Object).filterProperty(newValue));
         } else if (menuList.getText() == "Sự kiện"){
             new_list.setPredicate(Object -> ((SuKien) Object).filterProperty(newValue));
-        }
+        } else if (menuList.getText() == "Lễ hội"){
+            new_list.setPredicate(Object -> ((LeHoi) Object).filterProperty(newValue));
+        } 
         
         listViewer.setItems(new_list);
         listViewer.setCellFactory(new CellFactory());
@@ -131,6 +137,14 @@ public class search extends ListCell<Object> {
     public void showSuKien(ActionEvent event) throws IOException {
         list = FXCollections.observableArrayList(jsonReader.readFileSuKien());
         menuList.setText("Sự kiện");
+        listViewer.setItems(list);
+        listViewer.setCellFactory(new CellFactory());
+    }
+
+    @FXML
+    public void showLeHoi(ActionEvent event) throws IOException {
+        list = FXCollections.observableArrayList(jsonReader.readFileLeHoi());
+        menuList.setText("Lễ hội");
         listViewer.setItems(list);
         listViewer.setCellFactory(new CellFactory());
     }

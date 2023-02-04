@@ -1,6 +1,8 @@
 package hust.oop.thuvienlichsu;
 
 import hust.oop.thuvienlichsu.JavaFx.Controller.searchScreen;
+import hust.oop.thuvienlichsu.entity.LeHoi;
+import hust.oop.thuvienlichsu.scraper.LeHoiScraper;
 
 import java.io.IOException;
 
@@ -11,6 +13,10 @@ public class ThuVienLichSu {
         // System.out.println("# DONE: Extract successfully " + totalResults + " results!");
 
         new searchScreen();
-        
+
+        // LeHoiScraper test = new LeHoiScraper();
+        // for(LeHoi element: test.getDanhSachLeHoi()){
+        //     System.out.println(element.toString());
+        // }
     }
 }

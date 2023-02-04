@@ -18,10 +18,11 @@
          <children>
             <MenuButton fx:id="menuList" layoutX="14.0" layoutY="13.0" mnemonicParsing="false" text="Menu">
               <items>
-                <MenuItem fx:id="listNhanVat" mnemonicParsing="false" onAction="#showNhanVat" text="Nhân vật" />
-                <MenuItem fx:id="listThoiKi" mnemonicParsing="false" onAction="#showThoiKi" text="Thời kì" />
+                  <MenuItem fx:id="listNhanVat" mnemonicParsing="false" onAction="#showNhanVat" text="Nhân vật" />
+                  <MenuItem fx:id="listThoiKi" mnemonicParsing="false" onAction="#showThoiKi" text="Thời kì" />
                   <MenuItem fx:id="listDiaDiem" mnemonicParsing="false" onAction="#showDiaDiem" text="Địa điểm" />
                   <MenuItem fx:id="listSuKien" mnemonicParsing="false" onAction="#showSuKien" text="Sự kiện" />
+                  <MenuItem fx:id="listLeHoi" mnemonicParsing="false" onAction="#showLeHoi" text="Lễ hội" />
               </items>
             </MenuButton>
             <AnchorPane layoutX="818.0" prefWidth="300.0" AnchorPane.rightAnchor="0.0">

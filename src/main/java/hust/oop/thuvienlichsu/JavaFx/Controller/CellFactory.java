@@ -4,6 +4,7 @@ import javafx.scene.control.ListView;
 import javafx.util.Callback;
 import javafx.scene.control.ListCell;
 import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.entity.LeHoi;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.entity.SuKien;
 import hust.oop.thuvienlichsu.entity.ThoiKi;
@@ -25,6 +26,8 @@ public class CellFactory implements Callback<ListView<Object>, ListCell<Object>>
                     setText(((DiaDiem) obj).getTenDiaDiem());
                 } else if(obj instanceof SuKien){
                     setText(((SuKien) obj).getTenSuKien());
+                } else if(obj instanceof LeHoi){
+                    setText(((LeHoi) obj).getTenLeHoi());
                 }
             }
         };
