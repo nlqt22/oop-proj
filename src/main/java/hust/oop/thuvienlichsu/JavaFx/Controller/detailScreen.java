@@ -1,7 +1,5 @@
 package hust.oop.thuvienlichsu.JavaFx.Controller;
 
-import hust.oop.thuvienlichsu.entity.NhanVat;
-
 import java.io.IOException;
 import javax.swing.JFrame;
 import javafx.application.Platform;
@@ -11,10 +9,10 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
  
 public class detailScreen extends JFrame {
-    private Object name;
+    private Object element;
     
-    public detailScreen(Object name){
-        this.name = name;
+    public detailScreen(Object element){
+        this.element = element;
 
         JFXPanel fxPanel = new JFXPanel();
         this.add(fxPanel);
@@ -29,7 +27,7 @@ public class detailScreen extends JFrame {
                 try{           
                     FXMLLoader loader = new FXMLLoader(getClass()
                                             .getResource("/hust/oop/thuvienlichsu/JavaFx/FXML/detailScreen.fxml"));
-                    loader.setController(new detail(name));
+                    loader.setController(new detail(element));
                     Parent root = loader.load();
                     fxPanel.setScene(new Scene(root));
                 } catch(IOException e){
