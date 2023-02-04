@@ -6,7 +6,11 @@
 }, {
   "tenDiaDiem" : "Gia Định",
   "noiDung" : "Gia Định là một địa danh cũ ở miền Nam Việt Nam. Trải bao biến cố, ngày nay, địa danh ấy chỉ còn dùng để chỉ khu vực trung tâm quận Bình Thạnh của Thành phố Hồ Chí Minh.",
-  "danhSachSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  } ],
   "danhSachNhanVat" : [ ]
 }, {
   "tenDiaDiem" : "Việt Trì",
@@ -16,17 +20,37 @@
 }, {
   "tenDiaDiem" : "Cổ Loa",
   "noiDung" : "Cổ Loa là di tích lịch sử nổi tiếng, thuộc địa phận huyện Đông Anh cách trung tâm Hà Nội khoảng 17km về hướng Tây Bắc. Đây là thủ đô thứ 2 của Việt Nam sau Phong Châu (Phú Thọ). Vào cuối thời Hùng Vương, vua nước Thục tên Phán, chiếm được nước của Hùng Vương, lập nước Âu Lạc, xưng là An Dương Vương, đóng đô ở Phong Khuê (Cổ Loa ngày nay). Sau đó ông cho xây dựng một khu thành lớn mà người sau gọi là Loa thành hay thành Cổ Loa. Khu vực Cổ Loa là một khu thành đất đồ sộ với 3 vòng thành, chiều dài cả 3 vòng thành tổng cộng hơn 16 cây số. Đây cũng là kinh đô từ năm 939 đến 965 thuộc triều đại Ngô Quyền, triều đại gắn liền với chiến công hiển hách trên sông Bạch Đằng, đánh bại quân xâm lược Nam Hán.",
-  "danhSachSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  } ],
   "danhSachNhanVat" : [ ]
 }, {
   "tenDiaDiem" : "Hoa Lư",
   "noiDung" : "Hoa Lư nay là xã Trường Yên, huyện Hoa Lư, tỉnh Ninh Bình, cách Hà Nội chừng 100km về phía Nam theo Quốc lộ 1A. Đây là kinh đô thuộc các triều đại nhà Đinh- Đinh Tiên Hoàng (968-980), nhà Tiền Lê-Lê Đại Hành (980-1009). Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế, gọi là Đinh Tiên Hoàng, đặt tên nước là Đại Cồ Việt và chọn Hoa Lư làm kinh đô của đất nước. Hoa Lư ghi các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội.",
-  "danhSachSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  } ],
   "danhSachNhanVat" : [ ]
 }, {
   "tenDiaDiem" : "Giao Châu",
   "noiDung" : "Giao Châu là tên một châu hoặc phủ thời xưa, bao trùm vùng đất miền Bắc Việt Nam ngày nay. Ban đầu Giao Châu còn bao gồm một phần đất Quảng Tây và Quảng Đông thuộc Trung Quốc ngày nay.",
-  "danhSachSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
+    "namBatDau" : "679",
+    "namKetThuc" : "679"
+  } ],
   "danhSachNhanVat" : [ ]
 }, {
   "tenDiaDiem" : "Thăng Long",
@@ -62,7 +86,25 @@
   "tenDiaDiem" : "Hà Nội",
   "noiDung" : "Dải đất nay là Hà Nội có dân cư từ vài ngàn năm trước nhưng cái tên gọi Hà Nội thì chỉ có từ năm 1831. Từ năm 1010, vua Lý Thái Tổ dời đô ra thành Đại La, đổi gọi thành này là kinh đô Thăng Long. Kinh đô ngày ấy ứng với quận Hoàn Kiếm và một phần của hai quận Đống Đa, Hai Bà Trưng ngày nay. Sau đó địa giới Thăng Long dần mở rộng và tới cuối thế kỷ 18 thì tương ứng với năm quận nội thành bây giờ. Năm 1802, nhà Nguyễn lên ngôi dời đô về Huế, Thăng Long không còn là Kinh đô nữa và ít lâu sau bị đổi gọi là phủ Hoài Đức.",
   "danhSachSuKien" : [ ],
-  "danhSachNhanVat" : [ ]
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Trưng Trắc - Trưng Nhị",
+    "tenGoiKhac" : [ "Trưng Trắc - Trưng Nhị", "Hai Bà Trưng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "43",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Tu",
+    "tenGoiKhac" : [ "Phạm Tu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "545",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Điện",
+    "tenGoiKhac" : [ "Trần Điện" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  } ]
 }, {
   "tenDiaDiem" : "Thành Tây Đô",
   "noiDung" : "Năm 1397, Hồ Quý Ly một quyền thần của nhà Trần cho xây dựng thành Tây Đô. Thành xây trên địa phận hai thôn Tây Giai, Xuân Giai nay thuộc xã Vĩnh Tiến và thôn Đông Môn nay thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá.",
@@ -81,8 +123,30 @@
 }, {
   "tenDiaDiem" : "Thanh Hóa",
   "noiDung" : "Thanh Hóa là tỉnh thuốc miền Trung Việt Nam, cách thủ đô Hà Nội khoảng 140 km về phía Nam. Thanh Hoá là vùng đất có từ lâu đời, một trong những cái nôi của dân tộc Việt Nam. Ngay từ thời tiền sử vùng đất này đã có người sinh sống. Qua những công cụ thô sơ trong những xưởng chế tác đá công cụ Núi Ðọ (Thanh Hoá) cho thấy, người tiền sử đã sinh sống trên mảnh đất này từ thời đại đồ đá cũ. Ngoài ra, các nhà khảo cổ học còn tìm thấy nhiều công cụ đồ đá đẽo gọt tinh xảo ở Thiệu Dương (Thiệu Hoá), Ða Bút (Vĩnh Lộc),v.v.. Phát triển hơn nữa, nền văn hoá đồ đồng Ðông Sơn với trống đồng và các loại đồ đồng tinh xảo khác không chỉ nổi tiếng ở Việt Nam, ở Ðông Nam á mà còn được cả thế giới biết đến.",
-  "danhSachSuKien" : [ ],
-  "danhSachNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Bà Triệu",
+    "namBatDau" : "248",
+    "namKetThuc" : "248"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "La Viện",
+    "tenGoiKhac" : [ "La Viện" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Châu Đạt",
+    "tenGoiKhac" : [ "Châu Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Hoàng Thiều Hoa",
+    "tenGoiKhac" : [ "Hoàng Thiều Hoa" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  } ]
 }, {
   "tenDiaDiem" : "Quảng Bình",
   "noiDung" : "Các tên gọi cũ của Quảng Bình này gồm: Lâm Bình, Tiên Bình, Tây Bình, Tân Bình, là một tỉnh duyên hải thuộc vùng Bắc Trung Bộ Việt Nam. Các khai quật khảo cổ ở khu vực đã chứng tỏ rằng đã có loài người sinh sống ở khu vực này từ thời kỳ đồ đá. Nhiều hiện vật như bình sử, sành, công cụ lao động đã được phát hiện ở đây",

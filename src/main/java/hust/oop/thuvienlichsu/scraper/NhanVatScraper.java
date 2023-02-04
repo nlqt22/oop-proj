@@ -1,5 +1,6 @@
 package hust.oop.thuvienlichsu.scraper;
 
+import hust.oop.thuvienlichsu.ThuVienLichSu;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.utils.StringFormater;
 import org.jsoup.Jsoup;
@@ -14,6 +15,7 @@ public class NhanVatScraper {
     private final String URL = "https://vansu.vn/viet-nam/viet-nam-nhan-vat?page=";
     private final String ROOT = "https://vansu.vn";
 
+    private int count = 0;
     private final int START_PAGE = 0;
     private final int END_PAGE = 119;
     private List<NhanVat> danhSachNhanVat;
@@ -24,8 +26,10 @@ public class NhanVatScraper {
 
     public NhanVatScraper() {
         this.danhSachNhanVat = new ArrayList<>();
+        System.out.println("# BEGIN SCRAPING [NhanVat]");
         scrap();
-        System.out.println("Scraping for Nhan Vat is done !");
+        System.out.println("# END SCRAPING[NhanVat]:" + (count) + " results found!");
+        ThuVienLichSu.totalResults += count;
     }
 
     private void scrapInSubUrl(String subUrl) {
@@ -66,13 +70,15 @@ public class NhanVatScraper {
     }
 
     private void scrap() {
-        for(int i = START_PAGE; i <= END_PAGE; i++) {
+        for(int i = START_PAGE; i <= END_PAGE; i += 4) {
             String page = URL + String.valueOf(i);
             try {
                 Document doc = Jsoup.connect(page).get();
                 Elements result = doc.select("table.table tr td a");
                 for(int j = 0; j < result.size(); j += 2) {
                     scrapInSubUrl(ROOT + result.get(j).attr("href"));
+                    System.out.println("{NhanVat}:" + (++count) + ",stat=OK");
+
                 }
             } catch (IOException e) {
                 throw new RuntimeException(e);

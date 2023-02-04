@@ -13,6 +13,7 @@ public class StringFormater {
     // --> List<String> = {"Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc"}
     public static List<String> removeMinusAtMiddle(String str, String root) {
         List<String> result = new ArrayList<>();
+        if(str.charAt(0) == '-') result.add("Không rõ");
         for(String s : str.split("[-]")) {
             if(!s.strip().equals(root)) result.add(s.strip());
         }
@@ -32,10 +33,13 @@ public class StringFormater {
     // --> { "1989", "1969" }
     public static String findNumbersInString(String str) {
         String result = "";
-        if(str.equals("...")) return "Không rõ";
+        int trcn = 0;
+        if(str.equals("...") || str.equals("…")) return "Không rõ";
+        if(str.toLowerCase().contains("trcn")) trcn = 1;
         for(int i = 0; i < str.length(); i++) {
             if(str.charAt(i) >= '0' && str.charAt(i) <= '9') result += str.charAt(i);
         }
+        if(trcn == 1) result += " TrCN";
         return result;
     }
 
@@ -48,7 +52,7 @@ public class StringFormater {
         for(String sp : tenThoiKiString.split("[)]")) {
             String tmp = sp.strip();
             tmp = removeMinusAtBegin(tmp);
-            tmp = tmp.substring(0, tmp.indexOf('(')-1);
+            if(tmp.indexOf('(') > 0) tmp = tmp.substring(0, tmp.indexOf('(')-1);
             result.add(tmp.strip());
         }
         return result;

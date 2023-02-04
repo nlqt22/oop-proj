@@ -1,244 +1,500 @@
 [ {
-  "hoTen" : [ "Nguyễn Gia Thiều", "Tân Trai", "Hi Tôn Tử", "Như Ý Thiền", "Siêu Chân" ],
-  "namSinh" : "1741",
-  "namMat" : "1789",
-  "queQuan" : "Bắc Ninh",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
-}, {
-  "hoTen" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
+  "hoTen" : [ "An Tiêm" ],
   "namSinh" : "Không rõ",
   "namMat" : "Không rõ",
-  "queQuan" : "Quảng Bình",
+  "queQuan" : "Không rõ",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
-  "namSinh" : "1713",
-  "namMat" : "1792",
+  "hoTen" : [ "Âu Cơ" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Bạch Hoa", "Ngọc Hoa" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Cao Sơn Đại Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Chử Đồng Tử" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Hưng Yên",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Cường Bạo Đại Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Nam Định",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Hồng Bàng" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Hùng Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Kinh Dương Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "La Viện" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
   "queQuan" : "Thanh Hóa",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Lý Ông Trọng" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
-  "namSinh" : "1524",
-  "namMat" : "1613",
+  "hoTen" : [ "Phù Đổng Thiên Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Bắc Ninh",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Sùng Lãm", "Lạc Long Quân" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Dựng nước",
+    "namBatDau" : "2000 TrCN",
+    "namKetThuc" : "258 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Cao Thông", "Cao Lỗ" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "180 TrCN",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Nhà Thục",
+    "namBatDau" : "257 TrCN",
+    "namKetThuc" : "208 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Thục Phán", "An Dương Vương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Nhà Thục",
+    "namBatDau" : "257 TrCN",
+    "namKetThuc" : "208 trCN"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Bốc Long" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Bắc thuộc lần 1",
+    "namBatDau" : "207 trCN",
+    "namKetThuc" : "39"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Châu Đạt" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
   "queQuan" : "Thanh Hóa",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Bắc thuộc lần 1",
+    "namBatDau" : "207 trCN",
+    "namKetThuc" : "39"
+  } ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Lữ Gia" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Bắc thuộc lần 1",
+    "namBatDau" : "207 trCN",
+    "namKetThuc" : "39"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hữu Dật" ],
-  "namSinh" : "1603",
-  "namMat" : "1681",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "An Bình Lý" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Vĩnh Phúc",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hữu Hào" ],
-  "namSinh" : "",
-  "namMat" : "1713",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
+  "namSinh" : "17",
+  "namMat" : "43",
+  "queQuan" : "Vĩnh Phúc",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
-  "namSinh" : "1650",
-  "namMat" : "1700",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "Cao Doãn" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
-  } ]
-}, {
-  "hoTen" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
-  "namSinh" : "1757",
-  "namMat" : "1831",
-  "queQuan" : "Quảng Trị",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
-  "namSinh" : "1602",
-  "namMat" : "1665",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "Châu Bá" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Huy Oánh" ],
-  "namSinh" : "1713",
-  "namMat" : "1789",
-  "queQuan" : "Hà Tĩnh",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
-}, {
-  "hoTen" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
-  "namSinh" : "1743",
-  "namMat" : "1790",
-  "queQuan" : "Hà Tĩnh",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
-}, {
-  "hoTen" : [ "Nguyễn Khoa Chiêm" ],
-  "namSinh" : "1659",
-  "namMat" : "1736",
+  "hoTen" : [ "Đào Đạo - Đào Đạt" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
   "queQuan" : "Hải Dương",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Khoa Đăng" ],
-  "namSinh" : "1691",
-  "namMat" : "1725",
+  "hoTen" : [ "Đinh Lượng" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Hà Tây",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Đô Dương" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Đỗ Năng Tế" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Hà Tây",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Hoàng Thiều Hoa" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Thanh Hóa",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Thanh Hóa"
+  } ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Lê Chân" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Hải Dương",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Man Thiện" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "43",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Thi Sách", "Đặng Thi Sách" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "39",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Trưng Trắc - Trưng Nhị", "Hai Bà Trưng" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "43",
+  "queQuan" : "Hà Nội",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nội"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
+    "namBatDau" : "42",
+    "namKetThuc" : "43"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hai Bà Trưng bùng nổ",
+    "namBatDau" : "40",
+    "namKetThuc" : "40"
+  } ]
+}, {
+  "hoTen" : [ "Xuân Nương" ],
+  "namSinh" : "23",
+  "namMat" : "43",
+  "queQuan" : "Vĩnh Phúc",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Trưng Nữ Vương",
+    "namBatDau" : "40",
+    "namKetThuc" : "43"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Triêu Thị Trinh" ],
+  "namSinh" : "225",
+  "namMat" : "246",
   "queQuan" : "Thừa Thiên-Huế",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Bắc thuộc lần 2",
+    "namBatDau" : "43",
+    "namKetThuc" : "542"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Khoa Kiên" ],
+  "hoTen" : [ "Lý Bôn" ],
   "namSinh" : "",
-  "namMat" : "1775",
-  "queQuan" : "Thừa Thiên-Huế",
+  "namMat" : "548",
+  "queQuan" : "Thái Bình",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Khoa Toàn", "Nguyễn Khoa Thuyên" ],
-  "namSinh" : "1724",
-  "namMat" : "1789",
-  "queQuan" : "Thừa Thiên-Huế",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
-}, {
-  "hoTen" : [ "Nguyễn Kiều", "Hạo Hiên" ],
-  "namSinh" : "1694",
-  "namMat" : "1771",
+  "hoTen" : [ "Phạm Tu" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "545",
   "queQuan" : "Hà Nội",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
   } ],
-  "danhSachDiaDiem" : [ ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nội"
+  } ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Kim" ],
-  "namSinh" : "1467",
-  "namMat" : "1545",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "Tinh Thiều" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "546",
+  "queQuan" : "Không rõ",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Lại", "Nghè Bột" ],
-  "namSinh" : "1511",
-  "namMat" : "Không rõ",
-  "queQuan" : "Thanh Hóa",
-  "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
-  } ],
-  "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
-}, {
-  "hoTen" : [ "Nguyễn Mậu Áng" ],
-  "namSinh" : "1668",
+  "hoTen" : [ "Trần Điện" ],
+  "namSinh" : "Không rõ",
   "namMat" : "Không rõ",
   "queQuan" : "Hà Nội",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
+  } ],
+  "danhSachDiaDiem" : [ {
+    "tenDiaDiem" : "Hà Nội"
+  } ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Triệu Quang Phục" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "571",
+  "queQuan" : "Vĩnh Phúc",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]
 }, {
-  "hoTen" : [ "Nguyễn Mậu Tuyên" ],
-  "namSinh" : "1518",
-  "namMat" : "1599",
-  "queQuan" : "Thanh Hóa",
+  "hoTen" : [ "Trương Hát" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
   "danhSachThoiKi" : [ {
-    "tenThoiKi" : "Trịnh - Nguyễn",
-    "namBatDau" : "1533",
-    "namKetThuc" : "1788"
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
+  } ],
+  "danhSachDiaDiem" : [ ],
+  "danhSachSuKien" : [ ]
+}, {
+  "hoTen" : [ "Trương Hống" ],
+  "namSinh" : "Không rõ",
+  "namMat" : "Không rõ",
+  "queQuan" : "Không rõ",
+  "danhSachThoiKi" : [ {
+    "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+    "namBatDau" : "544",
+    "namKetThuc" : "602"
   } ],
   "danhSachDiaDiem" : [ ],
   "danhSachSuKien" : [ ]

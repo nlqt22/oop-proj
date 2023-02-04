@@ -1,5 +1,6 @@
 package hust.oop.thuvienlichsu.scraper;
 
+import hust.oop.thuvienlichsu.ThuVienLichSu;
 import hust.oop.thuvienlichsu.entity.SuKien;
 
 import hust.oop.thuvienlichsu.utils.StringFormater;
@@ -15,11 +16,16 @@ public class SuKienScraper {
     private final String URL = "https://thuvienlichsu.com/su-kien";
     private final String ROOT = "https://thuvienlichsu.com";
     private List<SuKien> danhSachSuKien;
+    private int count = 0;
+    private final int START_PAGE = 1;
+    private final int END_PAGE = 6;
 
     public SuKienScraper() {
         this.danhSachSuKien = new ArrayList<>();
+        System.out.println("# BEGIN SCRAPING [SuKien]");
         scrap();
-        System.out.println("Scraping for Su Kien is done !");
+        System.out.println("# END SCRAPING[SuKien]:" + (count) + " results found!");
+        ThuVienLichSu.totalResults += count;
     }
 
     private SuKien scrapInSubUrl(String subUrl) {
@@ -78,14 +84,14 @@ public class SuKienScraper {
     }
 
     private void scrap() {
-        int start = 1, end = 19;
         try {
             Document doc = Jsoup.connect(URL).get();
-            for(int i = start; i <= end; i++) {
+            for(int i = START_PAGE; i <= END_PAGE; i++) {
                 Elements result = doc.select(".divide-content .card-body a.click");
                 for(int j = 0; j < result.size(); j++) {
                     // System.out.println(ROOT+ result.get(j).attr("href"));
                     this.danhSachSuKien.add(scrapInSubUrl(ROOT + result.get(j).attr("href")));
+                    System.out.println("{SuKien}:" + (++count) + ",stat=OK");
                 }
             }
 

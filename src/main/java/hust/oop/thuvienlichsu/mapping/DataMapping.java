@@ -32,10 +32,11 @@ public class DataMapping {
     private List<SuKien> danhSachSuKien;
     private List<DiaDiem> danhSachDiaDiem;
     public DataMapping() {
-        nhanVatScraper = new NhanVatScraper();
+
         thoiKiScraper = new ThoiKiScraper();
         suKienScraper = new SuKienScraper();
         diaDiemScraper = new DiaDiemScraper();
+        nhanVatScraper = new NhanVatScraper();
 
         this.danhSachThoiKi = thoiKiScraper.getDanhSachThoiKi();
         this.danhSachNhanVat = nhanVatScraper.getDanhSachNhanVat();

@@ -1,5 +1,6 @@
 package hust.oop.thuvienlichsu.scraper;
 
+import hust.oop.thuvienlichsu.ThuVienLichSu;
 import hust.oop.thuvienlichsu.entity.DiaDiem;
 import hust.oop.thuvienlichsu.utils.StringFormater;
 import org.jsoup.Jsoup;
@@ -14,15 +15,17 @@ import java.util.List;
 public class DiaDiemScraper {
     private final String URL = "https://thuvienlichsu.com/dia-diem";
     private final String ROOT = "https://thuvienlichsu.com";
-
+    private int count = 0;
     private final int START_PAGE = 1;
-    private final int END_PAGE = 9;
+    private final int END_PAGE = 6;
     private List<DiaDiem> danhSachDiaDiem;
 
     public DiaDiemScraper() {
         this.danhSachDiaDiem = new ArrayList<>();
+        System.out.println("# BEGIN SCRAPING [DiaDiem]");
         scrap();
-        System.out.println("Scraping for Dia Diem is done !");
+        System.out.println("# END SCRAPING[DiaDiem]:" + (count) + " results found!");
+        ThuVienLichSu.totalResults += count;
     }
 
     public List<DiaDiem> getDanhSachDiaDiem() {
@@ -82,6 +85,7 @@ public class DiaDiemScraper {
                 Elements result = doc.select(".divide-content .card-body a.click");
                 for(int j = 0; j < result.size(); j++) {
                     this.danhSachDiaDiem.add(scrapInSubUrl(ROOT + result.get(j).attr("href")));
+                    System.out.println("{DiaDiem}:" + (++count) + ",stat=OK");
                 }
             }
 
