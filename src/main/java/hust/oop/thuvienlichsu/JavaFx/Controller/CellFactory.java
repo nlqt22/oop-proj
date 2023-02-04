@@ -11,7 +11,7 @@ import hust.oop.thuvienlichsu.entity.ThoiKi;
 public class CellFactory implements Callback<ListView<Object>, ListCell<Object>> {
     @Override
     public ListCell<Object> call(ListView<Object> param) {
-        return new ListCell<>(){
+        return new ListCell<>() {
             @Override
             public void updateItem(Object obj, boolean empty) {
                 super.updateItem(obj, empty);

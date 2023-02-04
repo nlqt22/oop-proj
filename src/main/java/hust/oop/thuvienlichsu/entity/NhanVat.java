@@ -3,6 +3,7 @@ package hust.oop.thuvienlichsu.entity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
 import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
+import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +15,7 @@ public class NhanVat {
     private String namSinh;
     private String namMat;
     private String queQuan;
-    private List<ThoiKi> danhSachThoiKi = new ArrayList<>();
+    private List<ThoiKiDTO> danhSachThoiKi = new ArrayList<>();
     private List<DiaDiemDTO> danhSachDiaDiem = new ArrayList<>();
     private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
     private List<String> tenThoiKi = new ArrayList<>();
@@ -56,11 +57,11 @@ public class NhanVat {
         this.queQuan = queQuan;
     }
 
-    public List<ThoiKi> getDanhSachThoiKi() {
+    public List<ThoiKiDTO> getDanhSachThoiKi() {
         return danhSachThoiKi;
     }
 
-    public void setDanhSachThoiKi(List<ThoiKi> danhSachThoiKi) {
+    public void setDanhSachThoiKi(List<ThoiKiDTO> danhSachThoiKi) {
         this.danhSachThoiKi = danhSachThoiKi;
     }
 
@@ -108,7 +109,7 @@ public class NhanVat {
         this.hoTen.add(hoTen);
     }
 
-    public void addThoiKi(ThoiKi thoiKi) {
+    public void addThoiKi(ThoiKiDTO thoiKi) {
         this.danhSachThoiKi.add(thoiKi);
     }
 

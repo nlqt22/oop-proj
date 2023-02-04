@@ -16,6 +16,7 @@ import javafx.beans.value.ObservableValue;
 import java.io.IOException;
 
 import hust.oop.thuvienlichsu.entity.DiaDiem;
+import hust.oop.thuvienlichsu.entity.LeHoi;
 import hust.oop.thuvienlichsu.entity.NhanVat;
 import hust.oop.thuvienlichsu.entity.SuKien;
 import hust.oop.thuvienlichsu.entity.ThoiKi;
@@ -33,7 +34,7 @@ public class search extends ListCell<Object> {
 
     @FXML
     public MenuButton menuList;
-    
+
     @FXML
     public MenuItem listDiaDiem;
 
@@ -46,9 +47,12 @@ public class search extends ListCell<Object> {
     @FXML
     public MenuItem listThoiKi;
 
+    @FXML
+    public MenuItem listLeHoi;
+
     private JsonReader jsonReader;
     ObservableList<Object> list;
-    
+
     @FXML
     public void initialize() throws IOException {
         this.jsonReader = new JsonReader();
@@ -56,29 +60,29 @@ public class search extends ListCell<Object> {
         detailButton.setVisible(false);
 
         listViewer.getSelectionModel().selectedItemProperty().addListener(
-            new ChangeListener<Object>() {
-                @Override
-                public void changed(ObservableValue<? extends Object> observable, Object oldValue,
-                        Object newValue) {
-                    if (newValue != null) {
-                        displayDetailButton(newValue);
+                new ChangeListener<Object>() {
+                    @Override
+                    public void changed(ObservableValue<? extends Object> observable, Object oldValue,
+                                        Object newValue) {
+                        if (newValue != null) {
+                            displayDetailButton(newValue);
+                        }
                     }
-                }
-            });
+                });
 
         inputField.textProperty().addListener(
-            new ChangeListener<String>() {
-                @Override
-                public void changed(ObservableValue<? extends String> observable, String oldValue,
-                        String newValue) {
-                    showFilteredString(newValue);
-                }
-            });
+                new ChangeListener<String>() {
+                    @Override
+                    public void changed(ObservableValue<? extends String> observable, String oldValue,
+                                        String newValue) {
+                        showFilteredString(newValue);
+                    }
+                });
     }
 
     void showFilteredString(String newValue) {
         FilteredList<Object> new_list = new FilteredList<>(list, null);
-        
+
         if(menuList.getText() == "Nhân vật"){
             new_list.setPredicate(Object -> ((NhanVat) Object).filterProperty(newValue));
         } else if (menuList.getText() == "Thời kì"){
@@ -87,8 +91,10 @@ public class search extends ListCell<Object> {
             new_list.setPredicate(Object -> ((DiaDiem) Object).filterProperty(newValue));
         } else if (menuList.getText() == "Sự kiện"){
             new_list.setPredicate(Object -> ((SuKien) Object).filterProperty(newValue));
+        } else if (menuList.getText() == "Lễ hội"){
+            new_list.setPredicate(Object -> ((LeHoi) Object).filterProperty(newValue));
         }
-        
+
         listViewer.setItems(new_list);
         listViewer.setCellFactory(new CellFactory());
     }
@@ -131,6 +137,14 @@ public class search extends ListCell<Object> {
     public void showSuKien(ActionEvent event) throws IOException {
         list = FXCollections.observableArrayList(jsonReader.readFileSuKien());
         menuList.setText("Sự kiện");
+        listViewer.setItems(list);
+        listViewer.setCellFactory(new CellFactory());
+    }
+
+    @FXML
+    public void showLeHoi(ActionEvent event) throws IOException {
+        list = FXCollections.observableArrayList(jsonReader.readFileLeHoi());
+        menuList.setText("Lễ hội");
         listViewer.setItems(list);
         listViewer.setCellFactory(new CellFactory());
     }

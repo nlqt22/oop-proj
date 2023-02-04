@@ -3,11 +3,13 @@ package hust.oop.thuvienlichsu.entity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
 import hust.oop.thuvienlichsu.entity.dto.NhanVatDTO;
+import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
+import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(value = {"tenNhanVat", "tenDiaDiem"})
+@JsonIgnoreProperties(value = {"tenNhanVat", "tenDiaDiem", "tenThoiKi"})
 public class SuKien {
     private String tenSuKien;
     private String namDienRa;
@@ -15,8 +17,27 @@ public class SuKien {
     private String dienBien;
     private List<String> tenNhanVat = new ArrayList<>();
     private List<String> tenDiaDiem = new ArrayList<>();
+    private List<String> tenThoiKi = new ArrayList<>();
     private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
     private List<DiaDiemDTO> danhSachDiaDiem = new ArrayList<>();
+
+    private List<ThoiKiDTO> danhSachThoiKi = new ArrayList<>();
+
+    public List<String> getTenThoiKi() {
+        return tenThoiKi;
+    }
+
+    public List<ThoiKiDTO> getDanhSachThoiKi() {
+        return danhSachThoiKi;
+    }
+
+    public void setDanhSachThoiKi(List<ThoiKiDTO> danhSachThoiKi) {
+        this.danhSachThoiKi = danhSachThoiKi;
+    }
+
+    public void setTenThoiKi(List<String> tenThoiKi) {
+        this.tenThoiKi = tenThoiKi;
+    }
 
     public String getTenSuKien() {
         return tenSuKien;
@@ -80,6 +101,11 @@ public class SuKien {
     public void addDiaDiem(DiaDiemDTO diaDiemDTO) {
         if(diaDiemDTO != null) this.danhSachDiaDiem.add(diaDiemDTO);
     }
+
+    public void addDThoiKi(ThoiKiDTO thoiKiDTO) {
+        if(thoiKiDTO != null) danhSachThoiKi.add(thoiKiDTO);
+    }
+
     @Override
     public String toString() {
         return "SuKien [\n\ttenSuKien=" + tenSuKien + ",\n\tnamDienRa=" + namDienRa + ",\n\tnamKetThuc=" + namKetThuc
