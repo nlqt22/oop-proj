@@ -17,7 +17,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Hữu Cảnh", "Địa điểm: Gia Định", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Nhà nước Văn Lang ra đời",
   "namDienRa" : "700",
@@ -33,7 +34,8 @@
     "tenThoiKi" : "Bắc thuộc lần lần 3",
     "namBatDau" : "603",
     "namKetThuc" : "939"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Tây Bắc", "Địa điểm: Đông Bắc", "Thời kỳ: Bắc thuộc lần lần 3" ]
 }, {
   "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
   "namDienRa" : "939",
@@ -51,7 +53,8 @@
     "tenThoiKi" : "Nhà Ngô",
     "namBatDau" : "939",
     "namKetThuc" : "965"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Cổ Loa", "Thời kỳ: Bắc thuộc lần lần 3", "Thời kỳ: Nhà Ngô" ]
 }, {
   "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
   "namDienRa" : "930",
@@ -67,7 +70,8 @@
     "tenThoiKi" : "Xây nền tự chủ",
     "namBatDau" : "905",
     "namKetThuc" : "938"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần lần 3", "Thời kỳ: Xây nền tự chủ" ]
 }, {
   "tenSuKien" : "Loạn 12 sứ quân",
   "namDienRa" : "965",
@@ -79,7 +83,8 @@
     "tenThoiKi" : "Nhà Ngô",
     "namBatDau" : "939",
     "namKetThuc" : "965"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Ngô" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Phùng Hưng",
   "namDienRa" : "776",
@@ -91,7 +96,8 @@
     "tenThoiKi" : "Bắc thuộc lần lần 3",
     "namBatDau" : "603",
     "namKetThuc" : "939"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần lần 3" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Mai Thúc Loan",
   "namDienRa" : "713",
@@ -103,7 +109,8 @@
     "tenThoiKi" : "Bắc thuộc lần lần 3",
     "namBatDau" : "603",
     "namKetThuc" : "939"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần lần 3" ]
 }, {
   "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
   "namDienRa" : "968",
@@ -117,7 +124,8 @@
     "tenThoiKi" : "Nhà Đinh",
     "namBatDau" : "968",
     "namKetThuc" : "980"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Hoa Lư", "Thời kỳ: Nhà Đinh" ]
 }, {
   "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
   "namDienRa" : "981",
@@ -129,7 +137,8 @@
     "tenThoiKi" : "Nhà Tiền Lê",
     "namBatDau" : "980",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
   "namDienRa" : "980",
@@ -147,7 +156,8 @@
     "tenThoiKi" : "Nhà Tiền Lê",
     "namBatDau" : "980",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Hoa Lư", "Thời kỳ: Nhà Đinh", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
   "namDienRa" : "1009",
@@ -177,7 +187,8 @@
     "tenThoiKi" : "Nhà Tiền Lê",
     "namBatDau" : "980",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Long Đĩnh", "Nhân vật: Đào Cam Mộc", "Nhân vật: Vạn Hạnh", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
   "namDienRa" : "1010",
@@ -191,7 +202,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Hoa Lư", "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
   "namDienRa" : "905",
@@ -207,7 +219,8 @@
     "tenThoiKi" : "Xây nền tự chủ",
     "namBatDau" : "905",
     "namKetThuc" : "938"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần lần 3", "Thời kỳ: Xây nền tự chủ" ]
 }, {
   "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
   "namDienRa" : "679",
@@ -221,7 +234,8 @@
     "tenThoiKi" : "Bắc thuộc lần lần 3",
     "namBatDau" : "603",
     "namKetThuc" : "939"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Châu", "Thời kỳ: Bắc thuộc lần lần 3" ]
 }, {
   "tenSuKien" : "Triệu Quang Phục giành lại độc lập",
   "namDienRa" : "550",
@@ -233,7 +247,8 @@
     "tenThoiKi" : "Nhà Tiền Lý, Triệu",
     "namBatDau" : "544",
     "namKetThuc" : "602"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lý, Triệu" ]
 }, {
   "tenSuKien" : "Nước Vạn Xuân thành lập",
   "namDienRa" : "544",
@@ -245,7 +260,8 @@
     "tenThoiKi" : "Nhà Tiền Lý, Triệu",
     "namBatDau" : "544",
     "namKetThuc" : "602"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lý, Triệu" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Lý Bí bùng nổ",
   "namDienRa" : "542",
@@ -257,7 +273,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Bà Triệu",
   "namDienRa" : "248",
@@ -271,7 +288,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
   "namDienRa" : "42",
@@ -285,7 +303,8 @@
     "tenThoiKi" : "Trưng Nữ Vương",
     "namBatDau" : "40",
     "namKetThuc" : "43"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ", "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Hai Bà Trưng bùng nổ",
   "namDienRa" : "40",
@@ -297,7 +316,8 @@
     "tenThoiKi" : "Trưng Nữ Vương",
     "namBatDau" : "40",
     "namKetThuc" : "43"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "tenSuKien" : "Nước Âu lạc bị quân Triệu Đà xâm chiếm",
   "namDienRa" : "179",
@@ -315,7 +335,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: An Dương Vương", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
   "namDienRa" : "207",
@@ -341,7 +362,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hùng Vương", "Nhân vật: An Dương Vương", "Địa điểm: Cổ Loa", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Kháng chiến chống quân xâm lược Tần",
   "namDienRa" : null,
@@ -355,7 +377,8 @@
     "queQuan" : "Không rõ"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachThoiKi" : [ ]
+  "danhSachThoiKi" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: An Dương Vương" ]
 }, {
   "tenSuKien" : "Nhà Lý ban hành bộ luật Hình thư",
   "namDienRa" : "1042",
@@ -367,7 +390,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Nhà Lý đổi tên nước thành Đại Việt",
   "namDienRa" : "1054",
@@ -379,7 +403,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
   "namDienRa" : "1070",
@@ -397,7 +422,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Ỷ Lan", "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu",
   "namDienRa" : "1075",
@@ -409,7 +435,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
   "namDienRa" : "1076",
@@ -427,7 +454,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thánh Tông", "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
   "namDienRa" : "1077",
@@ -441,7 +469,8 @@
     "tenThoiKi" : "Nhà Lý",
     "namBatDau" : "1010",
     "namKetThuc" : "1225"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Sông Cầu", "Thời kỳ: Nhà Lý" ]
 }, {
   "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
   "namDienRa" : "1226",
@@ -459,7 +488,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thái Tông", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Ban hành Quốc triều hình luật",
   "namDienRa" : "1230",
@@ -483,7 +513,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thái Tông", "Nhân vật: Nguyễn Trung Ngạn", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
   "namDienRa" : "1253",
@@ -501,7 +532,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thái Tông", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
   "namDienRa" : "1258",
@@ -519,7 +551,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thái Tông", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
   "namDienRa" : "1285",
@@ -535,7 +568,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Cửa Hàm Tử", "Địa điểm: Bến Chương Dương", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Trận Hàm Tử",
   "namDienRa" : "1285",
@@ -551,7 +585,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Địa điểm: Cửa Hàm Tử", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
   "namDienRa" : "1288",
@@ -575,7 +610,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Khánh Dư", "Địa điểm: Thăng Long", "Địa điểm: Vân Đồn", "Địa điểm: Sông Bạch Đằng", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Trận Vân Đồn",
   "namDienRa" : "1288",
@@ -595,7 +631,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Khánh Dư", "Địa điểm: Vân Đồn", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
   "namDienRa" : "1288",
@@ -623,7 +660,8 @@
     "tenThoiKi" : "Nhà Trần",
     "namBatDau" : "1225",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Thánh Tông", "Nhân vật: Trần Nhân Tông", "Địa điểm: Thăng Long", "Địa điểm: Sông Bạch Đằng", "Thời kỳ: Nhà Trần" ]
 }, {
   "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
   "namDienRa" : "1400",
@@ -647,7 +685,8 @@
     "tenThoiKi" : "Nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1407"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Duệ Tông", "Địa điểm: Thăng Long", "Thời kỳ: Nhà Trần", "Thời kỳ: Nhà Hồ" ]
 }, {
   "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
   "namDienRa" : "1400",
@@ -663,7 +702,8 @@
     "tenThoiKi" : "Nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1407"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần", "Thời kỳ: Nhà Hồ" ]
 }, {
   "tenSuKien" : "Định quan chế và hình luật của nước Đại Ngu",
   "namDienRa" : "1401",
@@ -675,7 +715,8 @@
     "tenThoiKi" : "Nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1407"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Hồ" ]
 }, {
   "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
   "namDienRa" : "1400",
@@ -691,7 +732,8 @@
     "tenThoiKi" : "Nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1407"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần", "Thời kỳ: Nhà Hồ" ]
 }, {
   "tenSuKien" : "Cuộc xâm lược của nhà Minh 1406-1407",
   "namDienRa" : "1406",
@@ -705,7 +747,8 @@
     "tenThoiKi" : "Nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1407"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Thời kỳ: Nhà Hồ" ]
 }, {
   "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
   "namDienRa" : "1407",
@@ -723,7 +766,8 @@
     "tenThoiKi" : "Hậu Trần",
     "namBatDau" : "1407",
     "namKetThuc" : "1413"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Hồ", "Thời kỳ: Hậu Trần" ]
 }, {
   "tenSuKien" : "Cuộc khởi nghĩa Trần Quý Khoáng",
   "namDienRa" : "1409",
@@ -739,7 +783,8 @@
     "tenThoiKi" : "Hậu Trần",
     "namBatDau" : "1407",
     "namKetThuc" : "1413"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Địa điểm: Thanh Hóa", "Thời kỳ: Hậu Trần" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Lam Sơn",
   "namDienRa" : "1418",
@@ -763,7 +808,8 @@
     "tenThoiKi" : "Thuộc Minh",
     "namBatDau" : "1414",
     "namKetThuc" : "1427"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Địa điểm: Thanh Hóa", "Địa điểm: Thuận Hóa", "Địa điểm: Núi Chí Linh", "Địa điểm: Ải Chi Lăng", "Địa điểm: Tốt Động", "Thời kỳ: Thuộc Minh" ]
 }, {
   "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
   "namDienRa" : "1424",
@@ -781,7 +827,8 @@
     "tenThoiKi" : "Thuộc Minh",
     "namBatDau" : "1414",
     "namKetThuc" : "1427"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Địa điểm: Thanh Hóa", "Địa điểm: Núi Chí Linh", "Thời kỳ: Thuộc Minh" ]
 }, {
   "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
   "namDienRa" : "1425",
@@ -809,7 +856,8 @@
     "tenThoiKi" : "Thuộc Minh",
     "namBatDau" : "1414",
     "namKetThuc" : "1427"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Ngân", "Địa điểm: Thăng Long", "Địa điểm: Nghệ An", "Địa điểm: Quảng Bình", "Địa điểm: Quảng Trị", "Địa điểm: Thuận Hóa", "Thời kỳ: Thuộc Minh" ]
 }, {
   "tenSuKien" : "Trận Tốt Động – Chúc Động",
   "namDienRa" : "1426",
@@ -831,7 +879,8 @@
     "tenThoiKi" : "Thuộc Minh",
     "namBatDau" : "1414",
     "namKetThuc" : "1427"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Địa điểm: Hà Nội", "Địa điểm: Quảng Bình", "Địa điểm: Thuận Hóa", "Địa điểm: Tốt Động", "Thời kỳ: Thuộc Minh" ]
 }, {
   "tenSuKien" : "Trận Chi Lăng – Xương Giang",
   "namDienRa" : "1427",
@@ -853,7 +902,8 @@
     "tenThoiKi" : "Thuộc Minh",
     "namBatDau" : "1414",
     "namKetThuc" : "1427"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Địa điểm: Hà Nội", "Địa điểm: Ải Chi Lăng", "Địa điểm: Lạng Sơn", "Địa điểm: Chúc Động", "Thời kỳ: Thuộc Minh" ]
 }, {
   "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
   "namDienRa" : "1428",
@@ -867,7 +917,8 @@
     "tenThoiKi" : "Triều Lê Sơ",
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
   "namDienRa" : "1483",
@@ -885,7 +936,8 @@
     "tenThoiKi" : "Triều Lê Sơ",
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Thái Tông", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "tenSuKien" : "Khởi Nghĩa Trần Tuân",
   "namDienRa" : "1511",
@@ -897,7 +949,8 @@
     "tenThoiKi" : "Triều Lê Sơ",
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "tenSuKien" : "Khởi Nghĩa Trần Cảo",
   "namDienRa" : "1516",
@@ -919,7 +972,8 @@
     "tenThoiKi" : "Triều Lê Sơ",
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Mạc Đăng Dung", "Địa điểm: Thăng Long", "Địa điểm: Thanh Hóa", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
   "namDienRa" : "1527",
@@ -941,7 +995,8 @@
     "tenThoiKi" : "Nam - Bắc Triều",
     "namBatDau" : "1527",
     "namKetThuc" : "1592"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Mạc Đăng Dung", "Thời kỳ: Triều Lê Sơ", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
   "namDienRa" : "1543",
@@ -973,7 +1028,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Mạc Đăng Dung", "Nhân vật: Nguyễn Kim", "Địa điểm: Thăng Long", "Địa điểm: Thanh Hóa", "Thời kỳ: Nam - Bắc Triều", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Nhà Mạc sụp đổ",
   "namDienRa" : "1592",
@@ -1015,7 +1071,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Mạc Đăng Dung", "Nhân vật: Nguyễn Kim", "Nhân vật: Trịnh Tùng", "Địa điểm: Thăng Long", "Địa điểm: Thành Tây Đô", "Địa điểm: Nghệ An", "Địa điểm: Thanh Hóa", "Thời kỳ: Nam - Bắc Triều", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
   "namDienRa" : "1627",
@@ -1059,7 +1116,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Mạc Đăng Dung", "Nhân vật: Nguyễn Kim", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Trịnh Tráng", "Nhân vật: Trịnh Tùng", "Địa điểm: Thuận Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
   "namDienRa" : "1739",
@@ -1073,7 +1131,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Đàng Ngoài", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
   "namDienRa" : "1740",
@@ -1087,7 +1146,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Đàng Ngoài", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
   "namDienRa" : "1471",
@@ -1107,7 +1167,8 @@
     "tenThoiKi" : "Triều Lê Sơ",
     "namBatDau" : "1428",
     "namKetThuc" : "1527"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thăng Long", "Địa điểm: Nghệ An", "Địa điểm: Thanh Hóa", "Địa điểm: Đàng Ngoài", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
   "namDienRa" : "1771",
@@ -1133,7 +1194,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Nhạc", "Nhân vật: Nguyễn Lữ", "Địa điểm: Đàng Trong", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
   "namDienRa" : "1777",
@@ -1165,7 +1227,8 @@
     "tenThoiKi" : "Trịnh - Nguyễn",
     "namBatDau" : "1533",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Nhạc", "Nhân vật: Nguyễn Lữ", "Địa điểm: Gia Định", "Địa điểm: Đàng Trong", "Địa điểm: Phú Xuân", "Địa điểm: Huế", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
   "namDienRa" : "1785",
@@ -1183,7 +1246,8 @@
     "tenThoiKi" : "Nhà Tây Sơn",
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Rạch Gầm - Xoài Mút", "Thời kỳ: Trịnh - Nguyễn", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
   "namDienRa" : "1786",
@@ -1215,7 +1279,8 @@
     "tenThoiKi" : "Nhà Tây Sơn",
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Nhạc", "Địa điểm: Gia Định", "Địa điểm: Thăng Long", "Địa điểm: Đàng Trong", "Địa điểm: Đàng Ngoài", "Địa điểm: Phú Xuân", "Thời kỳ: Trịnh - Nguyễn", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "tenSuKien" : "Quân Thanh xâm lược nước ta",
   "namDienRa" : "1788",
@@ -1247,7 +1312,8 @@
     "tenThoiKi" : "Nhà Tây Sơn",
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Chiêu Thống", "Nhân vật: Đặng Tiến Đông", "Địa điểm: Thăng Long", "Địa điểm: Đàng Ngoài", "Thời kỳ: Trịnh - Nguyễn", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
   "namDienRa" : "1789",
@@ -1289,7 +1355,8 @@
     "tenThoiKi" : "Nhà Tây Sơn",
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Chiêu Thống", "Nhân vật: Tuyết", "Nhân vật: Võ Văn Dũng", "Nhân vật: Lộc", "Địa điểm: Thăng Long", "Địa điểm: Hà Nội", "Địa điểm: Nghệ An", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "tenSuKien" : "Quang Trung đột ngột qua đời",
   "namDienRa" : "1792",
@@ -1301,7 +1368,8 @@
     "tenThoiKi" : "Nhà Tây Sơn",
     "namBatDau" : "1778",
     "namKetThuc" : "1802"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
   "namDienRa" : "1802",
@@ -1321,7 +1389,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Thuận Hóa", "Địa điểm: Phú Xuân", "Thời kỳ: Nhà Tây Sơn", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Gia Long đặt quốc hiệu là Việt Nam",
   "namDienRa" : "1804",
@@ -1333,7 +1402,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Ban hành bộ luật Hoàng triều luật lệ",
   "namDienRa" : "1815",
@@ -1345,7 +1415,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Minh Mạng lên ngôi Hoàng Đế",
   "namDienRa" : "1820",
@@ -1357,7 +1428,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Quốc hiệu Đại Nam",
   "namDienRa" : "1838",
@@ -1369,7 +1441,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
   "namDienRa" : "1821",
@@ -1387,7 +1460,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bá Vành", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
   "namDienRa" : "1831",
@@ -1403,7 +1477,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Địa điểm: Phú Xuân", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
   "namDienRa" : "1854",
@@ -1417,7 +1492,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
   "namDienRa" : "1833",
@@ -1443,7 +1519,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Văn Khôi", "Nhân vật: Lê văn Duyệt", "Địa điểm: Gia Định", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
   "namDienRa" : "1858",
@@ -1461,7 +1538,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Địa điểm: Đà Nẵng", "Địa điểm: Bán đảo Sơn Trà", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Hiệp ước Nhâm Tuất",
   "namDienRa" : "1862",
@@ -1489,7 +1567,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Thanh Giản", "Địa điểm: Gia Định", "Địa điểm: Đà Nẵng", "Địa điểm: Định Tường", "Địa điểm: Biên Hòa", "Địa điểm: Vĩnh Long", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
   "namDienRa" : "1859",
@@ -1507,7 +1586,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Địa điểm: Gia Định", "Địa điểm: Bán đảo Sơn Trà", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Khởi nghĩa của Nguyễn Trung Trực",
   "namDienRa" : "1861",
@@ -1519,7 +1599,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Khởi nghĩa của Trương Định",
   "namDienRa" : "1861",
@@ -1533,7 +1614,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Mỹ Tho", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Hiệp ước Patơnốt",
   "namDienRa" : "1884",
@@ -1547,7 +1629,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Hiệp ước Quý Mùi",
   "namDienRa" : "Hiệp ước Harmand",
@@ -1561,7 +1644,8 @@
     "queQuan" : "Quảng Trị"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachThoiKi" : [ ]
+  "danhSachThoiKi" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Đình Túc" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Yên Thế",
   "namDienRa" : "1884",
@@ -1593,7 +1677,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bội Châu", "Nhân vật: Phan Châu Trinh", "Nhân vật: Hoàng Hoa Thám", "Địa điểm: Yên Thế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
   "namDienRa" : "1885",
@@ -1617,7 +1702,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Hàm Nghi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Phong trào Cần Vương",
   "namDienRa" : "1885",
@@ -1641,7 +1727,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Hàm Nghi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Bãi Sậy",
   "namDienRa" : "1885",
@@ -1665,7 +1752,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Hàm Nghi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Ba Đình",
   "namDienRa" : "1886",
@@ -1695,7 +1783,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Hàm Nghi", "Nhân vật: Đinh Công Tráng", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
   "namDienRa" : "1887",
@@ -1713,7 +1802,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Tống Duy Tân", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Khởi nghĩa Hương Khê",
   "namDienRa" : "1885",
@@ -1733,7 +1823,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Đình Phùng", "Địa điểm: Hương Khê", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
   "namDienRa" : "1874",
@@ -1751,7 +1842,8 @@
     "tenThoiKi" : "Nhà Nguyễn độc lập",
     "namBatDau" : "1802",
     "namKetThuc" : "1883"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Tuấn", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "tenSuKien" : "Hội Duy Tân được thành lập",
   "namDienRa" : "1904",
@@ -1769,7 +1861,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bội Châu", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
   "namDienRa" : "1912",
@@ -1787,7 +1880,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bội Châu", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Phong trào Đông Du",
   "namDienRa" : "1905",
@@ -1805,7 +1899,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bội Châu", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Đông Kinh Nghĩa Thục",
   "namDienRa" : "1907",
@@ -1817,7 +1912,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
   "namDienRa" : "1911",
@@ -1853,7 +1949,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Bội Châu", "Nhân vật: Phan Châu Trinh", "Nhân vật: Hoàng Hoa Thám", "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Chiến tranh thế giới thứ nhất",
   "namDienRa" : "1914",
@@ -1865,7 +1962,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Thành lập Quốc Tế Cộng Sản",
   "namDienRa" : "1919",
@@ -1877,7 +1975,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
   "namDienRa" : "1919",
@@ -1895,7 +1994,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
   "namDienRa" : "1920",
@@ -1913,7 +2013,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
   "namDienRa" : "1922",
@@ -1931,7 +2032,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Ngày Quốc Tế Phụ Nữ",
   "namDienRa" : "1910",
@@ -1943,7 +2045,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
   "namDienRa" : "1923",
@@ -1961,7 +2064,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
   "namDienRa" : "1922",
@@ -1979,7 +2083,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
   "namDienRa" : "111",
@@ -1997,7 +2102,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nhật Nam", "Địa điểm: Giao Chỉ", "Địa điểm: Cửu Chân", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Nhà Hán lập Giao Chỉ Bộ",
   "namDienRa" : "106",
@@ -2011,7 +2117,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Tô Định làm Thái thú Giao Chỉ",
   "namDienRa" : "34",
@@ -2021,7 +2128,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Giao Chỉ"
   } ],
-  "danhSachThoiKi" : [ ]
+  "danhSachThoiKi" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ" ]
 }, {
   "tenSuKien" : "Hai Bà Trưng liên kết Thi Sách chiêu mộ nghĩa binh",
   "namDienRa" : "39",
@@ -2029,7 +2137,8 @@
   "dienBien" : "Hai Bà Trưng (Trưng Trắc và Trưng Nhị) con gái Lạc tướng huyện Mê Linh – vùng lãnh thổ từ Ba Vì đến Tam Đảo (Đất bản bộ của các vua Hùng), liên kết với Thi Sách, con trai thủ lĩnh vùng Chu Diên (dọc sông Đáy) chiêu mộ nghĩa binh chuẩn bị nổi lên chống chính quyền đô hộ Đông Hán. Lãnh thổ Mê Linh và Chu Diên liền cõi, hai gia đình Lạc tướng lại là thông gia, khiến thanh thế của họ càng thêm cao, uy danh càng thêm lớn. Chính sách cai trị thắt buộc, tàn bạo của nhà Đông Hán – với viên Thái thú Tô Định – càng thôi thúc Trưng Trắc, Thi Sách hợp mưu tính kế nổi dậy.",
   "danhSachNhanVat" : [ ],
   "danhSachDiaDiem" : [ ],
-  "danhSachThoiKi" : [ ]
+  "danhSachThoiKi" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
   "namDienRa" : "1923",
@@ -2053,7 +2162,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Nhân vật: Hồ Tùng Mậu", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện",
   "namDienRa" : "1924",
@@ -2065,7 +2175,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Nguyễn Ái Quốc đến Quảng Châu",
   "namDienRa" : "Trung Quốc",
@@ -2079,7 +2190,8 @@
     "queQuan" : "Nghệ An"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachThoiKi" : [ ]
+  "danhSachThoiKi" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh" ]
 }, {
   "tenSuKien" : "Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương",
   "namDienRa" : "41",
@@ -2093,7 +2205,8 @@
     "tenThoiKi" : "Trưng Nữ Vương",
     "namBatDau" : "40",
     "namKetThuc" : "43"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ", "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
   "namDienRa" : "1925",
@@ -2117,7 +2230,8 @@
     "tenThoiKi" : "Pháp đô hộ",
     "namBatDau" : "1883",
     "namKetThuc" : "1945"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Chủ tịch Hồ Chí Minh", "Nhân vật: Hồ Tùng Mậu", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "tenSuKien" : "Mã Viện đánh vào Giao Chỉ",
   "namDienRa" : "42",
@@ -2131,7 +2245,8 @@
     "tenThoiKi" : "Trưng Nữ Vương",
     "namBatDau" : "40",
     "namKetThuc" : "43"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ", "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "tenSuKien" : "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán",
   "namDienRa" : "100",
@@ -2147,7 +2262,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nhật Nam", "Địa điểm: Tượng Lâm", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
   "namDienRa" : "137",
@@ -2165,7 +2281,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nhật Nam", "Địa điểm: Giao Chỉ", "Địa điểm: Cửu Chân", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta",
   "namDienRa" : "187",
@@ -2179,7 +2296,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Chỉ", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Nhà nước Lâm Ấp được thành lập",
   "namDienRa" : "190",
@@ -2195,7 +2313,8 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Nhật Nam", "Địa điểm: Tượng Lâm", "Thời kỳ: Bắc thuộc lần 2" ]
 }, {
   "tenSuKien" : "Nhà Hán đặt Giao Chỉ thành Giao Châu",
   "namDienRa" : "203",
@@ -2211,5 +2330,6 @@
     "tenThoiKi" : "Bắc thuộc lần 2",
     "namBatDau" : "43",
     "namKetThuc" : "542"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Địa điểm: Giao Châu", "Địa điểm: Giao Chỉ", "Thời kỳ: Bắc thuộc lần 2" ]
 } ]

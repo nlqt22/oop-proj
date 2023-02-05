@@ -2,13 +2,13 @@
   "tenThoiKi" : "Thời tiền sử",
   "namBatDau" : "Không rõ",
   "namKetThuc" : "Không rõ",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ ]
 }, {
   "tenThoiKi" : "Dựng nước",
   "namBatDau" : "2000 trCN",
   "namKetThuc" : "258 trCN",
-  "danhSachSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "An Tiêm",
     "tenGoiKhac" : [ "An Tiêm" ],
@@ -87,12 +87,13 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ]
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: An Tiêm", "Nhân vật: Âu Cơ", "Nhân vật: Bạch Hoa", "Nhân vật: Cao Sơn Đại Vương", "Nhân vật: Chử Đồng Tử", "Nhân vật: Cường Bạo Đại Vương", "Nhân vật: Hồng Bàng", "Nhân vật: Hùng Vương", "Nhân vật: Kinh Dương Vương", "Nhân vật: La Viện", "Nhân vật: Lý Ông Trọng", "Nhân vật: Phù Đổng Thiên Vương", "Nhân vật: Sùng Lãm" ]
 }, {
   "tenThoiKi" : "Nhà Thục",
   "namBatDau" : "257 trCN",
   "namKetThuc" : "208 trCN",
-  "danhSachSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Cao Thông",
     "tenGoiKhac" : [ "Cao Thông", "Cao Lỗ" ],
@@ -105,12 +106,13 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ]
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Cao Thông", "Nhân vật: Thục Phán" ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần 1",
   "namBatDau" : "207 trCN",
   "namKetThuc" : "39",
-  "danhSachSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bốc Long",
     "tenGoiKhac" : [ "Bốc Long" ],
@@ -129,11 +131,26 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ]
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Bốc Long", "Nhân vật: Châu Đạt", "Nhân vật: Lữ Gia" ]
 }, {
   "tenThoiKi" : "Trưng Nữ Vương",
   "namBatDau" : "40",
   "namKetThuc" : "43",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "An Bình Lý",
+    "tenGoiKhac" : [ "An Bình Lý" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "Bát Nạn",
+    "tenGoiKhac" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
+    "namSinh" : "17",
+    "namMat" : "43",
+    "queQuan" : "Vĩnh Phúc"
+  } ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
     "namBatDau" : "42",
@@ -151,23 +168,12 @@
     "namBatDau" : "42",
     "namKetThuc" : "42"
   } ],
-  "danhSachNhanVat" : [ {
-    "hoTen" : "An Bình Lý",
-    "tenGoiKhac" : [ "An Bình Lý" ],
-    "namSinh" : "Không rõ",
-    "namMat" : "Không rõ",
-    "queQuan" : "Vĩnh Phúc"
-  }, {
-    "hoTen" : "Bát Nạn",
-    "tenGoiKhac" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
-    "namSinh" : "17",
-    "namMat" : "43",
-    "queQuan" : "Vĩnh Phúc"
-  } ]
+  "thongTinLienQuan" : [ "Nhân vật: An Bình Lý", "Nhân vật: Bát Nạn", "Sự kiện: Kháng chiến của nhân dân ta chống quân xâm lược Hán", "Sự kiện: Khởi nghĩa Hai Bà Trưng bùng nổ", "Sự kiện: Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương", "Sự kiện: Mã Viện đánh vào Giao Chỉ" ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần 2",
   "namBatDau" : "43",
   "namKetThuc" : "542",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Khởi nghĩa Lý Bí bùng nổ",
     "namBatDau" : "542",
@@ -213,11 +219,12 @@
     "namBatDau" : "203",
     "namKetThuc" : "203"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lý Bí bùng nổ", "Sự kiện: Khởi nghĩa Bà Triệu", "Sự kiện: Nước Âu lạc bị quân Triệu Đà xâm chiếm", "Sự kiện: Nước Âu lạc của An Dương Vương thành lập", "Sự kiện: Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc", "Sự kiện: Nhà Hán lập Giao Chỉ Bộ", "Sự kiện: Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán", "Sự kiện: Khởi nghĩa ở quận Nhật Nam", "Sự kiện: Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta", "Sự kiện: Nhà nước Lâm Ấp được thành lập", "Sự kiện: Nhà Hán đặt Giao Chỉ thành Giao Châu" ]
 }, {
   "tenThoiKi" : "Nhà Tiền Lý, Triệu",
   "namBatDau" : "544",
   "namKetThuc" : "602",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Triệu Quang Phục giành lại độc lập",
     "namBatDau" : "550",
@@ -227,11 +234,12 @@
     "namBatDau" : "544",
     "namKetThuc" : "544"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Triệu Quang Phục giành lại độc lập", "Sự kiện: Nước Vạn Xuân thành lập" ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần lần 3",
   "namBatDau" : "603",
   "namKetThuc" : "939",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Nhà nước Văn Lang ra đời",
     "namBatDau" : "700",
@@ -261,11 +269,12 @@
     "namBatDau" : "679",
     "namKetThuc" : "679"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Nhà nước Văn Lang ra đời", "Sự kiện: Ngô Quyền xưng vương, đóng đô ở Cổ Loa", "Sự kiện: Kháng chiến chống quân Nam Hán lần thứ nhất", "Sự kiện: Khởi nghĩa Phùng Hưng", "Sự kiện: Khởi nghĩa Mai Thúc Loan", "Sự kiện: Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ", "Sự kiện: Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ" ]
 }, {
   "tenThoiKi" : "Xây nền tự chủ",
   "namBatDau" : "905",
   "namKetThuc" : "938",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
     "namBatDau" : "930",
@@ -275,11 +284,12 @@
     "namBatDau" : "905",
     "namKetThuc" : "905"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Kháng chiến chống quân Nam Hán lần thứ nhất", "Sự kiện: Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ" ]
 }, {
   "tenThoiKi" : "Nhà Ngô",
   "namBatDau" : "939",
   "namKetThuc" : "965",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
     "namBatDau" : "939",
@@ -289,20 +299,11 @@
     "namBatDau" : "965",
     "namKetThuc" : "967"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Ngô Quyền xưng vương, đóng đô ở Cổ Loa", "Sự kiện: Loạn 12 sứ quân" ]
 }, {
   "tenThoiKi" : "Nhà Đinh",
   "namBatDau" : "968",
   "namKetThuc" : "980",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
-    "namBatDau" : "968",
-    "namKetThuc" : "968"
-  }, {
-    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
-    "namBatDau" : "980",
-    "namKetThuc" : "1009"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Phạm Hạp",
     "tenGoiKhac" : [ "Phạm Hạp" ],
@@ -327,24 +328,21 @@
     "namSinh" : "941",
     "namMat" : "1005",
     "queQuan" : "Nam Định"
-  } ]
-}, {
-  "tenThoiKi" : "Nhà Tiền Lê",
-  "namBatDau" : "980",
-  "namKetThuc" : "1009",
+  } ],
   "danhSachSuKien" : [ {
-    "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
-    "namBatDau" : "981",
-    "namKetThuc" : "981"
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
   }, {
     "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
     "namBatDau" : "980",
     "namKetThuc" : "1009"
-  }, {
-    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
-    "namBatDau" : "1009",
-    "namKetThuc" : "1009"
   } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phạm Hạp", "Nhân vật: Đinh Duệ", "Nhân vật: Đỗ Pháp Thuận", "Nhân vật: Lê Hoàn", "Sự kiện: Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua", "Sự kiện: Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư" ]
+}, {
+  "tenThoiKi" : "Nhà Tiền Lê",
+  "namBatDau" : "980",
+  "namKetThuc" : "1009",
   "danhSachNhanVat" : [ {
     "hoTen" : "Đinh Duệ",
     "tenGoiKhac" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
@@ -447,40 +445,25 @@
     "namSinh" : "Không rõ",
     "namMat" : "1018",
     "queQuan" : "Bắc Ninh"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
+    "namBatDau" : "981",
+    "namKetThuc" : "981"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
+    "namBatDau" : "1009",
+    "namKetThuc" : "1009"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đinh Duệ", "Nhân vật: Đỗ Pháp Thuận", "Nhân vật: Lê Hoàn", "Nhân vật: Bạch Hoa", "Nhân vật: Đinh Lễ", "Nhân vật: Giang Cự Vọng", "Nhân vật: Hoàng Thành Nhã", "Nhân vật: Lê Long Cảnh", "Nhân vật: Lê Long Đinh", "Nhân vật: Lê Long Đĩnh", "Nhân vật: Lê Long Việt", "Nhân vật: Lê Ngân Tích", "Nhân vật: Ngô Chân Lưu", "Nhân vật: Ngô Tử An", "Nhân vật: Ngô Tử Canh", "Nhân vật: Đào Cam Mộc", "Nhân vật: Vạn Hạnh", "Sự kiện: Lê Hoàn đánh bại quân Tống", "Sự kiện: Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư", "Sự kiện: Lý Công Uẩn lên ngôi, lập ra nhà Lý" ]
 }, {
   "tenThoiKi" : "Nhà Lý",
   "namBatDau" : "1010",
   "namKetThuc" : "1225",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
-    "namBatDau" : "1010",
-    "namKetThuc" : "1010"
-  }, {
-    "tenSuKien" : "Nhà Lý ban hành bộ luật Hình thư",
-    "namBatDau" : "1042",
-    "namKetThuc" : "1042"
-  }, {
-    "tenSuKien" : "Nhà Lý đổi tên nước thành Đại Việt",
-    "namBatDau" : "1054",
-    "namKetThuc" : "1054"
-  }, {
-    "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
-    "namBatDau" : "1070",
-    "namKetThuc" : "1070"
-  }, {
-    "tenSuKien" : "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu",
-    "namBatDau" : "1075",
-    "namKetThuc" : "1075"
-  }, {
-    "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
-    "namBatDau" : "1076",
-    "namKetThuc" : "1076"
-  }, {
-    "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
-    "namBatDau" : "1077",
-    "namKetThuc" : "1077"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Đào Cam Mộc",
     "tenGoiKhac" : [ "Đào Cam Mộc" ],
@@ -625,60 +608,41 @@
     "namSinh" : "Không rõ",
     "namMat" : "1117",
     "queQuan" : "Bắc Ninh"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  }, {
+    "tenSuKien" : "Nhà Lý ban hành bộ luật Hình thư",
+    "namBatDau" : "1042",
+    "namKetThuc" : "1042"
+  }, {
+    "tenSuKien" : "Nhà Lý đổi tên nước thành Đại Việt",
+    "namBatDau" : "1054",
+    "namKetThuc" : "1054"
+  }, {
+    "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
+    "namBatDau" : "1070",
+    "namKetThuc" : "1070"
+  }, {
+    "tenSuKien" : "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu",
+    "namBatDau" : "1075",
+    "namKetThuc" : "1075"
+  }, {
+    "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
+    "namBatDau" : "1076",
+    "namKetThuc" : "1076"
+  }, {
+    "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
+    "namBatDau" : "1077",
+    "namKetThuc" : "1077"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đào Cam Mộc", "Nhân vật: Vạn Hạnh", "Nhân vật: Âu Đạo Huệ", "Nhân vật: Bản Tịch", "Nhân vật: Nguyễn Nộn", "Nhân vật: Nguyễn Quảng Nghiêm", "Nhân vật: Nguyễn Trí Bảo", "Nhân vật: Nguyễn Tuân", "Nhân vật: Nguyễn Y Sơn", "Nhân vật: Nhan Quảng Trí", "Nhân vật: Phạm Bỉnh Di", "Nhân vật: Phạm Thường Chiếu", "Nhân vật: Phan Trường Nguyên", "Nhân vật: Pháp Bảo", "Nhân vật: Phùng Tá Chu", "Nhân vật: Quách Bốc", "Nhân vật: Tô Hiến Thành", "Nhân vật: Tô Minh Trí", "Nhân vật: Tôn Đản", "Nhân vật: Từ Lộ", "Nhân vật: Vạn Trì Bát", "Nhân vật: Viên Thông", "Nhân vật: Vương Hải Thiềm", "Nhân vật: Ỷ Lan", "Sự kiện: Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long", "Sự kiện: Nhà Lý ban hành bộ luật Hình thư", "Sự kiện: Nhà Lý đổi tên nước thành Đại Việt", "Sự kiện: Nhà Lý lập Văn Miếu thờ Khổng Tử", "Sự kiện: Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu", "Sự kiện: Lập Quốc tử giám ở kinh đô Thăng Long", "Sự kiện: Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi" ]
 }, {
   "tenThoiKi" : "Nhà Trần",
   "namBatDau" : "1225",
   "namKetThuc" : "1400",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
-    "namBatDau" : "1226",
-    "namKetThuc" : "1226"
-  }, {
-    "tenSuKien" : "Ban hành Quốc triều hình luật",
-    "namBatDau" : "1230",
-    "namKetThuc" : "1230"
-  }, {
-    "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
-    "namBatDau" : "1253",
-    "namKetThuc" : "1253"
-  }, {
-    "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
-    "namBatDau" : "1258",
-    "namKetThuc" : "1258"
-  }, {
-    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
-    "namBatDau" : "1285",
-    "namKetThuc" : "1285"
-  }, {
-    "tenSuKien" : "Trận Hàm Tử",
-    "namBatDau" : "1285",
-    "namKetThuc" : "1285"
-  }, {
-    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
-    "namBatDau" : "1288",
-    "namKetThuc" : "1288"
-  }, {
-    "tenSuKien" : "Trận Vân Đồn",
-    "namBatDau" : "1288",
-    "namKetThuc" : "1288"
-  }, {
-    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
-    "namBatDau" : "1288",
-    "namKetThuc" : "1288"
-  }, {
-    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
-    "namBatDau" : "1400",
-    "namKetThuc" : "1400"
-  }, {
-    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
-    "namBatDau" : "1400",
-    "namKetThuc" : "1407"
-  }, {
-    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
-    "namBatDau" : "1400",
-    "namKetThuc" : "1407"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Nguyễn Thuyên",
     "tenGoiKhac" : [ "Nguyễn Thuyên" ],
@@ -799,11 +763,62 @@
     "namSinh" : "Không rõ",
     "namMat" : "1391",
     "queQuan" : "Không rõ"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
+    "namBatDau" : "1226",
+    "namKetThuc" : "1226"
+  }, {
+    "tenSuKien" : "Ban hành Quốc triều hình luật",
+    "namBatDau" : "1230",
+    "namKetThuc" : "1230"
+  }, {
+    "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
+    "namBatDau" : "1253",
+    "namKetThuc" : "1253"
+  }, {
+    "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
+    "namBatDau" : "1258",
+    "namKetThuc" : "1258"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Trận Hàm Tử",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Trận Vân Đồn",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Thuyên", "Nhân vật: Nguyễn Trung Ngạn", "Nhân vật: Phạm Bân", "Nhân vật: Phạm Cư Sĩ", "Nhân vật: Phạm Cụ Trích", "Nhân vật: Phạm Ngũ Lão", "Nhân vật: Phạm Nhân Khanh", "Nhân vật: Sử Hy Nhan", "Nhân vật: Trần Anh Tông", "Nhân vật: Trần Bình Trọng", "Nhân vật: Trần Cảnh", "Nhân vật: Trần Hạo", "Nhân vật: Trần Hoảng", "Nhân vật: Trần Ích Tắc", "Nhân vật: Trần Khâm", "Nhân vật: Trần Khánh Dư", "Nhân vật: Trần Khát Chân", "Nhân vật: Trần Kính", "Nhân vật: Trần Mạnh", "Nhân vật: Trần Ngạc", "Sự kiện: Trần Cảnh lên ngôi vua, nhà Trần thành lập", "Sự kiện: Ban hành Quốc triều hình luật", "Sự kiện: Lập Quốc học viện và Giảng võ đường", "Sự kiện: Chiến thắng quân xâm lược Mông Cổ lần thứ nhất", "Sự kiện: Chiến thắng quân Nguyên lần hai", "Sự kiện: Trận Hàm Tử", "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Trận Vân Đồn", "Sự kiện: Chiến Thắng Bạch Đằng năm 1288", "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Sự kiện: Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu", "Sự kiện: Chiến tranh Việt Chiêm 1400-1407" ]
 }, {
   "tenThoiKi" : "Nhà Hồ",
   "namBatDau" : "1400",
   "namKetThuc" : "1407",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
     "namBatDau" : "1400",
@@ -829,11 +844,12 @@
     "namBatDau" : "1407",
     "namKetThuc" : "1409"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Sự kiện: Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu", "Sự kiện: Định quan chế và hình luật của nước Đại Ngu", "Sự kiện: Chiến tranh Việt Chiêm 1400-1407", "Sự kiện: Cuộc xâm lược của nhà Minh 1406-1407", "Sự kiện: Cuộc khởi nghĩa Trần Ngỗi" ]
 }, {
   "tenThoiKi" : "Hậu Trần",
   "namBatDau" : "1407",
   "namKetThuc" : "1413",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
     "namBatDau" : "1407",
@@ -843,11 +859,12 @@
     "namBatDau" : "1409",
     "namKetThuc" : "1414"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Cuộc khởi nghĩa Trần Ngỗi", "Sự kiện: Cuộc khởi nghĩa Trần Quý Khoáng" ]
 }, {
   "tenThoiKi" : "Thuộc Minh",
   "namBatDau" : "1414",
   "namKetThuc" : "1427",
+  "danhSachNhanVat" : [ ],
   "danhSachSuKien" : [ {
     "tenSuKien" : "Khởi nghĩa Lam Sơn",
     "namBatDau" : "1418",
@@ -869,36 +886,11 @@
     "namBatDau" : "1427",
     "namKetThuc" : "1427"
   } ],
-  "danhSachNhanVat" : [ ]
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Nghệ An", "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Trận Tốt Động – Chúc Động", "Sự kiện: Trận Chi Lăng – Xương Giang" ]
 }, {
   "tenThoiKi" : "Triều Lê Sơ",
   "namBatDau" : "1428",
   "namKetThuc" : "1527",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
-    "namBatDau" : "1428",
-    "namKetThuc" : "1428"
-  }, {
-    "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
-    "namBatDau" : "1483",
-    "namKetThuc" : "1483"
-  }, {
-    "tenSuKien" : "Khởi Nghĩa Trần Tuân",
-    "namBatDau" : "1511",
-    "namKetThuc" : "1511"
-  }, {
-    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
-    "namBatDau" : "1516",
-    "namKetThuc" : "1516"
-  }, {
-    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
-    "namBatDau" : "1527",
-    "namKetThuc" : "1527"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
-    "namBatDau" : "1471",
-    "namKetThuc" : "1751"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bùi Công Hành",
     "tenGoiKhac" : [ "Bùi Công Hành" ],
@@ -1139,24 +1131,37 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Thanh Hóa"
-  } ]
-}, {
-  "tenThoiKi" : "Nam - Bắc Triều",
-  "namBatDau" : "1527",
-  "namKetThuc" : "1592",
+  } ],
   "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
+    "namBatDau" : "1428",
+    "namKetThuc" : "1428"
+  }, {
+    "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
+    "namBatDau" : "1483",
+    "namKetThuc" : "1483"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Tuân",
+    "namBatDau" : "1511",
+    "namKetThuc" : "1511"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
     "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
     "namBatDau" : "1527",
     "namKetThuc" : "1527"
   }, {
-    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
-    "namBatDau" : "1543",
-    "namKetThuc" : "1592"
-  }, {
-    "tenSuKien" : "Nhà Mạc sụp đổ",
-    "namBatDau" : "1592",
-    "namKetThuc" : "1592"
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
   } ],
+  "thongTinLienQuan" : [ "Nhân vật: Bùi Công Hành", "Nhân vật: Bùi Công Phụ", "Nhân vật: Bùi Dục Tài", "Nhân vật: Bùi Đạt", "Nhân vật: Bùi Đoan Giáo", "Nhân vật: Bùi Hoàn Khánh", "Nhân vật: Bùi Tấn Diên", "Nhân vật: Bùi Xương Trạch", "Nhân vật: Cái Phùng", "Nhân vật: Cao Quýnh", "Nhân vật: Châu Doãn Văn", "Nhân vật: Diêu Viễn", "Nhân vật: Dương Đúc Nhan", "Nhân vật: Dương Như Châu", "Nhân vật: Dương Tôn Hải", "Nhân vật: Dương Trực Nguyên", "Nhân vật: Dương Tử Do", "Nhân vật: Đàm Thận Huy", "Nhân vật: Đàm Văn Lễ", "Nhân vật: Đặng Chiêm", "Nhân vật: Lưu Xuân Tín", "Nhân vật: Lý Tử Tấn", "Nhân vật: Mạc Bang Hộ", "Nhân vật: Nghiêm Bá Ký", "Nhân vật: Nghiêm Hiến", "Nhân vật: Nghiêm Ích Khiêm", "Nhân vật: Nghiêm Viến", "Nhân vật: Ngô Chi Lan", "Nhân vật: Ngô Hoán", "Nhân vật: Ngô Sĩ Liên", "Nhân vật: Ngô Thị Ngọc Dao", "Nhân vật: Ngô Từ", "Nhân vật: Nguyễn Anh Võ", "Nhân vật: Nguyễn Bá Kí", "Nhân vật: Nguyễn Bảo", "Nhân vật: Nguyễn Địch Tâm", "Nhân vật: Nguyễn Đức Trung", "Nhân vật: Nguyễn Giản Thanh", "Nhân vật: Nguyễn Hãng", "Nhân vật: Nguyễn Lí", "Sự kiện: Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt", "Sự kiện: Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức", "Sự kiện: Khởi Nghĩa Trần Tuân", "Sự kiện: Khởi Nghĩa Trần Cảo", "Sự kiện: Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu" ]
+}, {
+  "tenThoiKi" : "Nam - Bắc Triều",
+  "namBatDau" : "1527",
+  "namKetThuc" : "1592",
   "danhSachNhanVat" : [ {
     "hoTen" : "Giáp Hải",
     "tenGoiKhac" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
@@ -1277,15 +1282,11 @@
     "namSinh" : "Không rõ",
     "namMat" : "1593",
     "queQuan" : "Không rõ"
-  } ]
-}, {
-  "tenThoiKi" : "Trịnh - Nguyễn",
-  "namBatDau" : "1533",
-  "namKetThuc" : "1788",
+  } ],
   "danhSachSuKien" : [ {
-    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
-    "namBatDau" : "1698",
-    "namKetThuc" : "1698"
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
   }, {
     "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
     "namBatDau" : "1543",
@@ -1294,39 +1295,12 @@
     "tenSuKien" : "Nhà Mạc sụp đổ",
     "namBatDau" : "1592",
     "namKetThuc" : "1592"
-  }, {
-    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
-    "namBatDau" : "1627",
-    "namKetThuc" : "1672"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
-    "namBatDau" : "1739",
-    "namKetThuc" : "1769"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
-    "namBatDau" : "1740",
-    "namKetThuc" : "1751"
-  }, {
-    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
-    "namBatDau" : "1771",
-    "namKetThuc" : "1771"
-  }, {
-    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
-    "namBatDau" : "1777",
-    "namKetThuc" : "1777"
-  }, {
-    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
-    "namBatDau" : "1785",
-    "namKetThuc" : "1785"
-  }, {
-    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
-    "namBatDau" : "1786",
-    "namKetThuc" : "1786"
-  }, {
-    "tenSuKien" : "Quân Thanh xâm lược nước ta",
-    "namBatDau" : "1788",
-    "namKetThuc" : "1788"
   } ],
+  "thongTinLienQuan" : [ "Nhân vật: Giáp Hải", "Nhân vật: Hà Nhậm Đại", "Nhân vật: Hoàng Bôi", "Nhân vật: Hoàng Công Châu", "Nhân vật: Hoàng Nghĩa Thân", "Nhân vật: Hoàng Sầm", "Nhân vật: Hoàng Sĩ Khải", "Nhân vật: Lại Thế Khanh", "Nhân vật: Lê Bá Ly", "Nhân vật: Lê Duy Bang", "Nhân vật: Lê Duy Đàm", "Nhân vật: Lê Duy Huyên", "Nhân vật: Lê Nhu Hổ", "Nhân vật: Lê Quang Bí", "Nhân vật: Lê Vô Cương", "Nhân vật: Lương Hữu Khánh", "Nhân vật: Mạc Chính Trung", "Nhân vật: Mạc Đăng Doanh", "Nhân vật: Mạc Đăng Dung", "Nhân vật: Mạc Đôn Nhượng", "Sự kiện: Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ" ]
+}, {
+  "tenThoiKi" : "Trịnh - Nguyễn",
+  "namBatDau" : "1533",
+  "namKetThuc" : "1788",
   "danhSachNhanVat" : [ {
     "hoTen" : "Dương Trọng Khiêm",
     "tenGoiKhac" : [ "Dương Trọng Khiêm" ],
@@ -1807,12 +1781,40 @@
     "namSinh" : "1718",
     "namMat" : "1782",
     "queQuan" : "Bắc Ninh"
-  } ]
-}, {
-  "tenThoiKi" : "Nhà Tây Sơn",
-  "namBatDau" : "1778",
-  "namKetThuc" : "1802",
+  } ],
   "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
+    "namBatDau" : "1739",
+    "namKetThuc" : "1769"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
+    "namBatDau" : "1740",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
     "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
     "namBatDau" : "1785",
     "namKetThuc" : "1785"
@@ -1824,19 +1826,12 @@
     "tenSuKien" : "Quân Thanh xâm lược nước ta",
     "namBatDau" : "1788",
     "namKetThuc" : "1788"
-  }, {
-    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
-    "namBatDau" : "1789",
-    "namKetThuc" : "1789"
-  }, {
-    "tenSuKien" : "Quang Trung đột ngột qua đời",
-    "namBatDau" : "1792",
-    "namKetThuc" : "1792"
-  }, {
-    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
-    "namBatDau" : "1802",
-    "namKetThuc" : "1802"
   } ],
+  "thongTinLienQuan" : [ "Nhân vật: Dương Trọng Khiêm", "Nhân vật: Đặng Chất", "Nhân vật: Đặng Đại Độ", "Nhân vật: Đặng Đình Đông", "Nhân vật: Đặng Đình Gián", "Nhân vật: Đặng Đình Lân", "Nhân vật: Đặng Đình Tướng", "Nhân vật: Đặng Đức Thuật", "Nhân vật: Đặng Hữu Tâm", "Nhân vật: Đặng Thái Phương", "Nhân vật: Đặng Thế Khoa", "Nhân vật: Đặng Tiến Thự", "Nhân vật: Đặng Trần Côn", "Nhân vật: Đào Bí", "Nhân vật: Đào Công Chính", "Nhân vật: Đào Duy Từ", "Nhân vật: Đào Quang Nhiêu", "Nhân vật: Đào Tá Hán", "Nhân vật: Đinh Nhạ Hành", "Nhân vật: Đinh Nho Công", "Nhân vật: Lê Duy Chỉ", "Nhân vật: Lê Duy Đào", "Nhân vật: Lê Duy Đường", "Nhân vật: Lê Duy Hội", "Nhân vật: Lê Duy Hợp", "Nhân vật: Lê Duy Hựu", "Nhân vật: Lê Duy Khiêm", "Nhân vật: Lê Duy Kỳ", "Nhân vật: Lê Duy Mật", "Nhân vật: Lê Duy Ninh", "Nhân vật: Lê Duy Phương", "Nhân vật: Lê Duy Quí", "Nhân vật: Lê Duy Tân", "Nhân vật: Lê Duy Thìn", "Nhân vật: Lê Duy Tường", "Nhân vật: Lê Duy Võ", "Nhân vật: Lê Hân", "Nhân vật: Lê Hi", "Nhân vật: Lê Hữu Danh", "Nhân vật: Lê Hữu Kiều", "Nhân vật: Nguyễn Gia Thiều", "Nhân vật: Nguyễn Hàm Trực", "Nhân vật: Nguyễn Hoản", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Hữu Dật", "Nhân vật: Nguyễn Hữu Hào", "Nhân vật: Nguyễn Hữu Kính", "Nhân vật: Nguyễn Hữu Thận", "Nhân vật: Nguyễn Hữu Tiến (I)", "Nhân vật: Nguyễn Huy Oánh", "Nhân vật: Nguyễn Huy Tự", "Nhân vật: Nguyễn Khoa Chiêm", "Nhân vật: Nguyễn Khoa Đăng", "Nhân vật: Nguyễn Khoa Kiên", "Nhân vật: Nguyễn Khoa Toàn", "Nhân vật: Nguyễn Kiều", "Nhân vật: Nguyễn Kim", "Nhân vật: Nguyễn Lại", "Nhân vật: Nguyễn Mậu Áng", "Nhân vật: Nguyễn Mậu Tuyên", "Nhân vật: Trịnh Cương", "Nhân vật: Trịnh Doanh", "Nhân vật: Trịnh Giang", "Nhân vật: Trịnh Sâm", "Nhân vật: Trịnh Tạc", "Nhân vật: Trịnh Tông", "Nhân vật: Trịnh Tráng", "Nhân vật: Trịnh Tùng", "Nhân vật: Trương Phúc Loan", "Nhân vật: Trương Phước Phan", "Nhân vật: Văn Đình Dẫn", "Nhân vật: Võ Biết", "Nhân vật: Võ Công Đạo", "Nhân vật: Võ Công Tuấn", "Nhân vật: Võ Diệm", "Nhân vật: Võ Duy Chí", "Nhân vật: Võ Duy Đoán", "Nhân vật: Võ Đình Dung", "Nhân vật: Võ Đức Nghiêm", "Nhân vật: Võ Miên", "Sự kiện: Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Sự kiện: Khởi nghĩa Hoàng Công Chất", "Sự kiện: Khởi nghĩa Nguyễn Danh Phương", "Sự kiện: Khởi nghĩa nông dân Tây Sơn bùng nổ", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Chiến thắng Rạch Gầm – Xoài Mút", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta" ]
+}, {
+  "tenThoiKi" : "Nhà Tây Sơn",
+  "namBatDau" : "1778",
+  "namKetThuc" : "1802",
   "danhSachNhanVat" : [ {
     "hoTen" : "Lê Thị Ngọc Hân",
     "tenGoiKhac" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
@@ -1933,72 +1928,37 @@
     "namSinh" : "1794",
     "namMat" : "1843",
     "queQuan" : "Hải Dương"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  }, {
+    "tenSuKien" : "Quang Trung đột ngột qua đời",
+    "namBatDau" : "1792",
+    "namKetThuc" : "1792"
+  }, {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Thị Ngọc Hân", "Nhân vật: Lê Văn Long", "Nhân vật: Lê Văn Thủ", "Nhân vật: Ngô Văn Sở", "Nhân vật: Ngụy Nguyên", "Nhân vật: Nguyễn Lữ", "Nhân vật: Nguyễn Nhạc", "Nhân vật: Nguyễn Phúc Cảnh", "Nhân vật: Nguyễn Quang Thùy", "Nhân vật: Nguyễn Quang Toản", "Nhân vật: Trần Văn Kỉ", "Nhân vật: Trương Văn Đa", "Nhân vật: Võ Văn Dũng", "Nhân vật: Hồ Văn Bôi", "Nhân vật: Lê Chất", "Nhân vật: Nguyễn Thế Chuẩn", "Sự kiện: Chiến thắng Rạch Gầm – Xoài Mút", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta", "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Sự kiện: Quang Trung đột ngột qua đời", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập" ]
 }, {
   "tenThoiKi" : "Nhà Nguyễn độc lập",
   "namBatDau" : "1802",
   "namKetThuc" : "1883",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
-    "namBatDau" : "1802",
-    "namKetThuc" : "1802"
-  }, {
-    "tenSuKien" : "Gia Long đặt quốc hiệu là Việt Nam",
-    "namBatDau" : "1804",
-    "namKetThuc" : "1804"
-  }, {
-    "tenSuKien" : "Ban hành bộ luật Hoàng triều luật lệ",
-    "namBatDau" : "1815",
-    "namKetThuc" : "1815"
-  }, {
-    "tenSuKien" : "Minh Mạng lên ngôi Hoàng Đế",
-    "namBatDau" : "1820",
-    "namKetThuc" : "1820"
-  }, {
-    "tenSuKien" : "Quốc hiệu Đại Nam",
-    "namBatDau" : "1838",
-    "namKetThuc" : "1838"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
-    "namBatDau" : "1821",
-    "namKetThuc" : "1827"
-  }, {
-    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
-    "namBatDau" : "1831",
-    "namKetThuc" : "1832"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
-    "namBatDau" : "1854",
-    "namKetThuc" : "1856"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
-    "namBatDau" : "1833",
-    "namKetThuc" : "1835"
-  }, {
-    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
-    "namBatDau" : "1858",
-    "namKetThuc" : "1858"
-  }, {
-    "tenSuKien" : "Hiệp ước Nhâm Tuất",
-    "namBatDau" : "1862",
-    "namKetThuc" : "1862"
-  }, {
-    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
-    "namBatDau" : "1859",
-    "namKetThuc" : "1859"
-  }, {
-    "tenSuKien" : "Khởi nghĩa của Nguyễn Trung Trực",
-    "namBatDau" : "1861",
-    "namKetThuc" : "1861"
-  }, {
-    "tenSuKien" : "Khởi nghĩa của Trương Định",
-    "namBatDau" : "1861",
-    "namKetThuc" : "1861"
-  }, {
-    "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
-    "namBatDau" : "1874",
-    "namKetThuc" : "1874"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Hồ Văn Bôi",
     "tenGoiKhac" : [ "Hồ Văn Bôi" ],
@@ -2641,108 +2601,73 @@
     "namSinh" : "1858",
     "namMat" : "1913",
     "queQuan" : "Hưng Yên"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  }, {
+    "tenSuKien" : "Gia Long đặt quốc hiệu là Việt Nam",
+    "namBatDau" : "1804",
+    "namKetThuc" : "1804"
+  }, {
+    "tenSuKien" : "Ban hành bộ luật Hoàng triều luật lệ",
+    "namBatDau" : "1815",
+    "namKetThuc" : "1815"
+  }, {
+    "tenSuKien" : "Minh Mạng lên ngôi Hoàng Đế",
+    "namBatDau" : "1820",
+    "namKetThuc" : "1820"
+  }, {
+    "tenSuKien" : "Quốc hiệu Đại Nam",
+    "namBatDau" : "1838",
+    "namKetThuc" : "1838"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
+    "namBatDau" : "1821",
+    "namKetThuc" : "1827"
+  }, {
+    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+    "namBatDau" : "1831",
+    "namKetThuc" : "1832"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
+    "namBatDau" : "1854",
+    "namKetThuc" : "1856"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  }, {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  }, {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Nguyễn Trung Trực",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Trương Định",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
+    "namBatDau" : "1874",
+    "namKetThuc" : "1874"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hồ Văn Bôi", "Nhân vật: Lê Chất", "Nhân vật: Nguyễn Thế Chuẩn", "Nhân vật: An Thiền", "Nhân vật: An Thường", "Nhân vật: Âu Dương Lân", "Nhân vật: Bạch Công Trân", "Nhân vật: Đào Doãn Địch", "Nhân vật: Đào Duy Chung", "Nhân vật: Đào Tấn", "Nhân vật: Đào Trí", "Nhân vật: Đẩu Nương", "Nhân vật: Đinh Công Mĩ", "Nhân vật: Đinh Nhật Tân", "Nhân vật: Đinh Nhật Thận", "Nhân vật: Đinh Nho Chấn", "Nhân vật: Đinh Nho Điển", "Nhân vật: Đinh Thế Quang", "Nhân vật: Đinh Văn Chất", "Nhân vật: Đinh Văn Điển", "Nhân vật: Đỗ Công Tường", "Nhân vật: Đỗ Đăng Đệ", "Nhân vật: Đỗ Hải Thuận", "Nhân vật: Đỗ Huy Liêu", "Nhân vật: Đỗ Huy Uyển", "Nhân vật: Đỗ Minh Tâm", "Nhân vật: Đỗ Quang", "Nhân vật: Lê Nguyên Trung", "Nhân vật: Lê Quang Định", "Nhân vật: Lê Quang Quan", "Nhân vật: Lê Sĩ", "Nhân vật: Lê Thành Phương", "Nhân vật: Lê Trọng Đôn", "Nhân vật: Lê Trung Đình", "Nhân vật: Lê Tuấn", "Nhân vật: Lê Văn Duyệt", "Nhân vật: Lê Văn Gẫm", "Nhân vật: Lê Văn Khôi", "Nhân vật: Lê Văn Lộc", "Nhân vật: Lê Vĩnh Khanh", "Nhân vật: Lữ Xuân Uy", "Nhân vật: Lưu Đình Lễ", "Nhân vật: Lý Văn Phức", "Nhân vật: Ma Danh Cúc", "Nhân vật: Mai Đằng Phương", "Nhân vật: Mai Xuân Thưởng", "Nhân vật: Ngô Đức Chính", "Nhân vật: Nguyễn Văn Diêu", "Nhân vật: Nguyễn Văn Dục", "Nhân vật: Nguyễn Văn Giao", "Nhân vật: Nguyễn Văn Giáp", "Nhân vật: Nguyễn Văn Hoành", "Nhân vật: Nguyễn Văn Linh", "Nhân vật: Nguyễn Văn Siêu", "Nhân vật: Nguyễn Văn Trắm", "Nhân vật: Nguyễn Văn Xán", "Nhân vật: Nguyễn Xuân Ôn", "Nhân vật: Nhữ Bá Sĩ", "Nhân vật: Nông Văn Vân", "Nhân vật: Phạm Đăng Giảng", "Nhân vật: Phạm Đình Dục", "Nhân vật: Phạm Đình Hổ", "Nhân vật: Phạm Đình Trạc", "Nhân vật: Phạm Hi Lượng", "Nhân vật: Phạm Hoằng Đạt", "Nhân vật: Phạm Hội", "Nhân vật: Phạm Hữu Nghi", "Nhân vật: Võ Duy Đề", "Nhân vật: Võ Duy Ninh", "Nhân vật: Võ Duy Thanh", "Nhân vật: Võ Đăng Xuân", "Nhân vật: Võ Đức Khuê", "Nhân vật: Võ Xuân Cẩn", "Nhân vật: Vũ Nhự", "Nhân vật: Vũ Phạm Khải", "Nhân vật: Vũ Tông Phan", "Nhân vật: Vũ Văn Tuấn", "Nhân vật: Vương Duy Trinh", "Nhân vật: Bùi Dị", "Nhân vật: Bùi Như Quảng", "Nhân vật: Cầm Bá Thước", "Nhân vật: Cao Đạt", "Nhân vật: Cao Xuân Dục", "Nhân vật: Châu Mạnh Trinh", "Nhân vật: Châu Thuợng Văn", "Nhân vật: Đinh Công Tráng", "Nhân vật: Đinh Nho Quang", "Nhân vật: Tôn Thất Hân", "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Tống Duy Tân", "Nhân vật: Tổng Lung", "Nhân vật: Trần Bá Lộc", "Nhân vật: Trần Đình Phong", "Nhân vật: Trần Đình Túc", "Nhân vật: Trần Hữu Thường", "Nhân vật: Trần Lục", "Nhân vật: Trần Quang Diêm", "Nhân vật: Trần Thuyết", "Nhân vật: Trần Trọng Cung", "Nhân vật: Trần Trọng Khiêm", "Nhân vật: Trần Viết Thọ", "Nhân vật: Trần Xuân Soạn", "Nhân vật: Trương Như Cương", "Nhân vật: Trương Quang Đản", "Nhân vật: Trương Quang Ngọc", "Nhân vật: Trương Trọng Hữu", "Nhân vật: Trương Văn Thám", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập", "Sự kiện: Gia Long đặt quốc hiệu là Việt Nam", "Sự kiện: Ban hành bộ luật Hoàng triều luật lệ", "Sự kiện: Minh Mạng lên ngôi Hoàng Đế", "Sự kiện: Quốc hiệu Đại Nam", "Sự kiện: Khởi nghĩa Phan Bá Vành", "Sự kiện: Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước", "Sự kiện: Khởi nghĩa Cao Bá Quát", "Sự kiện: Khởi nghĩa Lê Văn Khôi", "Sự kiện: Thực dân Pháp mở đầu cuộc xâm lược Việt Nam", "Sự kiện: Hiệp ước Nhâm Tuất", "Sự kiện: Quân Pháp đánh chiếm tỉnh thành Gia Định", "Sự kiện: Khởi nghĩa của Nguyễn Trung Trực", "Sự kiện: Khởi nghĩa của Trương Định", "Sự kiện: Hiệp ước Giáp Tuất 1874" ]
 }, {
   "tenThoiKi" : "Pháp đô hộ",
   "namBatDau" : "1883",
   "namKetThuc" : "1945",
-  "danhSachSuKien" : [ {
-    "tenSuKien" : "Hiệp ước Patơnốt",
-    "namBatDau" : "1884",
-    "namKetThuc" : "1884"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Yên Thế",
-    "namBatDau" : "1884",
-    "namKetThuc" : "1913"
-  }, {
-    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
-    "namBatDau" : "1885",
-    "namKetThuc" : "1885"
-  }, {
-    "tenSuKien" : "Phong trào Cần Vương",
-    "namBatDau" : "1885",
-    "namKetThuc" : "1896"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
-    "namBatDau" : "1885",
-    "namKetThuc" : "1885"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Ba Đình",
-    "namBatDau" : "1886",
-    "namKetThuc" : "1887"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
-    "namBatDau" : "1887",
-    "namKetThuc" : "1892"
-  }, {
-    "tenSuKien" : "Khởi nghĩa Hương Khê",
-    "namBatDau" : "1885",
-    "namKetThuc" : "1896"
-  }, {
-    "tenSuKien" : "Hội Duy Tân được thành lập",
-    "namBatDau" : "1904",
-    "namKetThuc" : "1904"
-  }, {
-    "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
-    "namBatDau" : "1912",
-    "namKetThuc" : "1912"
-  }, {
-    "tenSuKien" : "Phong trào Đông Du",
-    "namBatDau" : "1905",
-    "namKetThuc" : "1908"
-  }, {
-    "tenSuKien" : "Đông Kinh Nghĩa Thục",
-    "namBatDau" : "1907",
-    "namKetThuc" : "1907"
-  }, {
-    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
-    "namBatDau" : "1911",
-    "namKetThuc" : "1911"
-  }, {
-    "tenSuKien" : "Chiến tranh thế giới thứ nhất",
-    "namBatDau" : "1914",
-    "namKetThuc" : "1918"
-  }, {
-    "tenSuKien" : "Thành lập Quốc Tế Cộng Sản",
-    "namBatDau" : "1919",
-    "namKetThuc" : "1919"
-  }, {
-    "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
-    "namBatDau" : "1919",
-    "namKetThuc" : "1919"
-  }, {
-    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
-    "namBatDau" : "1920",
-    "namKetThuc" : "1920"
-  }, {
-    "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
-    "namBatDau" : "1922",
-    "namKetThuc" : "1922"
-  }, {
-    "tenSuKien" : "Ngày Quốc Tế Phụ Nữ",
-    "namBatDau" : "1910",
-    "namKetThuc" : "1910"
-  }, {
-    "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
-    "namBatDau" : "1923",
-    "namKetThuc" : "1923"
-  }, {
-    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
-    "namBatDau" : "1922",
-    "namKetThuc" : "1922"
-  }, {
-    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
-    "namBatDau" : "1923",
-    "namKetThuc" : "1923"
-  }, {
-    "tenSuKien" : "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện",
-    "namBatDau" : "1924",
-    "namKetThuc" : "1924"
-  }, {
-    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
-    "namBatDau" : "1925",
-    "namKetThuc" : "1925"
-  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bùi Dị",
     "tenGoiKhac" : [ "Bùi Dị", "Bùi Văn Dị" ],
@@ -4357,12 +4282,109 @@
     "namSinh" : "1913",
     "namMat" : "1996",
     "queQuan" : "Hải Dương"
-  } ]
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Patơnốt",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1884"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Phong trào Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
+    "namBatDau" : "1887",
+    "namKetThuc" : "1892"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hương Khê",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Hội Duy Tân được thành lập",
+    "namBatDau" : "1904",
+    "namKetThuc" : "1904"
+  }, {
+    "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
+    "namBatDau" : "1912",
+    "namKetThuc" : "1912"
+  }, {
+    "tenSuKien" : "Phong trào Đông Du",
+    "namBatDau" : "1905",
+    "namKetThuc" : "1908"
+  }, {
+    "tenSuKien" : "Đông Kinh Nghĩa Thục",
+    "namBatDau" : "1907",
+    "namKetThuc" : "1907"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  }, {
+    "tenSuKien" : "Chiến tranh thế giới thứ nhất",
+    "namBatDau" : "1914",
+    "namKetThuc" : "1918"
+  }, {
+    "tenSuKien" : "Thành lập Quốc Tế Cộng Sản",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
+    "namBatDau" : "1920",
+    "namKetThuc" : "1920"
+  }, {
+    "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Ngày Quốc Tế Phụ Nữ",
+    "namBatDau" : "1910",
+    "namKetThuc" : "1910"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện",
+    "namBatDau" : "1924",
+    "namKetThuc" : "1924"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
+    "namBatDau" : "1925",
+    "namKetThuc" : "1925"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Bùi Dị", "Nhân vật: Bùi Như Quảng", "Nhân vật: Cầm Bá Thước", "Nhân vật: Cao Đạt", "Nhân vật: Cao Xuân Dục", "Nhân vật: Châu Mạnh Trinh", "Nhân vật: Châu Thuợng Văn", "Nhân vật: Đinh Công Tráng", "Nhân vật: Đinh Nho Quang", "Nhân vật: Tôn Thất Hân", "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Tống Duy Tân", "Nhân vật: Tổng Lung", "Nhân vật: Trần Bá Lộc", "Nhân vật: Trần Đình Phong", "Nhân vật: Trần Đình Túc", "Nhân vật: Trần Hữu Thường", "Nhân vật: Trần Lục", "Nhân vật: Trần Quang Diêm", "Nhân vật: Trần Thuyết", "Nhân vật: Trần Trọng Cung", "Nhân vật: Trần Trọng Khiêm", "Nhân vật: Trần Viết Thọ", "Nhân vật: Trần Xuân Soạn", "Nhân vật: Trương Như Cương", "Nhân vật: Trương Quang Đản", "Nhân vật: Trương Quang Ngọc", "Nhân vật: Trương Trọng Hữu", "Nhân vật: Trương Văn Thám", "Nhân vật: Đặng Văn Bá", "Nhân vật: Đào Nguyên Phổ", "Nhân vật: Đào Thành Đô", "Nhân vật: Đào Thoại Thạch", "Nhân vật: Đào Văn Châu", "Nhân vật: Đào Văn Thử", "Nhân vật: Đậu Quang Lĩnh", "Nhân vật: Đinh Doãn Tế", "Nhân vật: Đinh Gia Thuyết", "Nhân vật: Đinh Hữu Thuật", "Nhân vật: Đinh Kinh Luân", "Nhân vật: Đinh Phu Nhân", "Nhân vật: Đinh Quang Nhường", "Nhân vật: Đỗ Bàng", "Nhân vật: Đỗ Cơ Quang", "Nhân vật: Đỗ Đình Nhân", "Nhân vật: Đỗ Huy Nam", "Nhân vật: Đỗ Ngọc Du", "Nhân vật: Đỗ Ngọc Quang", "Nhân vật: Đỗ Ngọc Thạch", "Nhân vật: Lê Khánh Hòa", "Nhân vật: Lê Khiết", "Nhân vật: Lê Khoan Hoằng", "Nhân vật: Lê Kính Hạp", "Nhân vật: Lê Lượng", "Nhân vật: Lê Ngung", "Nhân vật: Lê Phát An", "Nhân vật: Lê Phát Đạt", "Nhân vật: Lê Quang Chiếu", "Nhân vật: Lê Quang Nhơn", "Nhân vật: Lê Quang Sung", "Nhân vật: Lê Quang Trinh", "Nhân vật: Lê Sum", "Nhân vật: Lê Tấn Bê", "Nhân vật: Lê Thanh", "Nhân vật: Lê Thế Hiếu", "Nhân vật: Lê Thị Bính", "Nhân vật: Lê Thúc Hoạch", "Nhân vật: Lê Trọng Hàm", "Nhân vật: Lê Trực", "Nhân vật: Nguyễn Lan Khai", "Nhân vật: Nguyễn Minh Hòe", "Nhân vật: Nguyễn Nam Thông", "Nhân vật: Nguyễn Nghiêm", "Nhân vật: Nguyễn Ngọc Bích", "Nhân vật: Nguyễn Ngọc Tương", "Nhân vật: Nguyễn Nhu", "Nhân vật: Nguyễn Nhự", "Nhân vật: Nguyễn Nhuận", "Nhân vật: Nguyễn Nhược Pháp", "Nhân vật: Nguyễn Phan Vinh", "Nhân vật: Nguyễn Phong Di", "Nhân vật: Nguyễn Phong Sắc", "Nhân vật: Nguyễn Phúc Bửu Đảo", "Nhân vật: Nguyễn Phúc Bửu Đình", "Nhân vật: Nguyễn Phúc Hồng Dật", "Nhân vật: Nguyễn Phúc Ưng Chân", "Nhân vật: Nguyễn Phúc Ưng Đăng", "Nhân vật: Nguyễn Phúc Ưng Ki", "Nhân vật: Nguyễn Phúc Ưng Lịch", "Nhân vật: Phạm Nhân Thuần", "Nhân vật: Phạm Quỳnh", "Nhân vật: Phạm Tư Trực", "Nhân vật: Phạm Văn Chí", "Nhân vật: Phạm Văn Ngôn", "Nhân vật: Phạm Văn Sáng", "Nhân vật: Phạm Văn Tráng", "Nhân vật: Phan Bội Châu", "Nhân vật: Phan Châu Trinh", "Nhân vật: Phan Đăng Lưu", "Nhân vật: Phan Điện", "Nhân vật: Phan Đình Cừ", "Nhân vật: Phan Đình Phùng", "Nhân vật: Phan Huấn Chương", "Nhân vật: Phan Kế Bính", "Nhân vật: Phan Lại Lượng", "Nhân vật: Phan Mạnh Danh", "Nhân vật: Phan Ngọc Hiển", "Nhân vật: Phan Phát Sanh", "Nhân vật: Phan Thanh", "Nhân vật: Vũ Phạm Hàm", "Nhân vật: Vũ Trọng Can", "Nhân vật: Vũ Trọng Phụng", "Nhân vật: Vũ Văn Hiếu", "Nhân vật: Vương Thúc Mậu", "Nhân vật: Bàng Bá Lân", "Nhân vật: Bông Văn Dĩa", "Nhân vật: Bùi Biên", "Nhân vật: Bùi Công Trừng", "Nhân vật: Bùi Đình Diệm", "Nhân vật: Bùi Giáng", "Nhân vật: Bùi Hữu Sủng", "Nhân vật: Bùi Huy Cường", "Nhân vật: Bùi Huy Phồn", "Nhân vật: Bùi Kiến Tín", "Nhân vật: Bùi Kỷ", "Nhân vật: Bùi Lâm", "Nhân vật: Bùi Phong Tư", "Nhân vật: Bùi Thị Hậu", "Nhân vật: Bùi Tường Chiểu", "Nhân vật: Hồ Đắc Di", "Nhân vật: Hồ Đắc Hàm", "Nhân vật: Hồ Huệ Bá", "Nhân vật: Hồ Hữu Tường", "Nhân vật: Hồ Liên", "Nhân vật: Hồ Tá Khanh", "Nhân vật: Hồ Thị Hạnh", "Nhân vật: Hồ Trọng Hiếu", "Nhân vật: Hồ Tùng Mậu", "Nhân vật: Hồ Văn Hiến", "Nhân vật: Hồ Văn Trung", "Nhân vật: Hồ Xuân Lưu", "Nhân vật: Hoàng Đạo Thúy", "Nhân vật: Hoàng Khương Ninh", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Ngọc Phách", "Nhân vật: Hoàng Phạm Trân", "Nhân vật: Hoàng Phú Sổ", "Nhân vật: Hoàng Thúc Tấn", "Nhân vật: Lê Văn Đệ", "Nhân vật: Lê Văn Hiến", "Nhân vật: Lê Văn Hòe", "Nhân vật: Lê Văn Năng", "Nhân vật: Lê Văn Ngôn", "Nhân vật: Lê Văn Phúc", "Nhân vật: Lê Văn Sĩ", "Nhân vật: Lê Văn Siêu", "Nhân vật: Lê Văn Thiêm", "Nhân vật: Lê Văn Thới", "Nhân vật: Lê Văn Thử", "Nhân vật: Lê Văn Trung", "Nhân vật: Lê Văn Trương", "Nhân vật: Lê Văn Vị", "Nhân vật: Lê Văn Viễn", "Nhân vật: Lê Võ Đài", "Nhân vật: Lương Tri", "Nhân vật: Lương Trọng Hối", "Nhân vật: Lương Văn Nho", "Nhân vật: Lương Vĩnh Thuật", "Nhân vật: Nguyễn Đình Thi", "Nhân vật: Nguyễn Đỗ Cung", "Nhân vật: Nguyễn Đỗ Mục", "Nhân vật: Nguyễn Đóa", "Nhân vật: Nguyễn Đôn Phục", "Nhân vật: Nguyễn Đổng Chi", "Nhân vật: Nguyễn Đức Giới", "Nhân vật: Nguyễn Đức Huy (Ii)", "Nhân vật: Nguyễn Đức Long", "Nhân vật: Nguyễn Đức Nguyên", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Quỳnh", "Nhân vật: Nguyễn Đức Thuận", "Nhân vật: Nguyễn Gia Trí", "Nhân vật: Nguyễn Gia Tường", "Nhân vật: Nguyễn Giang", "Nhân vật: Nguyễn Hiến Lê", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Tất Thành", "Nhân vật: Nguyễn Thái Sơn", "Nhân vật: Nguyễn Thành Châu", "Nhân vật: Nguyễn Thành Giung", "Nhân vật: Nguyễn Thành Long", "Nhân vật: Nguyễn Thành Tâm", "Nhân vật: Nguyễn Thanh Tích", "Nhân vật: Nguyễn Thành Vĩnh", "Nhân vật: Nguyễn Thế Long", "Nhân vật: Nguyễn Thế Phương", "Nhân vật: Nguyễn Thế Truyền", "Nhân vật: Nguyễn Thị Định", "Nhân vật: Nguyễn Thị Kiêm", "Nhân vật: Nguyễn Thị Lan", "Nhân vật: Nguyễn Thị Thập", "Nhân vật: Nguyễn Thị Trừ", "Nhân vật: Nguyễn Thiệu Lâu", "Nhân vật: Nguyễn Thứ Lễ", "Nhân vật: Nguyễn Thức Canh", "Nhân vật: Nguyễn Tiến Chung", "Nhân vật: Nguyễn Xuân Bái", "Nhân vật: Nguyễn Xuân Khoát", "Nhân vật: Nguyễn Xuân Khuê", "Nhân vật: Nguyễn Xuân Nhí", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Nông Văn Quỳnh", "Nhân vật: Phạm Biểu Tâm", "Nhân vật: Phạm Công Tắc", "Nhân vật: Phạm Duy Khiêm", "Nhân vật: Phạm Đình Ái", "Nhân vật: Phạm Đình Bách", "Nhân vật: Phạm Đình Tân", "Nhân vật: Phạm Đức Hạp", "Nhân vật: Phạm Hoanh", "Nhân vật: Phạm Hữu Lầu", "Nhân vật: Phạm Huy Thông", "Nhân vật: Phạm Khắc Hòe", "Nhân vật: Phạm Kỳ Ngỡl", "Nhân vật: Phạm Lợi", "Nhân vật: Phạm Ngọc Chi", "Nhân vật: Tô Văn Tuấn", "Nhân vật: Tô Vĩnh Diện", "Nhân vật: Tôn Đức Thắng", "Nhân vật: Tôn Quang Phiệt", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Tống Văn Hên", "Nhân vật: Trần Chí Thành", "Nhân vật: Trần Dần", "Nhân vật: Trần Đăng Khoa", "Nhân vật: Trần Đình Đàn", "Nhân vật: Trần Đình Nam", "Nhân vật: Trần Đình Tri", "Nhân vật: Trần Đình Xu", "Nhân vật: Trần Đức Sắc", "Nhân vật: Trần Đức Thảo", "Nhân vật: Trần Hữu Thung", "Nhân vật: Trần Hữu Trang", "Nhân vật: Trần Hữu Trí", "Nhân vật: Trần Hữu Tước", "Nhân vật: Trần Huy Liệu", "Nhân vật: Vi Huyền Đắc", "Nhân vật: Vi Văn Định", "Nhân vật: Võ Bá Hạp", "Nhân vật: Võ Chí Thâm", "Nhân vật: Võ Đông Giang", "Nhân vật: Võ Hải Thu", "Nhân vật: Võ Hóa", "Nhân vật: Võ Hoành", "Nhân vật: Võ Liêm Sơn", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Võ Nguyên Thủy", "Nhân vật: Võ Oanh", "Nhân vật: Võ Quảng", "Nhân vật: Võ Toàn", "Nhân vật: Võ Tùng", "Nhân vật: Vũ Anh Khanh", "Nhân vật: Vũ Đăng Bằng", "Nhân vật: Vũ Đình Chí", "Nhân vật: Vũ Đình Hòe", "Nhân vật: Vũ Đình Liên", "Sự kiện: Hiệp ước Patơnốt", "Sự kiện: Khởi nghĩa Yên Thế", "Sự kiện: Hàm Nghi ra Chiếu Cần Vương", "Sự kiện: Phong trào Cần Vương", "Sự kiện: Khởi nghĩa Bãi Sậy", "Sự kiện: Khởi nghĩa Ba Đình", "Sự kiện: Khởi nghĩa Hùng Lĩnh", "Sự kiện: Khởi nghĩa Hương Khê", "Sự kiện: Hội Duy Tân được thành lập", "Sự kiện: Thành lập “Việt Nam Quang phục hội”", "Sự kiện: Phong trào Đông Du", "Sự kiện: Đông Kinh Nghĩa Thục", "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Sự kiện: Chiến tranh thế giới thứ nhất", "Sự kiện: Thành lập Quốc Tế Cộng Sản", "Sự kiện: Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp", "Sự kiện: Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm", "Sự kiện: Ngày Quốc Tế Phụ Nữ", "Sự kiện: Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp", "Sự kiện: Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc", "Sự kiện: Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện", "Sự kiện: Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên" ]
 }, {
   "tenThoiKi" : "Nước Việt Nam mới",
   "namBatDau" : "1945",
   "namKetThuc" : "2023",
-  "danhSachSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bàng Bá Lân",
     "tenGoiKhac" : [ "Bàng Bá Lân" ],
@@ -5413,5 +5435,7 @@
     "namSinh" : "1922",
     "namMat" : "Không rõ",
     "queQuan" : "Đồng Tháp"
-  } ]
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Bàng Bá Lân", "Nhân vật: Bông Văn Dĩa", "Nhân vật: Bùi Biên", "Nhân vật: Bùi Công Trừng", "Nhân vật: Bùi Đình Diệm", "Nhân vật: Bùi Giáng", "Nhân vật: Bùi Hữu Sủng", "Nhân vật: Bùi Huy Cường", "Nhân vật: Bùi Huy Phồn", "Nhân vật: Bùi Kiến Tín", "Nhân vật: Bùi Kỷ", "Nhân vật: Bùi Lâm", "Nhân vật: Bùi Phong Tư", "Nhân vật: Bùi Thị Hậu", "Nhân vật: Bùi Tường Chiểu", "Nhân vật: Hồ Đắc Di", "Nhân vật: Hồ Đắc Hàm", "Nhân vật: Hồ Huệ Bá", "Nhân vật: Hồ Hữu Tường", "Nhân vật: Hồ Liên", "Nhân vật: Hồ Tá Khanh", "Nhân vật: Hồ Thị Hạnh", "Nhân vật: Hồ Trọng Hiếu", "Nhân vật: Hồ Tùng Mậu", "Nhân vật: Hồ Văn Hiến", "Nhân vật: Hồ Văn Trung", "Nhân vật: Hồ Xuân Lưu", "Nhân vật: Hoàng Đạo Thúy", "Nhân vật: Hoàng Khương Ninh", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Ngọc Phách", "Nhân vật: Hoàng Phạm Trân", "Nhân vật: Hoàng Phú Sổ", "Nhân vật: Hoàng Thúc Tấn", "Nhân vật: Lê Văn Đệ", "Nhân vật: Lê Văn Hiến", "Nhân vật: Lê Văn Hòe", "Nhân vật: Lê Văn Năng", "Nhân vật: Lê Văn Ngôn", "Nhân vật: Lê Văn Phúc", "Nhân vật: Lê Văn Sĩ", "Nhân vật: Lê Văn Siêu", "Nhân vật: Lê Văn Thiêm", "Nhân vật: Lê Văn Thới", "Nhân vật: Lê Văn Thử", "Nhân vật: Lê Văn Trung", "Nhân vật: Lê Văn Trương", "Nhân vật: Lê Văn Vị", "Nhân vật: Lê Văn Viễn", "Nhân vật: Lê Võ Đài", "Nhân vật: Lương Tri", "Nhân vật: Lương Trọng Hối", "Nhân vật: Lương Văn Nho", "Nhân vật: Lương Vĩnh Thuật", "Nhân vật: Nguyễn Đình Thi", "Nhân vật: Nguyễn Đỗ Cung", "Nhân vật: Nguyễn Đỗ Mục", "Nhân vật: Nguyễn Đóa", "Nhân vật: Nguyễn Đôn Phục", "Nhân vật: Nguyễn Đổng Chi", "Nhân vật: Nguyễn Đức Giới", "Nhân vật: Nguyễn Đức Huy (Ii)", "Nhân vật: Nguyễn Đức Long", "Nhân vật: Nguyễn Đức Nguyên", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Quỳnh", "Nhân vật: Nguyễn Đức Thuận", "Nhân vật: Nguyễn Gia Trí", "Nhân vật: Nguyễn Gia Tường", "Nhân vật: Nguyễn Giang", "Nhân vật: Nguyễn Hiến Lê", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Tất Thành", "Nhân vật: Nguyễn Thái Sơn", "Nhân vật: Nguyễn Thành Châu", "Nhân vật: Nguyễn Thành Giung", "Nhân vật: Nguyễn Thành Long", "Nhân vật: Nguyễn Thành Tâm", "Nhân vật: Nguyễn Thanh Tích", "Nhân vật: Nguyễn Thành Vĩnh", "Nhân vật: Nguyễn Thế Long", "Nhân vật: Nguyễn Thế Phương", "Nhân vật: Nguyễn Thế Truyền", "Nhân vật: Nguyễn Thị Định", "Nhân vật: Nguyễn Thị Kiêm", "Nhân vật: Nguyễn Thị Lan", "Nhân vật: Nguyễn Thị Thập", "Nhân vật: Nguyễn Thị Trừ", "Nhân vật: Nguyễn Thiệu Lâu", "Nhân vật: Nguyễn Thứ Lễ", "Nhân vật: Nguyễn Thức Canh", "Nhân vật: Nguyễn Tiến Chung", "Nhân vật: Nguyễn Xuân Bái", "Nhân vật: Nguyễn Xuân Khoát", "Nhân vật: Nguyễn Xuân Khuê", "Nhân vật: Nguyễn Xuân Nhí", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Nông Văn Quỳnh", "Nhân vật: Phạm Biểu Tâm", "Nhân vật: Phạm Công Tắc", "Nhân vật: Phạm Duy Khiêm", "Nhân vật: Phạm Đình Ái", "Nhân vật: Phạm Đình Bách", "Nhân vật: Phạm Đình Tân", "Nhân vật: Phạm Đức Hạp", "Nhân vật: Phạm Hoanh", "Nhân vật: Phạm Hữu Lầu", "Nhân vật: Phạm Huy Thông", "Nhân vật: Phạm Khắc Hòe", "Nhân vật: Phạm Kỳ Ngỡl", "Nhân vật: Phạm Lợi", "Nhân vật: Phạm Ngọc Chi", "Nhân vật: Tô Văn Tuấn", "Nhân vật: Tô Vĩnh Diện", "Nhân vật: Tôn Đức Thắng", "Nhân vật: Tôn Quang Phiệt", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Tống Văn Hên", "Nhân vật: Trần Chí Thành", "Nhân vật: Trần Dần", "Nhân vật: Trần Đăng Khoa", "Nhân vật: Trần Đình Đàn", "Nhân vật: Trần Đình Nam", "Nhân vật: Trần Đình Tri", "Nhân vật: Trần Đình Xu", "Nhân vật: Trần Đức Sắc", "Nhân vật: Trần Đức Thảo", "Nhân vật: Trần Hữu Thung", "Nhân vật: Trần Hữu Trang", "Nhân vật: Trần Hữu Trí", "Nhân vật: Trần Hữu Tước", "Nhân vật: Trần Huy Liệu", "Nhân vật: Vi Huyền Đắc", "Nhân vật: Vi Văn Định", "Nhân vật: Võ Bá Hạp", "Nhân vật: Võ Chí Thâm", "Nhân vật: Võ Đông Giang", "Nhân vật: Võ Hải Thu", "Nhân vật: Võ Hóa", "Nhân vật: Võ Hoành", "Nhân vật: Võ Liêm Sơn", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Võ Nguyên Thủy", "Nhân vật: Võ Oanh", "Nhân vật: Võ Quảng", "Nhân vật: Võ Toàn", "Nhân vật: Võ Tùng", "Nhân vật: Vũ Anh Khanh", "Nhân vật: Vũ Đăng Bằng", "Nhân vật: Vũ Đình Chí", "Nhân vật: Vũ Đình Hòe", "Nhân vật: Vũ Đình Liên", "Nhân vật: Hồ Văn Huê", "Nhân vật: Hoàng Đình Tí", "Nhân vật: Hoàng Kiện", "Nhân vật: Hoàng Lệ Kha", "Nhân vật: Hoàng Minh Tuynh", "Nhân vật: Hoàng Phê", "Nhân vật: Hoàng Tố Nguyên", "Nhân vật: Hoàng Trung Thông", "Nhân vật: Hoàng Tuệ", "Nhân vật: Hoàng Văn Hành", "Nhân vật: Hoàng Văn Hương", "Nhân vật: Hoàng Văn Lễ", "Nhân vật: Hoàng Văn Thái", "Nhân vật: Hoàng Văn Thiệu", "Nhân vật: Huỳnh Văn Bánh", "Nhân vật: Huỳnh Văn Gấm", "Nhân vật: Lâm Thanh Lang", "Nhân vật: Lê Khâm", "Nhân vật: Lê Minh Xuân", "Nhân vật: Lê Quang Hương" ]
 } ]

@@ -8,7 +8,7 @@ import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(value = {"tenThoiKi" ,"tenSuKien", "tenDiaDiem"})
+@JsonIgnoreProperties(value = {"tenThoiKi" ,"tenSuKien", "tenDiaDiem", "info"})
 public class NhanVat {
     private List<String> hoTen = new ArrayList<>();
     private String namSinh;
@@ -20,6 +20,8 @@ public class NhanVat {
     private List<String> tenThoiKi = new ArrayList<>();
     private List<String> tenSuKien = new ArrayList<>();
     private List<String> tenDiaDiem = new ArrayList<>();
+
+    public List<String> info = new ArrayList<>();
 
     public NhanVat(){
     }
@@ -134,5 +136,21 @@ public class NhanVat {
     		return true;
         }
         return false;
+    }
+
+    public void addThongTinLienQuan(){
+        for(SuKienDTO element: this.danhSachSuKien){
+            info.add("Sự kiện: " + element.getTenSuKien());
+        }
+        for(DiaDiemDTO element: this.getDanhSachDiaDiem()){
+            info.add("Địa điểm: " + element.getTenDiaDiem());
+        }
+        for(ThoiKiDTO element: this.getDanhSachThoiKi()){
+            info.add("Thời kỳ: " + element.getTenThoiKi());
+        }
+    }
+
+    public List<String> getThongTinLienQuan() {
+        return info;
     }
 }

@@ -9,7 +9,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Âu Cơ" ],
   "namSinh" : "Không rõ",
@@ -21,7 +22,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Bạch Hoa", "Ngọc Hoa" ],
   "namSinh" : "Không rõ",
@@ -33,7 +35,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Cao Sơn Đại Vương" ],
   "namSinh" : "Không rõ",
@@ -45,7 +48,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Chử Đồng Tử" ],
   "namSinh" : "Không rõ",
@@ -59,7 +63,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Cường Bạo Đại Vương" ],
   "namSinh" : "Không rõ",
@@ -73,7 +78,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Hồng Bàng" ],
   "namSinh" : "Không rõ",
@@ -85,7 +91,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Hùng Vương" ],
   "namSinh" : "Không rõ",
@@ -101,7 +108,8 @@
     "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
     "namBatDau" : "207",
     "namKetThuc" : "207"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nước Âu lạc của An Dương Vương thành lập", "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Kinh Dương Vương" ],
   "namSinh" : "Không rõ",
@@ -113,7 +121,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "La Viện" ],
   "namSinh" : "Không rõ",
@@ -127,7 +136,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Lý Ông Trọng" ],
   "namSinh" : "Không rõ",
@@ -139,7 +149,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Phù Đổng Thiên Vương" ],
   "namSinh" : "Không rõ",
@@ -153,7 +164,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Sùng Lãm", "Lạc Long Quân" ],
   "namSinh" : "Không rõ",
@@ -165,7 +177,8 @@
     "namKetThuc" : "258 trCN"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Dựng nước" ]
 }, {
   "hoTen" : [ "Cao Thông", "Cao Lỗ" ],
   "namSinh" : "Không rõ",
@@ -179,7 +192,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Thục" ]
 }, {
   "hoTen" : [ "Thục Phán", "An Dương Vương" ],
   "namSinh" : "Không rõ",
@@ -203,7 +217,8 @@
     "tenSuKien" : "Kháng chiến chống quân xâm lược Tần",
     "namBatDau" : null,
     "namKetThuc" : null
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nước Âu lạc bị quân Triệu Đà xâm chiếm", "Sự kiện: Nước Âu lạc của An Dương Vương thành lập", "Sự kiện: Kháng chiến chống quân xâm lược Tần", "Thời kỳ: Nhà Thục" ]
 }, {
   "hoTen" : [ "Bốc Long" ],
   "namSinh" : "Không rõ",
@@ -215,7 +230,8 @@
     "namKetThuc" : "39"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần 1" ]
 }, {
   "hoTen" : [ "Châu Đạt" ],
   "namSinh" : "Không rõ",
@@ -229,7 +245,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Bắc thuộc lần 1" ]
 }, {
   "hoTen" : [ "Lữ Gia" ],
   "namSinh" : "Không rõ",
@@ -241,7 +258,8 @@
     "namKetThuc" : "39"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Bắc thuộc lần 1" ]
 }, {
   "hoTen" : [ "An Bình Lý" ],
   "namSinh" : "Không rõ",
@@ -255,7 +273,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vĩnh Phúc"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Phúc", "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "hoTen" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
   "namSinh" : "17",
@@ -271,7 +290,8 @@
   }, {
     "tenDiaDiem" : "Vĩnh Phúc"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Phúc", "Địa điểm: Vĩnh Phúc", "Thời kỳ: Trưng Nữ Vương" ]
 }, {
   "hoTen" : [ "Phạm Hạp" ],
   "namSinh" : "Không rõ",
@@ -283,7 +303,8 @@
     "namKetThuc" : "980"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Đinh" ]
 }, {
   "hoTen" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
   "namSinh" : "974",
@@ -301,7 +322,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Nhà Đinh", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Đỗ Pháp Thuận" ],
   "namSinh" : "916",
@@ -317,7 +339,8 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Đinh", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Hoàn" ],
   "namSinh" : "941",
@@ -335,7 +358,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Đinh", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Bạch Hoa" ],
   "namSinh" : "Không rõ",
@@ -349,7 +373,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Đinh Lễ", "Nguyên Sinh" ],
   "namSinh" : "Không rõ",
@@ -365,7 +390,8 @@
   }, {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Giang Cự Vọng" ],
   "namSinh" : "Không rõ",
@@ -377,7 +403,8 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Hoàng Thành Nhã" ],
   "namSinh" : "Không rõ",
@@ -389,7 +416,8 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Long Cảnh", "Lê Long Kính" ],
   "namSinh" : "Không rõ",
@@ -403,7 +431,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Long Đinh" ],
   "namSinh" : "Không rõ",
@@ -417,7 +446,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Long Đĩnh" ],
   "namSinh" : "985",
@@ -435,7 +465,8 @@
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Lý Công Uẩn lên ngôi, lập ra nhà Lý", "Địa điểm: Nam Định", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Long Việt", "Lê Trung Tông" ],
   "namSinh" : "983",
@@ -449,7 +480,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Lê Ngân Tích" ],
   "namSinh" : "Không rõ",
@@ -467,7 +499,8 @@
     "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
     "namBatDau" : "1425",
     "namKetThuc" : "1426"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Địa điểm: Nam Định", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Ngô Chân Lưu", "Khuông Việt" ],
   "namSinh" : "933",
@@ -481,7 +514,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Ngô Tử An" ],
   "namSinh" : "Không rõ",
@@ -493,7 +527,8 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Ngô Tử Canh" ],
   "namSinh" : "Không rõ",
@@ -505,7 +540,8 @@
     "namKetThuc" : "1009"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tiền Lê" ]
 }, {
   "hoTen" : [ "Đào Cam Mộc" ],
   "namSinh" : "Không rõ",
@@ -525,7 +561,8 @@
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Lý Công Uẩn lên ngôi, lập ra nhà Lý", "Thời kỳ: Nhà Tiền Lê", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Vạn Hạnh", "Nguyễn Vạn Hạnh" ],
   "namSinh" : "Không rõ",
@@ -547,7 +584,8 @@
     "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
     "namBatDau" : "1009",
     "namKetThuc" : "1009"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Lý Công Uẩn lên ngôi, lập ra nhà Lý", "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Tiền Lê", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Âu Đạo Huệ" ],
   "namSinh" : "Không rõ",
@@ -561,7 +599,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Bản Tịch", "Pháp Mật" ],
   "namSinh" : "Không rõ",
@@ -575,7 +614,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Nộn" ],
   "namSinh" : "Không rõ",
@@ -589,7 +629,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Quảng Nghiêm", "Quảng Nghiêm" ],
   "namSinh" : "1121",
@@ -603,7 +644,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Trí Bảo" ],
   "namSinh" : "Không rõ",
@@ -617,7 +659,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Tuân", "Giới Không" ],
   "namSinh" : "Không rõ",
@@ -629,7 +672,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Y Sơn" ],
   "namSinh" : "1121",
@@ -643,7 +687,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nhan Quảng Trí", "Quảng Trí" ],
   "namSinh" : "Không rõ",
@@ -657,7 +702,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Phạm Bỉnh Di" ],
   "namSinh" : "Không rõ",
@@ -669,7 +715,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Phạm Thường Chiếu", "Thường Chiếu" ],
   "namSinh" : "Không rõ",
@@ -683,7 +730,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Phú Thọ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Phú Thọ", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Phan Trường Nguyên" ],
   "namSinh" : "1110",
@@ -697,7 +745,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Pháp Bảo" ],
   "namSinh" : "Không rõ",
@@ -709,7 +758,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Phùng Tá Chu" ],
   "namSinh" : "Không rõ",
@@ -723,7 +773,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Quách Bốc" ],
   "namSinh" : "Không rõ",
@@ -735,7 +786,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Tô Hiến Thành" ],
   "namSinh" : "Không rõ",
@@ -749,7 +801,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Tô Minh Trí" ],
   "namSinh" : "Không rõ",
@@ -761,7 +814,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Tôn Đản" ],
   "namSinh" : "Không rõ",
@@ -773,7 +827,8 @@
     "namKetThuc" : "1225"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Từ Lộ", "Đạo Hạnh" ],
   "namSinh" : "Không rõ",
@@ -787,7 +842,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Vạn Trì Bát" ],
   "namSinh" : "1049",
@@ -801,7 +857,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Viên Thông" ],
   "namSinh" : "Không rõ",
@@ -815,7 +872,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Vương Hải Thiềm" ],
   "namSinh" : "1046",
@@ -829,7 +887,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Ỷ Lan", "Lê Thị Yến Loan" ],
   "namSinh" : "Không rõ",
@@ -849,7 +908,8 @@
     "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
     "namBatDau" : "1070",
     "namKetThuc" : "1070"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Lý lập Văn Miếu thờ Khổng Tử", "Địa điểm: Bắc Ninh", "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Lý" ]
 }, {
   "hoTen" : [ "Nguyễn Thuyên" ],
   "namSinh" : "Không rõ",
@@ -861,7 +921,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Nguyễn Trung Ngạn", "Bang Trực", "Giới Hiên" ],
   "namSinh" : "1289",
@@ -879,7 +940,8 @@
     "tenSuKien" : "Ban hành Quốc triều hình luật",
     "namBatDau" : "1230",
     "namKetThuc" : "1230"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Ban hành Quốc triều hình luật", "Địa điểm: Hưng Yên", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Phạm Bân", "Phạm Công Bân" ],
   "namSinh" : "Không rõ",
@@ -891,7 +953,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Phạm Cư Sĩ" ],
   "namSinh" : "Không rõ",
@@ -903,7 +966,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Phạm Cụ Trích" ],
   "namSinh" : "Không rõ",
@@ -915,7 +979,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Phạm Ngũ Lão" ],
   "namSinh" : "1255",
@@ -929,7 +994,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Phạm Nhân Khanh", "Cổ Sơn" ],
   "namSinh" : "Không rõ",
@@ -941,7 +1007,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Sử Hy Nhan" ],
   "namSinh" : "Không rõ",
@@ -955,7 +1022,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Anh Tông", "Trần Thuyên" ],
   "namSinh" : "1276",
@@ -969,7 +1037,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Bình Trọng" ],
   "namSinh" : "1259",
@@ -983,7 +1052,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Cảnh", "Trần Thái Tông" ],
   "namSinh" : "1218",
@@ -1013,7 +1083,8 @@
     "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
     "namBatDau" : "1258",
     "namKetThuc" : "1258"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Trần Cảnh lên ngôi vua, nhà Trần thành lập", "Sự kiện: Ban hành Quốc triều hình luật", "Sự kiện: Lập Quốc học viện và Giảng võ đường", "Sự kiện: Chiến thắng quân xâm lược Mông Cổ lần thứ nhất", "Địa điểm: Nam Định", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Hạo", "Trần Dụ Tông" ],
   "namSinh" : "1336",
@@ -1025,7 +1096,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Hoảng", "Trần Thánh Tông" ],
   "namSinh" : "1240",
@@ -1047,7 +1119,8 @@
     "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
     "namBatDau" : "1288",
     "namKetThuc" : "1288"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Lập Quốc tử giám ở kinh đô Thăng Long", "Sự kiện: Chiến Thắng Bạch Đằng năm 1288", "Địa điểm: Nam Định", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Ích Tắc" ],
   "namSinh" : "Không rõ",
@@ -1059,7 +1132,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Khâm", "Trần Nhân Tông" ],
   "namSinh" : "1258",
@@ -1075,7 +1149,8 @@
     "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
     "namBatDau" : "1288",
     "namKetThuc" : "1288"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến Thắng Bạch Đằng năm 1288", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Khánh Dư" ],
   "namSinh" : "Không rõ",
@@ -1095,7 +1170,8 @@
     "tenSuKien" : "Trận Vân Đồn",
     "namBatDau" : "1288",
     "namKetThuc" : "1288"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Trận Vân Đồn", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Khát Chân" ],
   "namSinh" : "1370",
@@ -1109,7 +1185,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Kính", "Trần Duệ Tông" ],
   "namSinh" : "1336",
@@ -1125,7 +1202,8 @@
     "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
     "namBatDau" : "1400",
     "namKetThuc" : "1400"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Mạnh", "Trần Minh Tông" ],
   "namSinh" : "1300",
@@ -1139,7 +1217,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Trần Ngạc" ],
   "namSinh" : "Không rõ",
@@ -1151,7 +1230,8 @@
     "namKetThuc" : "1400"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Trần" ]
 }, {
   "hoTen" : [ "Bùi Công Hành" ],
   "namSinh" : "Không rõ",
@@ -1165,7 +1245,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Công Phụ" ],
   "namSinh" : "Không rõ",
@@ -1179,7 +1260,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Dục Tài" ],
   "namSinh" : "1477",
@@ -1193,7 +1275,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Đạt" ],
   "namSinh" : "Không rõ",
@@ -1207,7 +1290,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Đoan Giáo" ],
   "namSinh" : "Không rõ",
@@ -1219,7 +1303,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Hoàn Khánh" ],
   "namSinh" : "1473",
@@ -1231,7 +1316,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Tấn Diên" ],
   "namSinh" : "Không rõ",
@@ -1245,7 +1331,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Bùi Xương Trạch" ],
   "namSinh" : "1451",
@@ -1259,7 +1346,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Cái Phùng" ],
   "namSinh" : "1440",
@@ -1273,7 +1361,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Cao Quýnh" ],
   "namSinh" : "1449",
@@ -1287,7 +1376,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Châu Doãn Văn" ],
   "namSinh" : "Không rõ",
@@ -1301,7 +1391,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Diêu Viễn" ],
   "namSinh" : "Không rõ",
@@ -1313,7 +1404,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Dương Đúc Nhan" ],
   "namSinh" : "Không rõ",
@@ -1325,7 +1417,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Dương Như Châu" ],
   "namSinh" : "1448",
@@ -1339,7 +1432,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Dương Tôn Hải" ],
   "namSinh" : "Không rõ",
@@ -1353,7 +1447,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Dương Trực Nguyên" ],
   "namSinh" : "1469",
@@ -1367,7 +1462,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Dương Tử Do" ],
   "namSinh" : "Không rõ",
@@ -1381,7 +1477,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Đàm Thận Huy" ],
   "namSinh" : "1463",
@@ -1395,7 +1492,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Đàm Văn Lễ" ],
   "namSinh" : "1452",
@@ -1409,7 +1507,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Đặng Chiêm" ],
   "namSinh" : "1429",
@@ -1423,7 +1522,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Lưu Xuân Tín" ],
   "namSinh" : "Không rõ",
@@ -1437,7 +1537,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Lý Tử Tấn", "Chuyết Am" ],
   "namSinh" : "1378",
@@ -1451,7 +1552,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Mạc Bang Hộ", "Võ Hộ" ],
   "namSinh" : "1481",
@@ -1463,7 +1565,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nghiêm Bá Ký" ],
   "namSinh" : "Không rõ",
@@ -1477,7 +1580,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nghiêm Hiến" ],
   "namSinh" : "Không rõ",
@@ -1491,7 +1595,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nghiêm Ích Khiêm" ],
   "namSinh" : "1459",
@@ -1505,7 +1610,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nghiêm Viến" ],
   "namSinh" : "Không rõ",
@@ -1519,7 +1625,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Ngô Chi Lan", "Nguyễn Hạ Huệ" ],
   "namSinh" : "Không rõ",
@@ -1533,7 +1640,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Ngô Hoán" ],
   "namSinh" : "1460",
@@ -1545,7 +1653,8 @@
     "namKetThuc" : "1527"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Ngô Sĩ Liên" ],
   "namSinh" : "Không rõ",
@@ -1559,7 +1668,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Ngô Thị Ngọc Dao" ],
   "namSinh" : "1421",
@@ -1573,7 +1683,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Ngô Từ" ],
   "namSinh" : "Không rõ",
@@ -1587,7 +1698,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Anh Võ" ],
   "namSinh" : "Không rõ",
@@ -1601,7 +1713,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Bá Kí" ],
   "namSinh" : "Không rõ",
@@ -1615,7 +1728,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Bảo", "Châu Khê" ],
   "namSinh" : "1452",
@@ -1629,7 +1743,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Địch Tâm" ],
   "namSinh" : "1461",
@@ -1643,7 +1758,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Trung", "Nguyễn Văn Thường" ],
   "namSinh" : "1404",
@@ -1657,7 +1773,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Giản Thanh", "Nguyễn Giản Liêm", "Cự Nguyên", "Phác Hiên", "Trạng Me" ],
   "namSinh" : "1481",
@@ -1673,7 +1790,8 @@
   }, {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Địa điểm: Bắc Ninh", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Hãng", "Nại Hiên" ],
   "namSinh" : "Không rõ",
@@ -1687,7 +1805,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Phú Thọ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Phú Thọ", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Nguyễn Lí" ],
   "namSinh" : "Không rõ",
@@ -1701,7 +1820,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Triều Lê Sơ" ]
 }, {
   "hoTen" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
   "namSinh" : "1516",
@@ -1721,7 +1841,8 @@
     "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
     "namBatDau" : "1789",
     "namKetThuc" : "1789"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Địa điểm: Bắc Giang", "Địa điểm: Hà Nội", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hà Nhậm Đại" ],
   "namSinh" : "1525",
@@ -1735,7 +1856,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vĩnh Phúc"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Phúc", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hoàng Bôi" ],
   "namSinh" : "Không rõ",
@@ -1749,7 +1871,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hoàng Công Châu" ],
   "namSinh" : "Không rõ",
@@ -1763,7 +1886,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hoàng Nghĩa Thân" ],
   "namSinh" : "Không rõ",
@@ -1777,7 +1901,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hoàng Sầm", "Trần Diệm" ],
   "namSinh" : "1521",
@@ -1791,7 +1916,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Hoàng Sĩ Khải" ],
   "namSinh" : "Không rõ",
@@ -1805,7 +1931,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lại Thế Khanh" ],
   "namSinh" : "Không rõ",
@@ -1819,7 +1946,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Bá Ly" ],
   "namSinh" : "1476",
@@ -1833,7 +1961,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Duy Bang", "Lê Anh Tông" ],
   "namSinh" : "1532",
@@ -1845,7 +1974,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Duy Đàm", "Lê Thái Tông" ],
   "namSinh" : "1567",
@@ -1861,7 +1991,8 @@
     "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
     "namBatDau" : "1483",
     "namKetThuc" : "1483"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Duy Huyên", "Lê Trung Tông" ],
   "namSinh" : "1535",
@@ -1873,7 +2004,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Nhu Hổ" ],
   "namSinh" : "1511",
@@ -1887,7 +2019,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Quang Bí", "Lê Quang Bôn" ],
   "namSinh" : "1504",
@@ -1899,7 +2032,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lê Vô Cương" ],
   "namSinh" : "Không rõ",
@@ -1913,7 +2047,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Lương Hữu Khánh" ],
   "namSinh" : "Không rõ",
@@ -1927,7 +2062,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Mạc Chính Trung" ],
   "namSinh" : "Không rõ",
@@ -1939,7 +2075,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Mạc Đăng Doanh" ],
   "namSinh" : "Không rõ",
@@ -1951,7 +2088,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Mạc Đăng Dung" ],
   "namSinh" : "1483",
@@ -1983,7 +2121,8 @@
     "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
     "namBatDau" : "1627",
     "namKetThuc" : "1672"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi Nghĩa Trần Cảo", "Sự kiện: Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Mạc Đôn Nhượng" ],
   "namSinh" : "Không rõ",
@@ -1995,7 +2134,8 @@
     "namKetThuc" : "1592"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nam - Bắc Triều" ]
 }, {
   "hoTen" : [ "Dương Trọng Khiêm" ],
   "namSinh" : "1727",
@@ -2009,7 +2149,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Chất" ],
   "namSinh" : "1622",
@@ -2023,7 +2164,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đại Độ" ],
   "namSinh" : "Không rõ",
@@ -2035,7 +2177,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đình Đông", "Đặng Tiến Đông" ],
   "namSinh" : "1738",
@@ -2053,7 +2196,8 @@
     "tenSuKien" : "Quân Thanh xâm lược nước ta",
     "namBatDau" : "1788",
     "namKetThuc" : "1788"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Thanh xâm lược nước ta", "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đình Gián" ],
   "namSinh" : "Không rõ",
@@ -2067,7 +2211,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đình Lân" ],
   "namSinh" : "Không rõ",
@@ -2081,7 +2226,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đình Tướng" ],
   "namSinh" : "1649",
@@ -2095,7 +2241,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Đức Thuật" ],
   "namSinh" : "Không rõ",
@@ -2109,7 +2256,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bình Thuận"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bình Thuận", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Hữu Tâm" ],
   "namSinh" : "Không rõ",
@@ -2121,7 +2269,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Thái Phương" ],
   "namSinh" : "1678",
@@ -2135,7 +2284,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Thế Khoa" ],
   "namSinh" : "1593",
@@ -2149,7 +2299,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Tiến Thự" ],
   "namSinh" : "1627",
@@ -2163,7 +2314,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đặng Trần Côn" ],
   "namSinh" : "Không rõ",
@@ -2177,7 +2329,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đào Bí" ],
   "namSinh" : "Không rõ",
@@ -2191,7 +2344,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đào Công Chính" ],
   "namSinh" : "1639",
@@ -2203,7 +2357,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đào Duy Từ" ],
   "namSinh" : "1572",
@@ -2217,7 +2372,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đào Quang Nhiêu" ],
   "namSinh" : "1601",
@@ -2229,7 +2385,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đào Tá Hán" ],
   "namSinh" : "Không rõ",
@@ -2243,7 +2400,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đinh Nhạ Hành" ],
   "namSinh" : "1751",
@@ -2255,7 +2413,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Đinh Nho Công" ],
   "namSinh" : "1637",
@@ -2269,7 +2428,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Chỉ" ],
   "namSinh" : "Không rõ",
@@ -2281,7 +2441,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Đào", "Lê Hiển Tông" ],
   "namSinh" : "1716",
@@ -2293,7 +2454,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Đường", "Lê Dụ Tông" ],
   "namSinh" : "1680",
@@ -2305,7 +2467,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Hội", "Lê Gia Tông" ],
   "namSinh" : "1661",
@@ -2317,7 +2480,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Hợp", "Lê Hi Tông" ],
   "namSinh" : "1664",
@@ -2329,7 +2493,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Hựu", "Lê Chân Tông" ],
   "namSinh" : "1630",
@@ -2341,7 +2506,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Khiêm", "Lê Chiêu Thống" ],
   "namSinh" : "1766",
@@ -2361,7 +2527,8 @@
     "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
     "namBatDau" : "1789",
     "namKetThuc" : "1789"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Thanh xâm lược nước ta", "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Kỳ", "Lê Thần Tông" ],
   "namSinh" : "1607",
@@ -2373,7 +2540,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Mật" ],
   "namSinh" : "Không rõ",
@@ -2385,7 +2553,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Ninh", "Lê Trang Tông" ],
   "namSinh" : "1515",
@@ -2397,7 +2566,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Phương" ],
   "namSinh" : "Không rõ",
@@ -2409,7 +2579,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Quí" ],
   "namSinh" : "Không rõ",
@@ -2421,7 +2592,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Tân", "Kính Tông" ],
   "namSinh" : "1588",
@@ -2435,7 +2607,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Thìn", "Lê Ý Tông" ],
   "namSinh" : "1719",
@@ -2447,7 +2620,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Tường", "Lê Thần Tông" ],
   "namSinh" : "1699",
@@ -2459,7 +2633,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Duy Võ", "Lê Huyền Tông" ],
   "namSinh" : "1654",
@@ -2471,7 +2646,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Hân" ],
   "namSinh" : "Không rõ",
@@ -2485,7 +2661,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Hi" ],
   "namSinh" : "1646",
@@ -2499,7 +2676,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Hữu Danh" ],
   "namSinh" : "1642",
@@ -2511,7 +2689,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Hữu Kiều", "Lê Hữu Khánh" ],
   "namSinh" : "1691",
@@ -2523,7 +2702,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Gia Thiều", "Tân Trai", "Hi Tôn Tử", "Như Ý Thiền", "Siêu Chân" ],
   "namSinh" : "1741",
@@ -2539,7 +2719,8 @@
   }, {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Địa điểm: Bắc Ninh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
   "namSinh" : "Không rõ",
@@ -2569,7 +2750,8 @@
     "tenSuKien" : "Khởi nghĩa Ba Đình",
     "namBatDau" : "1886",
     "namKetThuc" : "1887"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hàm Nghi ra Chiếu Cần Vương", "Sự kiện: Phong trào Cần Vương", "Sự kiện: Khởi nghĩa Bãi Sậy", "Sự kiện: Khởi nghĩa Ba Đình", "Địa điểm: Quảng Bình", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
   "namSinh" : "1713",
@@ -2587,7 +2769,8 @@
     "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
     "namBatDau" : "1627",
     "namKetThuc" : "1672"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
   "namSinh" : "1524",
@@ -2601,7 +2784,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Dật" ],
   "namSinh" : "1603",
@@ -2615,7 +2799,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Hào" ],
   "namSinh" : "Không rõ",
@@ -2629,7 +2814,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
   "namSinh" : "1650",
@@ -2647,7 +2833,8 @@
     "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
     "namBatDau" : "1698",
     "namKetThuc" : "1698"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
   "namSinh" : "1757",
@@ -2661,7 +2848,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
   "namSinh" : "1602",
@@ -2677,7 +2865,8 @@
   }, {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Huy Oánh" ],
   "namSinh" : "1713",
@@ -2691,7 +2880,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
   "namSinh" : "1743",
@@ -2705,7 +2895,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Chiêm" ],
   "namSinh" : "1659",
@@ -2717,7 +2908,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Đăng" ],
   "namSinh" : "1691",
@@ -2731,7 +2923,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Kiên" ],
   "namSinh" : "Không rõ",
@@ -2745,7 +2938,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Khoa Toàn", "Nguyễn Khoa Thuyên" ],
   "namSinh" : "1724",
@@ -2759,7 +2953,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Kiều", "Hạo Hiên" ],
   "namSinh" : "1694",
@@ -2773,7 +2968,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Kim" ],
   "namSinh" : "1467",
@@ -2799,7 +2995,8 @@
     "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
     "namBatDau" : "1627",
     "namKetThuc" : "1672"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Lại", "Nghè Bột" ],
   "namSinh" : "1511",
@@ -2813,7 +3010,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Mậu Áng" ],
   "namSinh" : "1668",
@@ -2827,7 +3025,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Nguyễn Mậu Tuyên" ],
   "namSinh" : "1518",
@@ -2841,7 +3040,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Cương", "An Đô Vương" ],
   "namSinh" : "Không rõ",
@@ -2857,7 +3057,8 @@
   }, {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Doanh", "Minh Đô Vương" ],
   "namSinh" : "1720",
@@ -2871,7 +3072,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Giang", "Uy Nam Vương" ],
   "namSinh" : "1729",
@@ -2885,7 +3087,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Sâm", "Tĩnh Đô Vương" ],
   "namSinh" : "1729",
@@ -2897,7 +3100,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Tạc", "Tây Vương" ],
   "namSinh" : "1657",
@@ -2911,7 +3115,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Tông", "Đoan Nam Vương" ],
   "namSinh" : "1763",
@@ -2923,7 +3128,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Tráng", "Thanh Đô Vương" ],
   "namSinh" : "Không rõ",
@@ -2941,7 +3147,8 @@
     "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
     "namBatDau" : "1627",
     "namKetThuc" : "1672"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trịnh Tùng", "Bình An Vương" ],
   "namSinh" : "1550",
@@ -2963,7 +3170,8 @@
     "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
     "namBatDau" : "1627",
     "namKetThuc" : "1672"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trương Phúc Loan" ],
   "namSinh" : "Không rõ",
@@ -2975,7 +3183,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Trương Phước Phan" ],
   "namSinh" : "Không rõ",
@@ -2989,7 +3198,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Văn Đình Dẫn" ],
   "namSinh" : "Không rõ",
@@ -3003,7 +3213,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Biết" ],
   "namSinh" : "Không rõ",
@@ -3015,7 +3226,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Công Đạo" ],
   "namSinh" : "1629",
@@ -3027,7 +3239,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Công Tuấn", "Vũ Công Tuấn" ],
   "namSinh" : "1685",
@@ -3041,7 +3254,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Diệm" ],
   "namSinh" : "1705",
@@ -3055,7 +3269,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Duy Chí" ],
   "namSinh" : "1604",
@@ -3067,7 +3282,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Duy Đoán", "Quế Am" ],
   "namSinh" : "1621",
@@ -3079,7 +3295,8 @@
     "namKetThuc" : "1788"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Đình Dung" ],
   "namSinh" : "1699",
@@ -3093,7 +3310,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Đức Nghiêm", "Minh Giác" ],
   "namSinh" : "Không rõ",
@@ -3107,7 +3325,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Võ Miên" ],
   "namSinh" : "1718",
@@ -3121,7 +3340,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Trịnh - Nguyễn" ]
 }, {
   "hoTen" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
   "namSinh" : "1771",
@@ -3135,7 +3355,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Lê Văn Long", "Đô Đốc Long" ],
   "namSinh" : "Không rõ",
@@ -3149,7 +3370,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Lê Văn Thủ" ],
   "namSinh" : "Không rõ",
@@ -3163,7 +3385,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Ngô Văn Sở" ],
   "namSinh" : "Không rõ",
@@ -3175,7 +3398,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Ngụy Nguyên" ],
   "namSinh" : "Không rõ",
@@ -3187,7 +3411,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Nguyễn Lữ", "Đức ông Bảy" ],
   "namSinh" : "Không rõ",
@@ -3207,7 +3432,8 @@
     "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
     "namBatDau" : "1777",
     "namKetThuc" : "1777"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa nông dân Tây Sơn bùng nổ", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Nguyễn Nhạc", "Trung Ương Hoàng Đế" ],
   "namSinh" : "Không rõ",
@@ -3231,7 +3457,8 @@
     "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
     "namBatDau" : "1786",
     "namKetThuc" : "1786"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa nông dân Tây Sơn bùng nổ", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Cảnh", "Hoàng Tử Cảnh" ],
   "namSinh" : "1779",
@@ -3243,7 +3470,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Nguyễn Quang Thùy" ],
   "namSinh" : "Không rõ",
@@ -3255,7 +3483,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Nguyễn Quang Toản", "Hoàng Trác" ],
   "namSinh" : "1783",
@@ -3267,7 +3496,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Trần Văn Kỉ", "Trần Chánh Kỉ" ],
   "namSinh" : "Không rõ",
@@ -3281,7 +3511,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Trương Văn Đa" ],
   "namSinh" : "Không rõ",
@@ -3293,7 +3524,8 @@
     "namKetThuc" : "1802"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Võ Văn Dũng" ],
   "namSinh" : "Không rõ",
@@ -3309,7 +3541,8 @@
     "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
     "namBatDau" : "1789",
     "namKetThuc" : "1789"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Thời kỳ: Nhà Tây Sơn" ]
 }, {
   "hoTen" : [ "Hồ Văn Bôi" ],
   "namSinh" : "Không rõ",
@@ -3327,7 +3560,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Tây Sơn", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Chất" ],
   "namSinh" : "1769",
@@ -3343,7 +3577,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Thế Chuẩn", "Đức Khê" ],
   "namSinh" : "1794",
@@ -3359,7 +3594,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Tây Sơn", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "An Thiền" ],
   "namSinh" : "Không rõ",
@@ -3373,7 +3609,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "An Thường", "Tam Xuân", "Lương Đức" ],
   "namSinh" : "1817",
@@ -3387,7 +3624,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Âu Dương Lân" ],
   "namSinh" : "Không rõ",
@@ -3403,7 +3641,8 @@
   }, {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Địa điểm: Tiền Giang", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Bạch Công Trân" ],
   "namSinh" : "Không rõ",
@@ -3417,7 +3656,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đào Doãn Địch" ],
   "namSinh" : "1833",
@@ -3429,7 +3669,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đào Duy Chung" ],
   "namSinh" : "Không rõ",
@@ -3443,7 +3684,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đào Tấn" ],
   "namSinh" : "1845",
@@ -3455,7 +3697,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đào Trí" ],
   "namSinh" : "Không rõ",
@@ -3469,7 +3712,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Phú Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Phú Yên", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đẩu Nương" ],
   "namSinh" : "Không rõ",
@@ -3483,7 +3727,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Công Mĩ" ],
   "namSinh" : "Không rõ",
@@ -3495,7 +3740,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Nhật Tân" ],
   "namSinh" : "1836",
@@ -3509,7 +3755,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Nhật Thận" ],
   "namSinh" : "1815",
@@ -3523,7 +3770,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Nho Chấn" ],
   "namSinh" : "Không rõ",
@@ -3535,7 +3783,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Nho Điển" ],
   "namSinh" : "1848",
@@ -3549,7 +3798,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Thế Quang" ],
   "namSinh" : "Không rõ",
@@ -3561,7 +3811,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Văn Chất" ],
   "namSinh" : "1847",
@@ -3575,7 +3826,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đinh Văn Điển" ],
   "namSinh" : "Không rõ",
@@ -3589,7 +3841,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Công Tường" ],
   "namSinh" : "Không rõ",
@@ -3603,7 +3856,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Đăng Đệ" ],
   "namSinh" : "1834",
@@ -3617,7 +3871,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Hải Thuận" ],
   "namSinh" : "1806",
@@ -3631,7 +3886,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Huy Liêu", "Đỗ Đình Liêu" ],
   "namSinh" : "1844",
@@ -3645,7 +3901,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Huy Uyển", "Tân Giang" ],
   "namSinh" : "1816",
@@ -3659,7 +3916,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Minh Tâm", "Đỗ Như Tâm", "Minh Giám" ],
   "namSinh" : "1840",
@@ -3673,7 +3931,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vĩnh Long"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Long", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Đỗ Quang" ],
   "namSinh" : "1807",
@@ -3685,7 +3944,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Nguyên Trung", "Lê Nguyên Huệ" ],
   "namSinh" : "Không rõ",
@@ -3699,7 +3959,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Quang Định", "Tri Chỉ", "Cấn Trai" ],
   "namSinh" : "1759",
@@ -3715,7 +3976,8 @@
   }, {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thừa Thiên-Huế", "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Quang Quan", "Lê Tán Kế" ],
   "namSinh" : "Không rõ",
@@ -3729,7 +3991,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Sĩ" ],
   "namSinh" : "Không rõ",
@@ -3743,7 +4006,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Thành Phương" ],
   "namSinh" : "1825",
@@ -3757,7 +4021,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Phú Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Phú Yên", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Trọng Đôn" ],
   "namSinh" : "Không rõ",
@@ -3771,7 +4036,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Trung Đình" ],
   "namSinh" : "1863",
@@ -3785,7 +4051,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Tuấn" ],
   "namSinh" : "1818",
@@ -3803,7 +4070,8 @@
     "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
     "namBatDau" : "1874",
     "namKetThuc" : "1874"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Giáp Tuất 1874", "Địa điểm: Hà Tĩnh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Văn Duyệt" ],
   "namSinh" : "1763",
@@ -3821,7 +4089,8 @@
     "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
     "namBatDau" : "1833",
     "namKetThuc" : "1835"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lê Văn Khôi", "Địa điểm: Quảng Ngãi", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Văn Gẫm" ],
   "namSinh" : "1813",
@@ -3835,7 +4104,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Nai"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Nai", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Văn Khôi" ],
   "namSinh" : "Không rõ",
@@ -3853,7 +4123,8 @@
     "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
     "namBatDau" : "1833",
     "namKetThuc" : "1835"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lê Văn Khôi", "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Văn Lộc" ],
   "namSinh" : "1830",
@@ -3871,7 +4142,8 @@
     "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
     "namBatDau" : "1789",
     "namKetThuc" : "1789"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lê Vĩnh Khanh" ],
   "namSinh" : "1819",
@@ -3885,7 +4157,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lữ Xuân Uy", "Thúc Bào" ],
   "namSinh" : "1838",
@@ -3899,7 +4172,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lưu Đình Lễ" ],
   "namSinh" : "Không rõ",
@@ -3913,7 +4187,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Lý Văn Phức", "Lân Chi", "Khắc Trai" ],
   "namSinh" : "1785",
@@ -3927,7 +4202,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Ma Danh Cúc" ],
   "namSinh" : "Không rõ",
@@ -3939,7 +4215,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Mai Đằng Phương", "Nhiêu Phang" ],
   "namSinh" : "Không rõ",
@@ -3953,7 +4230,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Mai Xuân Thưởng" ],
   "namSinh" : "1860",
@@ -3965,7 +4243,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Ngô Đức Chính" ],
   "namSinh" : "Không rõ",
@@ -3979,7 +4258,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ninh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Diêu", "Tú Nhơn Ân" ],
   "namSinh" : "Không rõ",
@@ -3991,7 +4271,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Dục", "Nguyễn Dục" ],
   "namSinh" : "1807",
@@ -4005,7 +4286,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Giao" ],
   "namSinh" : "1812",
@@ -4019,7 +4301,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Giáp", "Bố Giáp" ],
   "namSinh" : "Không rõ",
@@ -4033,7 +4316,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Hoành", "Nguyễn Hựu Hoành" ],
   "namSinh" : "Không rõ",
@@ -4047,7 +4331,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cao Bằng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cao Bằng", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Linh" ],
   "namSinh" : "1815",
@@ -4061,7 +4346,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Siêu", "Tốn Ban", "Phương Đình" ],
   "namSinh" : "1799",
@@ -4075,7 +4361,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Trắm" ],
   "namSinh" : "Không rõ",
@@ -4089,7 +4376,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Văn Xán", "Nguyễn Văn Thước" ],
   "namSinh" : "1822",
@@ -4103,7 +4391,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Ôn", "Ngọc Đường", "Lương Giang", "Hiến Đình" ],
   "namSinh" : "1830",
@@ -4117,7 +4406,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nhữ Bá Sĩ", "Nguyên Lập", "Nghi Am", "Đạm Trai" ],
   "namSinh" : "1787",
@@ -4131,7 +4421,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Nông Văn Vân" ],
   "namSinh" : "Không rõ",
@@ -4145,7 +4436,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cao Bằng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cao Bằng", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Đăng Giảng" ],
   "namSinh" : "1834",
@@ -4159,7 +4451,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Đình Dục", "Mộng Phủng", "Loát Trúc Đạo Nhân", "Văn Sử Thị" ],
   "namSinh" : "Không rõ",
@@ -4171,7 +4464,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Đình Hổ", "Tùng Niên", "Bỉnh Trực", "Đông Dã Triều" ],
   "namSinh" : "1768",
@@ -4183,7 +4477,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Đình Trạc" ],
   "namSinh" : "Không rõ",
@@ -4195,7 +4490,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Hi Lượng", "Hối Thúc", "Ngư Đường" ],
   "namSinh" : "1834",
@@ -4209,7 +4505,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Hoằng Đạt" ],
   "namSinh" : "Không rõ",
@@ -4223,7 +4520,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Hội", "Dưỡng Am" ],
   "namSinh" : "Không rõ",
@@ -4235,7 +4533,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Phạm Hữu Nghi", "Trọng Vũ", "Đạm Trai", "Phạm Hồng Nghi" ],
   "namSinh" : "1797",
@@ -4249,7 +4548,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Duy Đề" ],
   "namSinh" : "Không rõ",
@@ -4263,7 +4563,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Duy Ninh" ],
   "namSinh" : "Không rõ",
@@ -4277,7 +4578,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Duy Thanh", "Trạng Bồng" ],
   "namSinh" : "1807",
@@ -4291,7 +4593,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Đăng Xuân", "Võ Tấn Thượng" ],
   "namSinh" : "Không rõ",
@@ -4305,7 +4608,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Đức Khuê" ],
   "namSinh" : "1793",
@@ -4317,7 +4621,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Võ Xuân Cẩn" ],
   "namSinh" : "1778",
@@ -4331,7 +4636,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Vũ Nhự", "Đông Phần" ],
   "namSinh" : "1840",
@@ -4343,7 +4649,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Vũ Phạm Khải", "Đông Dương", "Phương Trì" ],
   "namSinh" : "1807",
@@ -4357,7 +4664,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Vũ Tông Phan", "Hoán Phủ", "Lỗ Am", "Đường Xuyên" ],
   "namSinh" : "1800",
@@ -4369,7 +4677,8 @@
     "namKetThuc" : "1883"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Vũ Văn Tuấn" ],
   "namSinh" : "1806",
@@ -4383,7 +4692,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Vương Duy Trinh", "Tử Cán", "Đạm Trai", "Hương Trì" ],
   "namSinh" : "Không rõ",
@@ -4397,7 +4707,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập" ]
 }, {
   "hoTen" : [ "Bùi Dị", "Bùi Văn Dị" ],
   "namSinh" : "1832",
@@ -4415,7 +4726,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Bùi Như Quảng", "Đốc Đen" ],
   "namSinh" : "Không rõ",
@@ -4433,7 +4745,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Cầm Bá Thước" ],
   "namSinh" : "1858",
@@ -4451,7 +4764,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Cao Đạt" ],
   "namSinh" : "Không rõ",
@@ -4467,7 +4781,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Cao Xuân Dục" ],
   "namSinh" : "1842",
@@ -4485,7 +4800,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Châu Mạnh Trinh", "Chu Mạnh Trinh" ],
   "namSinh" : "1862",
@@ -4503,7 +4819,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Châu Thuợng Văn" ],
   "namSinh" : "1856",
@@ -4521,7 +4838,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Công Tráng" ],
   "namSinh" : "1842",
@@ -4543,7 +4861,8 @@
     "tenSuKien" : "Khởi nghĩa Ba Đình",
     "namBatDau" : "1886",
     "namKetThuc" : "1887"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Ba Đình", "Địa điểm: Hà Nam", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Nho Quang" ],
   "namSinh" : "Không rõ",
@@ -4561,7 +4880,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Tôn Thất Hân", "Lạc Chi", "Liên Đình" ],
   "namSinh" : "1854",
@@ -4579,7 +4899,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Tôn Thất Thuyết" ],
   "namSinh" : "1835",
@@ -4613,7 +4934,8 @@
     "tenSuKien" : "Khởi nghĩa Ba Đình",
     "namBatDau" : "1886",
     "namKetThuc" : "1887"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hàm Nghi ra Chiếu Cần Vương", "Sự kiện: Phong trào Cần Vương", "Sự kiện: Khởi nghĩa Bãi Sậy", "Sự kiện: Khởi nghĩa Ba Đình", "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Tống Duy Tân" ],
   "namSinh" : "1837",
@@ -4635,7 +4957,8 @@
     "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
     "namBatDau" : "1887",
     "namKetThuc" : "1892"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Hùng Lĩnh", "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Tổng Lung" ],
   "namSinh" : "Không rõ",
@@ -4653,7 +4976,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Bá Lộc" ],
   "namSinh" : "1839",
@@ -4671,7 +4995,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "An Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: An Giang", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Đình Phong", "Mã Sơn" ],
   "namSinh" : "1847",
@@ -4689,7 +5014,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Đình Túc" ],
   "namSinh" : "Không rõ",
@@ -4711,7 +5037,8 @@
     "tenSuKien" : "Hiệp ước Quý Mùi",
     "namBatDau" : "Hiệp ước Harmand",
     "namKetThuc" : "Hiệp ước Harmand"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Quý Mùi", "Địa điểm: Quảng Trị", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Hữu Thường" ],
   "namSinh" : "1844",
@@ -4729,7 +5056,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Lục", "Cha Sáu" ],
   "namSinh" : "1825",
@@ -4747,7 +5075,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Quang Diêm" ],
   "namSinh" : "1840",
@@ -4765,7 +5094,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Thuyết" ],
   "namSinh" : "1857",
@@ -4783,7 +5113,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Trọng Cung" ],
   "namSinh" : "1860",
@@ -4801,7 +5132,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Trọng Khiêm" ],
   "namSinh" : "1821",
@@ -4819,7 +5151,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Phú Thọ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Phú Thọ", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Viết Thọ" ],
   "namSinh" : "1836",
@@ -4837,7 +5170,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trần Xuân Soạn" ],
   "namSinh" : "1849",
@@ -4855,7 +5189,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trương Như Cương" ],
   "namSinh" : "1850",
@@ -4873,7 +5208,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trương Quang Đản", "Trương Đăng Đản", "Tử Minh", "Cúc Viên" ],
   "namSinh" : "1833",
@@ -4891,7 +5227,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trương Quang Ngọc" ],
   "namSinh" : "Không rõ",
@@ -4909,7 +5246,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trương Trọng Hữu", "Tố Trai" ],
   "namSinh" : "1852",
@@ -4927,7 +5265,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Trương Văn Thám", "Hoàng Hoa Thám", "Trương Văn Nghĩa" ],
   "namSinh" : "1858",
@@ -4953,7 +5292,8 @@
     "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
     "namBatDau" : "1911",
     "namKetThuc" : "1911"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Yên Thế", "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Địa điểm: Hưng Yên", "Thời kỳ: Nhà Nguyễn độc lập", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đặng Văn Bá" ],
   "namSinh" : "1877",
@@ -4967,7 +5307,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đào Nguyên Phổ", "Đào Văn Mại" ],
   "namSinh" : "1861",
@@ -4981,7 +5322,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đào Thành Đô" ],
   "namSinh" : "Không rõ",
@@ -4993,7 +5335,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đào Thoại Thạch" ],
   "namSinh" : "1876",
@@ -5005,7 +5348,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đào Văn Châu" ],
   "namSinh" : "Không rõ",
@@ -5017,7 +5361,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đào Văn Thử" ],
   "namSinh" : "1921",
@@ -5031,7 +5376,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đậu Quang Lĩnh" ],
   "namSinh" : "1870",
@@ -5045,7 +5391,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Doãn Tế" ],
   "namSinh" : "1885",
@@ -5059,7 +5406,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Gia Thuyết" ],
   "namSinh" : "Không rõ",
@@ -5073,7 +5421,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Hữu Thuật" ],
   "namSinh" : "1881",
@@ -5087,7 +5436,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Kinh Luân" ],
   "namSinh" : "Không rõ",
@@ -5099,7 +5449,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Phu Nhân", "Đinh Thị Thoán" ],
   "namSinh" : "Không rõ",
@@ -5113,7 +5464,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đinh Quang Nhường" ],
   "namSinh" : "Không rõ",
@@ -5125,7 +5477,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Bàng" ],
   "namSinh" : "1906",
@@ -5137,7 +5490,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Cơ Quang" ],
   "namSinh" : "1878",
@@ -5151,7 +5505,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Đình Nhân" ],
   "namSinh" : "Không rõ",
@@ -5163,7 +5518,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Huy Nam" ],
   "namSinh" : "1883",
@@ -5177,7 +5533,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Ngọc Du" ],
   "namSinh" : "1907",
@@ -5189,7 +5546,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Ngọc Quang" ],
   "namSinh" : "Không rõ",
@@ -5201,7 +5559,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Đỗ Ngọc Thạch" ],
   "namSinh" : "1930",
@@ -5213,7 +5572,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Khánh Hòa", "Khánh Hòa", "Như Trí" ],
   "namSinh" : "1876",
@@ -5227,7 +5587,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Khiết", "An Ba", "Lê Thứu Khiết" ],
   "namSinh" : "Không rõ",
@@ -5241,7 +5602,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Khoan Hoằng" ],
   "namSinh" : "Không rõ",
@@ -5253,7 +5615,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Kính Hạp" ],
   "namSinh" : "Không rõ",
@@ -5267,7 +5630,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Lượng" ],
   "namSinh" : "1870",
@@ -5281,7 +5645,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Ngung" ],
   "namSinh" : "Không rõ",
@@ -5295,7 +5660,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Phát An" ],
   "namSinh" : "1868",
@@ -5307,7 +5673,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Phát Đạt", "Huyện Sĩ" ],
   "namSinh" : "Không rõ",
@@ -5319,7 +5686,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Quang Chiếu" ],
   "namSinh" : "1853",
@@ -5333,7 +5701,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cần Thơ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cần Thơ", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Quang Nhơn", "Thường Tiên" ],
   "namSinh" : "1883",
@@ -5347,7 +5716,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vĩnh Long"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Long", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Quang Sung" ],
   "namSinh" : "1905",
@@ -5361,7 +5731,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Quang Trinh" ],
   "namSinh" : "1883",
@@ -5375,7 +5746,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Sum", "Trường Mậu" ],
   "namSinh" : "Không rõ",
@@ -5389,7 +5761,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Tấn Bê" ],
   "namSinh" : "1923",
@@ -5403,7 +5776,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Thanh", "Nguyễn Văn Thanh", "Khiết Phủ" ],
   "namSinh" : "1913",
@@ -5417,7 +5791,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Thế Hiếu" ],
   "namSinh" : "Không rõ",
@@ -5431,7 +5806,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Thị Bính" ],
   "namSinh" : "1879",
@@ -5445,7 +5821,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Thúc Hoạch" ],
   "namSinh" : "Không rõ",
@@ -5459,7 +5836,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Trọng Hàm", "Quốc Ninh", "Đồng Giang" ],
   "namSinh" : "1872",
@@ -5473,7 +5851,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Lê Trực" ],
   "namSinh" : "Không rõ",
@@ -5487,7 +5866,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Lan Khai", "Nguyễn Đình Khải", "Lan Khai" ],
   "namSinh" : "",
@@ -5501,7 +5881,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tuyên Quang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tuyên Quang", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Minh Hòe" ],
   "namSinh" : "1866",
@@ -5515,7 +5896,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nam Thông" ],
   "namSinh" : "1893",
@@ -5529,7 +5911,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nghiêm" ],
   "namSinh" : "1903",
@@ -5543,7 +5926,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Ngọc Bích" ],
   "namSinh" : "1921",
@@ -5557,7 +5941,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Ngọc Tương" ],
   "namSinh" : "Không rõ",
@@ -5573,7 +5958,8 @@
   }, {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cà Mau", "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nhu", "Nguyễn Văn Sử" ],
   "namSinh" : "1876",
@@ -5587,7 +5973,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nhự" ],
   "namSinh" : "1865",
@@ -5601,7 +5988,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nhuận" ],
   "namSinh" : "1879",
@@ -5615,7 +6003,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Nhược Pháp" ],
   "namSinh" : "1914",
@@ -5629,7 +6018,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phan Vinh" ],
   "namSinh" : "Không rõ",
@@ -5643,7 +6033,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phong Di" ],
   "namSinh" : "1889",
@@ -5657,7 +6048,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phong Sắc" ],
   "namSinh" : "1902",
@@ -5671,7 +6063,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Bửu Đảo", "Khải Định" ],
   "namSinh" : "1882",
@@ -5685,7 +6078,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Bửu Đình", "Bửu Đình", "Hà Trì" ],
   "namSinh" : "1898",
@@ -5699,7 +6093,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Hồng Dật", "Hiệp Hòa" ],
   "namSinh" : "1847",
@@ -5713,7 +6108,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Chân", "Dục Đức" ],
   "namSinh" : "1853",
@@ -5727,7 +6123,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Đăng", "Kiến Phúc" ],
   "namSinh" : "1869",
@@ -5741,7 +6138,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Ki", "Đồng Khánh" ],
   "namSinh" : "1863",
@@ -5757,7 +6155,8 @@
   }, {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Nguyễn Phúc Ưng Lịch", "Hàm Nghi" ],
   "namSinh" : "1872",
@@ -5771,7 +6170,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Nhân Thuần" ],
   "namSinh" : "1871",
@@ -5785,7 +6185,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Quỳnh", "Thượng Chi", "Hồng Nhân" ],
   "namSinh" : "1892",
@@ -5797,7 +6198,8 @@
     "namKetThuc" : "1945"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Tư Trực", "Phạm Đăng Thê", "Bang Phu", "Trọng Thăng Tử" ],
   "namSinh" : "1869",
@@ -5811,7 +6213,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Văn Chí" ],
   "namSinh" : "Không rõ",
@@ -5825,7 +6228,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Văn Ngôn" ],
   "namSinh" : "Không rõ",
@@ -5839,7 +6243,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Văn Sáng" ],
   "namSinh" : "Không rõ",
@@ -5853,7 +6258,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phạm Văn Tráng", "Nguyễn Văn Tráng" ],
   "namSinh" : "Không rõ",
@@ -5867,7 +6273,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Bội Châu", "Phan Văn San", "Sào Nam", "Hải Thu", "Thị Hán", "Độc Tĩnh Tử", "Hãn Mạn Tử" ],
   "namSinh" : "1867",
@@ -5901,7 +6308,8 @@
     "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
     "namBatDau" : "1911",
     "namKetThuc" : "1911"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Yên Thế", "Sự kiện: Hội Duy Tân được thành lập", "Sự kiện: Thành lập “Việt Nam Quang phục hội”", "Sự kiện: Phong trào Đông Du", "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Châu Trinh", "Phan Chu Trinh", "Tây Hồ", "Tử Cán", "Hi Mã" ],
   "namSinh" : "1872",
@@ -5923,7 +6331,8 @@
     "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
     "namBatDau" : "1911",
     "namKetThuc" : "1911"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Yên Thế", "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Đăng Lưu" ],
   "namSinh" : "1902",
@@ -5937,7 +6346,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Điện" ],
   "namSinh" : "1875",
@@ -5951,7 +6361,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Đình Cừ", "Phan Bá Ngọc" ],
   "namSinh" : "Không rõ",
@@ -5965,7 +6376,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Đình Phùng" ],
   "namSinh" : "1891",
@@ -5985,7 +6397,8 @@
     "tenSuKien" : "Khởi nghĩa Hương Khê",
     "namBatDau" : "1885",
     "namKetThuc" : "1896"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Hương Khê", "Địa điểm: Hà Tĩnh", "Địa điểm: Ninh Bình", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Huấn Chương", "Phan Văn Tí" ],
   "namSinh" : "1900",
@@ -5999,7 +6412,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vĩnh Long"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vĩnh Long", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Kế Bính", "Bưu Văn" ],
   "namSinh" : "1875",
@@ -6015,7 +6429,8 @@
   }, {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Lại Lượng" ],
   "namSinh" : "1890",
@@ -6029,7 +6444,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Mạnh Danh", "Thế Vọng", "Phù Giang" ],
   "namSinh" : "1866",
@@ -6043,7 +6459,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Ngọc Hiển", "Giáo Hiền" ],
   "namSinh" : "1910",
@@ -6057,7 +6474,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cần Thơ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cần Thơ", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Phát Sanh", "Phan Xích Long" ],
   "namSinh" : "1893",
@@ -6071,7 +6489,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Phan Thanh", "Trạc Anh" ],
   "namSinh" : "1908",
@@ -6089,7 +6508,8 @@
     "tenSuKien" : "Hiệp ước Nhâm Tuất",
     "namBatDau" : "1862",
     "namKetThuc" : "1862"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Nhâm Tuất", "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Vũ Phạm Hàm", "Mộng Hải", "Thư Trì" ],
   "namSinh" : "1864",
@@ -6103,7 +6523,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Vũ Trọng Can" ],
   "namSinh" : "1915",
@@ -6117,7 +6538,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Vũ Trọng Phụng", "Thiên Hư" ],
   "namSinh" : "1911",
@@ -6131,7 +6553,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Vũ Văn Hiếu" ],
   "namSinh" : "1907",
@@ -6145,7 +6568,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Vương Thúc Mậu" ],
   "namSinh" : "Không rõ",
@@ -6159,7 +6583,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ" ]
 }, {
   "hoTen" : [ "Bàng Bá Lân" ],
   "namSinh" : "1916",
@@ -6177,7 +6602,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bông Văn Dĩa" ],
   "namSinh" : "1905",
@@ -6195,7 +6621,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cà Mau"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cà Mau", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Biên" ],
   "namSinh" : "1891",
@@ -6213,7 +6640,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Công Trừng" ],
   "namSinh" : "1905",
@@ -6231,7 +6659,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Đình Diệm", "Quang Dũng" ],
   "namSinh" : "1921",
@@ -6249,7 +6678,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Giáng" ],
   "namSinh" : "1926",
@@ -6267,7 +6697,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Hữu Sủng" ],
   "namSinh" : "1907",
@@ -6283,7 +6714,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Huy Cường", "Nam Hương" ],
   "namSinh" : "1899",
@@ -6301,7 +6733,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Huy Phồn", "Đỗ Phồn", "Bùi Như Lạc" ],
   "namSinh" : "1912",
@@ -6319,7 +6752,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Kiến Tín", "Bùi Thử" ],
   "namSinh" : "1912",
@@ -6337,7 +6771,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Kỷ" ],
   "namSinh" : "1887",
@@ -6355,7 +6790,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Lâm" ],
   "namSinh" : "1896",
@@ -6373,7 +6809,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Phong Tư", "Nguyễn Đức Thuận" ],
   "namSinh" : "1916",
@@ -6391,7 +6828,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Thị Hậu" ],
   "namSinh" : "1881",
@@ -6409,7 +6847,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Bùi Tường Chiểu" ],
   "namSinh" : "1904",
@@ -6427,7 +6866,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Đắc Di" ],
   "namSinh" : "1901",
@@ -6445,7 +6885,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Đắc Hàm" ],
   "namSinh" : "1879",
@@ -6463,7 +6904,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Huệ Bá" ],
   "namSinh" : "1894",
@@ -6481,7 +6923,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "An Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: An Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Hữu Tường" ],
   "namSinh" : "1910",
@@ -6499,7 +6942,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cần Thơ"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cần Thơ", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Liên", "Hoàng Bích Sơn" ],
   "namSinh" : "1924",
@@ -6517,7 +6961,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Tá Khanh" ],
   "namSinh" : "1908",
@@ -6535,7 +6980,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Thị Hạnh", "Diệu Không" ],
   "namSinh" : "1905",
@@ -6553,7 +6999,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Trọng Hiếu", "Tú Mỡ" ],
   "namSinh" : "1900",
@@ -6571,7 +7018,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Tùng Mậu" ],
   "namSinh" : "1896",
@@ -6597,7 +7045,8 @@
     "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
     "namBatDau" : "1925",
     "namKetThuc" : "1925"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc", "Sự kiện: Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên", "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Văn Hiến" ],
   "namSinh" : "1900",
@@ -6615,7 +7064,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Văn Trung", "Hồ Biểu Chánh", "Thứ Tiên" ],
   "namSinh" : "1884",
@@ -6633,7 +7083,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Xuân Lưu", "Trần Quốc Thảo" ],
   "namSinh" : "1914",
@@ -6651,7 +7102,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Đạo Thúy" ],
   "namSinh" : "1900",
@@ -6669,7 +7121,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Khương Ninh", "Huỳnh Khương Ninh" ],
   "namSinh" : "1890",
@@ -6687,7 +7140,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Vũng Tàu"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Vũng Tàu", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Minh Giám" ],
   "namSinh" : "1904",
@@ -6705,7 +7159,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Minh Giám" ],
   "namSinh" : "1913",
@@ -6723,7 +7178,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Ngọc Phách", "Song An" ],
   "namSinh" : "1896",
@@ -6741,7 +7197,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Phạm Trân", "Nhượng Tống", "Mạc Bảo Thần" ],
   "namSinh" : "1904",
@@ -6759,7 +7216,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Phú Sổ", "Huỳnh Phú Sổ" ],
   "namSinh" : "1919",
@@ -6777,7 +7235,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "An Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: An Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Thúc Tấn" ],
   "namSinh" : "1912",
@@ -6795,7 +7254,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Đệ" ],
   "namSinh" : "1906",
@@ -6813,7 +7273,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Hiến" ],
   "namSinh" : "1904",
@@ -6831,7 +7292,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đà Nẵng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đà Nẵng", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Hòe", "Lê Văn Hạc" ],
   "namSinh" : "1911",
@@ -6849,7 +7311,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Năng", "Lê Văn Quới" ],
   "namSinh" : "1893",
@@ -6867,7 +7330,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Ngôn", "Bảo Hương" ],
   "namSinh" : "1908",
@@ -6885,7 +7349,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Phúc", "Lê Thọ Xuân" ],
   "namSinh" : "1904",
@@ -6903,7 +7368,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Sĩ", "Võ Sĩ" ],
   "namSinh" : "1910",
@@ -6921,7 +7387,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Siêu" ],
   "namSinh" : "1911",
@@ -6939,7 +7406,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Thiêm" ],
   "namSinh" : "1918",
@@ -6957,7 +7425,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Thới" ],
   "namSinh" : "1917",
@@ -6977,7 +7446,8 @@
   }, {
     "tenDiaDiem" : "Tây Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tây Ninh", "Địa điểm: Tây Ninh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Thử", "Việt Tha" ],
   "namSinh" : "1906",
@@ -6993,7 +7463,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Trung" ],
   "namSinh" : "1875",
@@ -7011,7 +7482,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Trương" ],
   "namSinh" : "1906",
@@ -7029,7 +7501,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Vị", "Vita" ],
   "namSinh" : "1910",
@@ -7045,7 +7518,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Văn Viễn", "Bảy Viễn" ],
   "namSinh" : "1904",
@@ -7063,7 +7537,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Võ Đài", "Minh Hương" ],
   "namSinh" : "1924",
@@ -7081,7 +7556,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lương Tri", "Lê Văn Quới", "Lê Văn Năng" ],
   "namSinh" : "1893",
@@ -7099,7 +7575,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lương Trọng Hối" ],
   "namSinh" : "1888",
@@ -7117,7 +7594,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lương Văn Nho" ],
   "namSinh" : "1916",
@@ -7135,7 +7613,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Nai"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Nai", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lương Vĩnh Thuật", "Thanh Long", "Hành Sơn" ],
   "namSinh" : "1918",
@@ -7153,7 +7632,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đình Thi" ],
   "namSinh" : "1924",
@@ -7171,7 +7651,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đỗ Cung" ],
   "namSinh" : "1912",
@@ -7187,7 +7668,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đỗ Mục", "Trọng Hữu" ],
   "namSinh" : "1866",
@@ -7205,7 +7687,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đóa" ],
   "namSinh" : "1896",
@@ -7223,7 +7706,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đôn Phục", "Hi Cán", "Tùng Vân" ],
   "namSinh" : "Không rõ",
@@ -7241,7 +7725,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đổng Chi" ],
   "namSinh" : "1915",
@@ -7259,7 +7744,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Giới", "Thôi Hữu", "Trần Văn Tấn", "Tân Sắc" ],
   "namSinh" : "1919",
@@ -7277,7 +7763,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Huy (Ii)", "Hồng Tiêu" ],
   "namSinh" : "1902",
@@ -7295,7 +7782,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Long", "Thượng Sĩ" ],
   "namSinh" : "1908",
@@ -7313,7 +7801,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nguyên", "Hoài Thanh" ],
   "namSinh" : "1909",
@@ -7331,7 +7820,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nhuận", "Bút Trà" ],
   "namSinh" : "1900",
@@ -7349,7 +7839,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nhuận" ],
   "namSinh" : "1900",
@@ -7367,7 +7858,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Trà Vinh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Trà Vinh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Nhuận", "Phú Đức" ],
   "namSinh" : "1901",
@@ -7385,7 +7877,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Quỳnh", "Hà Việt Phương", "Hoài Đồng Vọng" ],
   "namSinh" : "1909",
@@ -7403,7 +7896,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Đức Thuận", "Bùi Phong Tư" ],
   "namSinh" : "1916",
@@ -7421,7 +7915,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Gia Trí" ],
   "namSinh" : "1908",
@@ -7439,7 +7934,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Gia Tường" ],
   "namSinh" : "1902",
@@ -7457,7 +7953,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Giang" ],
   "namSinh" : "1910",
@@ -7475,7 +7972,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Hiến Lê", "Lộc Đình" ],
   "namSinh" : "1912",
@@ -7493,7 +7991,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Hoàng", "Vĩnh Mai" ],
   "namSinh" : "1918",
@@ -7511,7 +8010,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Tất Thành", "Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc", "Lý Thụy", "Anh Ba", "Vương Sơn Nhi", "Chàng Vương", "Tống Văn Sơ", "Hồ Quang", "Thầu Chín" ],
   "namSinh" : "1890",
@@ -7567,7 +8067,8 @@
     "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
     "namBatDau" : "1925",
     "namKetThuc" : "1925"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Sự kiện: Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp", "Sự kiện: Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm", "Sự kiện: Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp", "Sự kiện: Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc", "Sự kiện: Nguyễn Ái Quốc đến Quảng Châu", "Sự kiện: Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên", "Địa điểm: Nghệ An", "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thái Sơn", "Bảy Bình" ],
   "namSinh" : "1928",
@@ -7585,7 +8086,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thành Châu", "Năm Châu" ],
   "namSinh" : "1906",
@@ -7603,7 +8105,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thành Giung" ],
   "namSinh" : "1894",
@@ -7621,7 +8124,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thành Long", "Lưu Quỳnh", "Phan Minh Thảo" ],
   "namSinh" : "1925",
@@ -7639,7 +8143,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thành Tâm", "Nguyễn Văn Hưởng" ],
   "namSinh" : "1906",
@@ -7657,7 +8162,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "An Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: An Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thanh Tích", "Phả Minh" ],
   "namSinh" : "1881",
@@ -7675,7 +8181,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thành Vĩnh" ],
   "namSinh" : "1905",
@@ -7693,7 +8200,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thế Long" ],
   "namSinh" : "Không rõ",
@@ -7711,7 +8219,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thế Phương", "Nam Đình", "Nguyễn Kì Nam" ],
   "namSinh" : "1906",
@@ -7727,7 +8236,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thế Truyền" ],
   "namSinh" : "1898",
@@ -7745,7 +8255,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Ninh Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Ninh Bình", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thị Định" ],
   "namSinh" : "1920",
@@ -7765,7 +8276,8 @@
   }, {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thị Kiêm", "Nguyễn Thị Manh Manh", "Myn", "Nguyễn Văn Myn", "Lệ Thủy" ],
   "namSinh" : "1914",
@@ -7783,7 +8295,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thị Lan", "Nam Phương" ],
   "namSinh" : "1914",
@@ -7801,7 +8314,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thị Thập" ],
   "namSinh" : "1908",
@@ -7819,7 +8333,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thị Trừ", "Huỳnh Liên" ],
   "namSinh" : "1923",
@@ -7837,7 +8352,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thiệu Lâu" ],
   "namSinh" : "1916",
@@ -7855,7 +8371,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thứ Lễ", "Thế Lữ", "Lê Ta" ],
   "namSinh" : "1907",
@@ -7873,7 +8390,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Thức Canh", "Trần Hữu Công", "Trần Trọng Khắc" ],
   "namSinh" : "1884",
@@ -7891,7 +8409,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Tiến Chung" ],
   "namSinh" : "1914",
@@ -7909,7 +8428,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Bái" ],
   "namSinh" : "1895",
@@ -7927,7 +8447,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Khoát" ],
   "namSinh" : "1910",
@@ -7945,7 +8466,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Khuê", "Sương Nguyệt Anh" ],
   "namSinh" : "1864",
@@ -7963,7 +8485,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bến Tre"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bến Tre", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Nhí", "Nguyễn Công Tâm" ],
   "namSinh" : "1912",
@@ -7981,7 +8504,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nguyễn Xuân Oánh" ],
   "namSinh" : "1921",
@@ -8001,7 +8525,8 @@
   }, {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Giang", "Địa điểm: Bắc Ninh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Nông Văn Quỳnh", "Nông Quốc Chấn" ],
   "namSinh" : "1923",
@@ -8019,7 +8544,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Cao Bằng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Cao Bằng", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Biểu Tâm" ],
   "namSinh" : "1913",
@@ -8037,7 +8563,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Công Tắc" ],
   "namSinh" : "1890",
@@ -8053,7 +8580,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Duy Khiêm" ],
   "namSinh" : "1907",
@@ -8071,7 +8599,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Đình Ái" ],
   "namSinh" : "1907",
@@ -8089,7 +8618,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Đình Bách", "Họa Sơn" ],
   "namSinh" : "1909",
@@ -8107,7 +8637,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Đình Tân", "Từ Huệ", "Lĩnh Việt" ],
   "namSinh" : "1913",
@@ -8125,7 +8656,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Đức Hạp", "Đức Nhuận" ],
   "namSinh" : "1897",
@@ -8143,7 +8675,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Hoanh" ],
   "namSinh" : "1880",
@@ -8161,7 +8694,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Hữu Lầu" ],
   "namSinh" : "1905",
@@ -8179,7 +8713,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Huy Thông" ],
   "namSinh" : "1916",
@@ -8197,7 +8732,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hưng Yên"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hưng Yên", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Khắc Hòe" ],
   "namSinh" : "1902",
@@ -8215,7 +8751,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Kỳ Ngỡl", "Khổng Nghi" ],
   "namSinh" : "1920",
@@ -8233,7 +8770,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Lợi" ],
   "namSinh" : "1912",
@@ -8251,7 +8789,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Yên Bái"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Yên Bái", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Phạm Ngọc Chi" ],
   "namSinh" : "1909",
@@ -8267,7 +8806,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tô Văn Tuấn", "Bình Nguyên Lộc" ],
   "namSinh" : "1914",
@@ -8283,7 +8823,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tô Vĩnh Diện" ],
   "namSinh" : "1924",
@@ -8301,7 +8842,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Thanh Hóa"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tôn Đức Thắng" ],
   "namSinh" : "1888",
@@ -8319,7 +8861,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "An Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: An Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tôn Quang Phiệt" ],
   "namSinh" : "1900",
@@ -8337,7 +8880,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tôn Thất Tùng" ],
   "namSinh" : "1912",
@@ -8357,7 +8901,8 @@
   }, {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thanh Hóa", "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Tống Văn Hên" ],
   "namSinh" : "1909",
@@ -8375,7 +8920,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Chí Thành", "Trần Tấn Quốc" ],
   "namSinh" : "1914",
@@ -8393,7 +8939,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Dần", "Trần Văn Dần" ],
   "namSinh" : "1926",
@@ -8411,7 +8958,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đăng Khoa" ],
   "namSinh" : "1907",
@@ -8429,7 +8977,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đình Đàn" ],
   "namSinh" : "1903",
@@ -8447,7 +8996,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đình Nam" ],
   "namSinh" : "1896",
@@ -8465,7 +9015,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đình Tri" ],
   "namSinh" : "1915",
@@ -8483,7 +9034,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đình Xu" ],
   "namSinh" : "1921",
@@ -8503,7 +9055,8 @@
   }, {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đức Sắc", "Văn Tân" ],
   "namSinh" : "1913",
@@ -8523,7 +9076,8 @@
   }, {
     "tenDiaDiem" : "Hà Tây"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Giang", "Địa điểm: Hà Tây", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Đức Thảo" ],
   "namSinh" : "1917",
@@ -8541,7 +9095,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Hữu Thung" ],
   "namSinh" : "1923",
@@ -8559,7 +9114,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Hữu Trang", "Tư Trang" ],
   "namSinh" : "1906",
@@ -8577,7 +9133,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
   "namSinh" : "1917",
@@ -8597,7 +9154,8 @@
   }, {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Địa điểm: Hà Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Hữu Tước" ],
   "namSinh" : "1913",
@@ -8615,7 +9173,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Trần Huy Liệu", "Nam Kiều", "Đẩu Nam", "Hải Khánh", "Côi Vị", "Ẩm Hân", "Kiếm Bút" ],
   "namSinh" : "1901",
@@ -8633,7 +9192,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vi Huyền Đắc", "Giới Chi" ],
   "namSinh" : "1899",
@@ -8651,7 +9211,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hải Phòng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hải Phòng", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vi Văn Định" ],
   "namSinh" : "1878",
@@ -8669,7 +9230,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Bá Hạp", "Trúc Khê", "Nguyên Bích" ],
   "namSinh" : "1876",
@@ -8687,7 +9249,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Huế"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Huế", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Chí Thâm", "Giác Nhiên" ],
   "namSinh" : "1877",
@@ -8705,7 +9268,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Trị"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Trị", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Đông Giang", "Phan Bá" ],
   "namSinh" : "1923",
@@ -8727,7 +9291,8 @@
     "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
     "namBatDau" : "1821",
     "namKetThuc" : "1827"
-  } ]
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Phan Bá Vành", "Địa điểm: Phú Yên", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Hải Thu", "Nguyễn Hải Thần" ],
   "namSinh" : "1878",
@@ -8745,7 +9310,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Hóa", "Khánh Anh", "Chơn Húy" ],
   "namSinh" : "1895",
@@ -8763,7 +9329,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Hoành", "Ngọc Tiểu" ],
   "namSinh" : "1873",
@@ -8781,7 +9348,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Liêm Sơn", "Ngạc Am" ],
   "namSinh" : "1888",
@@ -8799,7 +9367,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Nguyên Giáp" ],
   "namSinh" : "1911",
@@ -8819,7 +9388,8 @@
   }, {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Địa điểm: Quảng Bình", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Nguyên Thủy", "Võ Nguyên Bác", "Nguyễn Sơn", "Võ Hồng Thủy" ],
   "namSinh" : "1908",
@@ -8837,7 +9407,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Oanh" ],
   "namSinh" : "1890",
@@ -8855,7 +9426,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Tĩnh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Tĩnh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Quảng" ],
   "namSinh" : "1920",
@@ -8873,7 +9445,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Toàn", "Võ Chí Công" ],
   "namSinh" : "1913",
@@ -8891,7 +9464,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Võ Tùng" ],
   "namSinh" : "Không rõ",
@@ -8909,7 +9483,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Ngãi"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Ngãi", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vũ Anh Khanh", "Nguyễn Năm" ],
   "namSinh" : "1926",
@@ -8927,7 +9502,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bình Thuận"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bình Thuận", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vũ Đăng Bằng", "Vũ Bằng", "Tiêu Liêu", "Lê Tâm", "Vũ Tường Khanh", "Hoàng Thị Trâm" ],
   "namSinh" : "1914",
@@ -8943,7 +9519,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vũ Đình Chí", "Tam Lang" ],
   "namSinh" : "1901",
@@ -8961,7 +9538,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bắc Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bắc Ninh", "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vũ Đình Hòe" ],
   "namSinh" : "1912",
@@ -8977,7 +9555,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Vũ Đình Liên" ],
   "namSinh" : "1913",
@@ -8993,7 +9572,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Pháp đô hộ", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hồ Văn Huê" ],
   "namSinh" : "1917",
@@ -9005,7 +9585,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Đình Tí", "Hoàng Phương" ],
   "namSinh" : "1924",
@@ -9019,7 +9600,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hải Phòng"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hải Phòng", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Kiện" ],
   "namSinh" : "1921",
@@ -9033,7 +9615,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nghệ An", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Lệ Kha" ],
   "namSinh" : "Không rõ",
@@ -9047,7 +9630,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tây Ninh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tây Ninh", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Minh Tuynh" ],
   "namSinh" : "1916",
@@ -9061,7 +9645,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Nam Định"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Nam Định", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Phê" ],
   "namSinh" : "1919",
@@ -9075,7 +9660,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Tố Nguyên" ],
   "namSinh" : "1929",
@@ -9089,7 +9675,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Tiền Giang"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Tiền Giang", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Trung Thông" ],
   "namSinh" : "1925",
@@ -9105,7 +9692,8 @@
   }, {
     "tenDiaDiem" : "Nghệ An"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Yên Bái", "Địa điểm: Nghệ An", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Tuệ" ],
   "namSinh" : "1921",
@@ -9119,7 +9707,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Bình", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Văn Hành" ],
   "namSinh" : "1934",
@@ -9133,7 +9722,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Văn Hương", "Hùng Lân" ],
   "namSinh" : "1922",
@@ -9147,7 +9737,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nội"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nội", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Văn Lễ" ],
   "namSinh" : "1940",
@@ -9161,7 +9752,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Bình Thuận"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Bình Thuận", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Văn Thái" ],
   "namSinh" : "1915",
@@ -9177,7 +9769,8 @@
   }, {
     "tenDiaDiem" : "Thái Bình"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Thái Bình", "Địa điểm: Thái Bình", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Hoàng Văn Thiệu", "Hoàng Văn Khánh" ],
   "namSinh" : "1923",
@@ -9191,7 +9784,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hà Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hà Nam", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Huỳnh Văn Bánh" ],
   "namSinh" : "1922",
@@ -9205,7 +9799,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Hồ Chí Minh"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Hồ Chí Minh", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Huỳnh Văn Gấm" ],
   "namSinh" : "1922",
@@ -9217,7 +9812,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lâm Thanh Lang", "Xuân Khải", "Yến Lan" ],
   "namSinh" : "1916",
@@ -9229,7 +9825,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Khâm", "Phan Tứ" ],
   "namSinh" : "1930",
@@ -9243,7 +9840,8 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Quảng Nam"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Quảng Nam", "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Minh Xuân" ],
   "namSinh" : "1935",
@@ -9255,7 +9853,8 @@
     "namKetThuc" : "2023"
   } ],
   "danhSachDiaDiem" : [ ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Thời kỳ: Nước Việt Nam mới" ]
 }, {
   "hoTen" : [ "Lê Quang Hương", "Lê Hương" ],
   "namSinh" : "1922",
@@ -9269,5 +9868,6 @@
   "danhSachDiaDiem" : [ {
     "tenDiaDiem" : "Đồng Tháp"
   } ],
-  "danhSachSuKien" : [ ]
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Địa điểm: Đồng Tháp", "Thời kỳ: Nước Việt Nam mới" ]
 } ]

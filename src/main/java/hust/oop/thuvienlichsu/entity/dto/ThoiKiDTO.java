@@ -41,7 +41,7 @@ public class ThoiKiDTO {
 
     @Override
     public String toString() {
-        return "\n\t\ttenThoiKi=" + tenThoiKi + ", namBatDau=" + namBatDau + ", namKetThuc=" + namKetThuc;
+        return "\n\t\tThoi ki: tenThoiKi=" + tenThoiKi + ", namBatDau=" + namBatDau + ", namKetThuc=" + namKetThuc;
     }
 
     

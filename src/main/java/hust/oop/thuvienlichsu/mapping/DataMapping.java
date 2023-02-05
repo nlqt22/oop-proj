@@ -66,20 +66,41 @@ public class DataMapping {
         mappingDiaDiemToNhanVat();
         mappingNhanVatToDiaDiem();
         mappingSuKienToDiaDiem();
+        mappingDiaDiemToLeHoi();
+        mappingNhanVatToLeHoi();
+
+        for(NhanVat element: danhSachNhanVat){
+            element.addThongTinLienQuan();
+        }
+        for(SuKien element: danhSachSuKien){
+            element.addThongTinLienQuan();
+        }
+        for(DiaDiem element: danhSachDiaDiem){
+            element.addThongTinLienQuan();
+        }
+        for(ThoiKi element: danhSachThoiKi){
+            element.addThongTinLienQuan();
+        }
+        for(LeHoi element: danhSachLeHoi){
+            element.addThongTinLienQuan();
+        }
     }
 
     public List<NhanVat> getDanhSachNhanVat() {
         return this.danhSachNhanVat;
     }
-
     public List<ThoiKi> getDanhSachThoiKi() {
         return this.danhSachThoiKi;
     }
-
-    public List<SuKien> getDanhSachSuKien() { return danhSachSuKien; }
-
-    public List<DiaDiem> getDanhSachDiaDiem() { return danhSachDiaDiem; }
-    public  List<LeHoi> getDanhSachLeHoi(){return danhSachLeHoi; }
+    public List<SuKien> getDanhSachSuKien() {
+        return danhSachSuKien; 
+    }
+    public List<DiaDiem> getDanhSachDiaDiem() {
+        return danhSachDiaDiem; 
+    }
+    public  List<LeHoi> getDanhSachLeHoi(){
+        return danhSachLeHoi;
+    }
 
     public void mappingThoiKiToNhanVat() {
         for(NhanVat nhanVat : this.danhSachNhanVat) {
@@ -196,6 +217,28 @@ public class DataMapping {
                             suKien.getNamKetThuc()
                     ));
                 }
+            }
+        }
+    }
+    public void mappingNhanVatToLeHoi() {
+        for(LeHoi leHoi : this.danhSachLeHoi){
+            for(String ten : leHoi.getNhanVatLienQuan()){
+                for(NhanVat nhanVat : this.danhSachNhanVat){
+                    for(String name : nhanVat.getHoTen())
+                        if(ten.contains(name) || name.contains(ten)){
+                            leHoi.addNhanVat(new NhanVatDTO(nhanVat.getHoTen().get(0),nhanVat.getHoTen(),nhanVat.getNamSinh(),nhanVat.getNamMat(),nhanVat.getQueQuan()));
+                        }
+                }
+            }
+        }
+    }
+
+    public void mappingDiaDiemToLeHoi() {
+        for(LeHoi leHoi : this.danhSachLeHoi){
+            for(DiaDiem diaDiem : this.danhSachDiaDiem){
+                if(leHoi.getDiaDiemToChuc().contains(diaDiem.getTenDiaDiem()) || diaDiem.getTenDiaDiem().contains(leHoi.getDiaDiemToChuc())){
+                    leHoi.addDiaDiem(new DiaDiemDTO(diaDiem.getTenDiaDiem()));
+                        }
             }
         }
     }

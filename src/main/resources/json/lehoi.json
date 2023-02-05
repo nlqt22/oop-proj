@@ -1,313 +1,417 @@
 [ {
   "tenLeHoi" : "Lễ hội Đống Đa",
   "ngayToChuc" : "5/1",
-  "diaDiemToChuc" : "Hà Nội, quận Đống Đa",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Nguyễn Huệ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội vật Liễu Đôi",
   "ngayToChuc" : "5/1",
-  "diaDiemToChuc" : "Hà Nam, huyện Thanh Liêm",
+  "diaDiemToChuc" : "Hà Nam",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "hội Gióng Sóc Sơn",
   "ngayToChuc" : "6/1",
-  "diaDiemToChuc" : "Hà Nội, Sóc Sơn",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "Nhà Tiền Lê",
-  "nhanVatLienQuan" : [ "Thánh Gióng" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Cổ Loa",
   "ngayToChuc" : "6/1",
-  "diaDiemToChuc" : "Hà Nội, Đông Anh",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "An Dương Vương" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội chùa Bái Đính",
   "ngayToChuc" : "6/1",
-  "diaDiemToChuc" : "Ninh Bình, Gia Viễn",
+  "diaDiemToChuc" : "Ninh Bình",
   "ngayThanhLap" : "Nhà Lý",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Chợ Viềng",
   "ngayToChuc" : "7/1",
-  "diaDiemToChuc" : "Nam Định, Vụ Bản",
+  "diaDiemToChuc" : "Nam Định",
   "ngayThanhLap" : "Nhà Trần",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội đầm Ô Loan",
   "ngayToChuc" : "7/1",
-  "diaDiemToChuc" : "Phú Yên, Ô Loan",
+  "diaDiemToChuc" : "Phú Yên",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Đại lễ Đức Chí Tôn",
   "ngayToChuc" : "9/1",
-  "diaDiemToChuc" : "Tây Ninh, Đạo Cao Đài",
+  "diaDiemToChuc" : "Tây Ninh",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Đức Chí Tôn" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội xuân Yên Tử",
   "ngayToChuc" : "10/1",
-  "diaDiemToChuc" : "Quảng Ninh, núi Yên Tử",
+  "diaDiemToChuc" : "Quảng Ninh",
   "ngayThanhLap" : "thế kỷ 14",
-  "nhanVatLienQuan" : [ "Trần Nhân Tông" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội phết Hiền Quan",
   "ngayToChuc" : "13/1",
-  "diaDiemToChuc" : "Phú Thọ, huyện Tam Nông",
+  "diaDiemToChuc" : "Phú Thọ",
   "ngayThanhLap" : "gần đây",
-  "nhanVatLienQuan" : [ "Thiều Hoa công chúa", "Mộc trang đại vương" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Lim",
   "ngayToChuc" : "13/1",
-  "diaDiemToChuc" : "Bắc Ninh, huyện Tiên Du",
+  "diaDiemToChuc" : "Bắc Ninh",
   "ngayThanhLap" : "Nhà Lê sơ",
-  "nhanVatLienQuan" : [ "Nguyễn Đình Diễn" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội chùa Hương",
   "ngayToChuc" : "6/1",
-  "diaDiemToChuc" : "Hà Nội, huyện Mỹ Đức",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Quan Thế Âm Bồ Tát" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội chùa Côn Sơn",
   "ngayToChuc" : "15/1",
-  "diaDiemToChuc" : "Hải Dương, huyện Chí Linh",
+  "diaDiemToChuc" : "Hải Dương",
   "ngayThanhLap" : "từ thế kỷ 14",
-  "nhanVatLienQuan" : [ "Huyền Quang", "Nguyễn Trãi" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội làm chay",
   "ngayToChuc" : "14/1",
-  "diaDiemToChuc" : "Long An, thị trấn Tầm Vu",
+  "diaDiemToChuc" : "Long An",
   "ngayThanhLap" : "năm 1878",
-  "nhanVatLienQuan" : [ "Đỗ Tường Phong", "Đỗ Tường Tự" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tết Nguyên tiêu",
   "ngayToChuc" : "15/1",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội chọi trâu",
   "ngayToChuc" : "16/1",
-  "diaDiemToChuc" : "Vĩnh Phúc, huyện Lập Thạch",
+  "diaDiemToChuc" : "Vĩnh Phúc",
   "ngayThanhLap" : "thế kỷ 2 trước CN",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Xuân núi Bà",
   "ngayToChuc" : "4/1",
-  "diaDiemToChuc" : "Tây Ninh, Núi Bà Đen",
+  "diaDiemToChuc" : "Tây Ninh",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Linh Sơn Thánh Mẫu" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội đình Yên Phụ",
   "ngayToChuc" : "10/2",
-  "diaDiemToChuc" : "Hà Nội, Hồ Tây",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "thế kỷ 17",
-  "nhanVatLienQuan" : [ "Uy Linh Lang", "Vương Duy", "Vương Ba" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Miếu Mạch Lũng",
   "ngayToChuc" : "10/2",
-  "diaDiemToChuc" : "Hà Nội, Đông Anh",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Minh Mỗ Đại vương Thượng đẳng thần" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Quán Thế Âm",
   "ngayToChuc" : "19/2",
-  "diaDiemToChuc" : "Đà Nẵng, Ngũ Hành Sơn",
+  "diaDiemToChuc" : "Đà Nẵng",
   "ngayThanhLap" : "năm 1960",
-  "nhanVatLienQuan" : [ "Quán Thế Âm Bồ Tát" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tiết Thanh minh",
   "ngayToChuc" : "",
   "diaDiemToChuc" : "",
   "ngayThanhLap" : "Nhà Thanh",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội đua voi",
   "ngayToChuc" : "",
   "diaDiemToChuc" : "Tây Nguyên",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tết Hàn thực",
   "ngayToChuc" : "3/3",
   "diaDiemToChuc" : "",
   "ngayThanhLap" : "Nhà Lê",
-  "nhanVatLienQuan" : [ "Giới Tử Thôi", "Tấn Văn Công" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Phủ Giầy",
   "ngayToChuc" : "3/3",
-  "diaDiemToChuc" : "Nam Định, Vụ Bản",
+  "diaDiemToChuc" : "Nam Định",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Mẫu Liễu Hạnh" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Điện Hòn Chén",
   "ngayToChuc" : "2/3",
-  "diaDiemToChuc" : "Thừa Thiên Huế, huyện Hương Trà",
+  "diaDiemToChuc" : "Thừa Thiên Huế",
   "ngayThanhLap" : "thế kỷ 16",
-  "nhanVatLienQuan" : [ "Thiên Y A Na" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Chùa Thầy",
   "ngayToChuc" : "3/3",
-  "diaDiemToChuc" : "Hà Tây, Quốc Oai",
+  "diaDiemToChuc" : "Hà Tây",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Từ Đạo Hạnh" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Hoa Lư",
   "ngayToChuc" : "6/3",
-  "diaDiemToChuc" : "Ninh Bình, huyện Hoa Lư",
+  "diaDiemToChuc" : "Ninh Bình",
   "ngayThanhLap" : "Nhà Lý",
-  "nhanVatLienQuan" : [ "Đinh Bộ Lĩnh" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội đền Thái Vi",
   "ngayToChuc" : "14/3",
-  "diaDiemToChuc" : "Ninh Bình, huyện Hoa Lư",
+  "diaDiemToChuc" : "Ninh Bình",
   "ngayThanhLap" : "Nhà Trần",
-  "nhanVatLienQuan" : [ "Trần Thái Tông", "Trần Thánh Tông", "Trần Nhân Tông", "Trần Anh Tông", "Hiển Từ Hoàng Thái Hậu" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Nam Trì",
   "ngayToChuc" : "8/3",
-  "diaDiemToChuc" : "Hưng Yên, huyện Ân Thi",
+  "diaDiemToChuc" : "Hưng Yên",
   "ngayThanhLap" : "Thế kỉ 2 trước CN",
-  "nhanVatLienQuan" : [ "Lang Công", "Bảo Công", "Công chúa Hùng vương Lâu nương" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Giỗ tổ Hùng Vương",
   "ngayToChuc" : "10/3",
   "diaDiemToChuc" : "Nhiều nơi ở Việt Nam",
   "ngayThanhLap" : "Nhà Đinh",
-  "nhanVatLienQuan" : [ "Vua Hùng" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội đền Mẫu",
   "ngayToChuc" : "10/3",
-  "diaDiemToChuc" : "Hưng Yên, Phố Hiến",
+  "diaDiemToChuc" : "Hưng Yên",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Dương Quý Phi" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Làng cá Cát Bà",
   "ngayToChuc" : "",
-  "diaDiemToChuc" : "Hải Phòng, huyện Cát Hải, Thị trấn Cát Bà",
+  "diaDiemToChuc" : "Hải Phòng",
   "ngayThanhLap" : "1/4/1958",
-  "nhanVatLienQuan" : [ "Hồ Chí Minh" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Gióng Phù Đổng",
   "ngayToChuc" : "7/4",
-  "diaDiemToChuc" : "Hà Nội, huyện Gia Lâm",
+  "diaDiemToChuc" : "Hà Nội",
   "ngayThanhLap" : "Thế kỉ 11 đời Lý Thái Tổ",
-  "nhanVatLienQuan" : [ "Thánh Gióng" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ Phật Đản",
   "ngayToChuc" : "8/4",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "624 trước CN",
-  "nhanVatLienQuan" : [ "Phật Tất Đạt Đa" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Chol Chnam Thmay",
   "ngayToChuc" : "14/4",
   "diaDiemToChuc" : "Nam Bộ",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ khao lề thế lính",
   "ngayToChuc" : "18/3",
-  "diaDiemToChuc" : "Quảng Ngãi, huyện Lý Sơn",
+  "diaDiemToChuc" : "Quảng Ngãi",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội miếu Bà Chúa Xứ",
   "ngayToChuc" : "23/4",
-  "diaDiemToChuc" : "Miếu Bà Chúa Xứ, Núi Sam, An Giang, Châu Đốc",
+  "diaDiemToChuc" : "Miếu Bà Chúa Xứ",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Bà Chúa Xứ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tết Đoan ngọ",
   "ngayToChuc" : "5/5",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Thất Tịch",
   "ngayToChuc" : "7/7",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Ngưu Lang", "Chức Nữ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ Vu Lan, Tết Trung Nguyên",
   "ngayToChuc" : "15/7",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Bồ tát Mục Liên" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Nghinh Ông (Quan Thánh Đế Quân)",
   "ngayToChuc" : "",
   "diaDiemToChuc" : "Phan Thiết (Bình Thuận)",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Katê",
   "ngayToChuc" : "",
   "diaDiemToChuc" : "Bình Thuận",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội chọi trâu",
   "ngayToChuc" : "9/8",
-  "diaDiemToChuc" : "Hải Phòng, Đồ Sơn",
+  "diaDiemToChuc" : "Hải Phòng",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tết Trung Thu",
   "ngayToChuc" : "15/8",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "Nhà Đường",
-  "nhanVatLienQuan" : [ "Hằng Nga", "Hậu Nghệ", "Đường Minh Hoàng", "Chú Cuội" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Đền Kiếp Bạc",
   "ngayToChuc" : "15/8",
-  "diaDiemToChuc" : "Hải Dương, huyện Chí Linh",
+  "diaDiemToChuc" : "Hải Dương",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Trần Hưng Đạo" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Hội Yến Diêu Trì",
   "ngayToChuc" : "15/8",
-  "diaDiemToChuc" : "Tây Ninh, Tòa Thánh Tây Ninh",
+  "diaDiemToChuc" : "Tây Ninh",
   "ngayThanhLap" : "năm 1925",
-  "nhanVatLienQuan" : [ "Cao Quỳnh Cư", "Phạm Công Tắc", "Cao Hoài Sang", "Nguyễn Thị Hiếu" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Nghinh Ông (Cá Voi)",
   "ngayToChuc" : "",
-  "diaDiemToChuc" : "Bình Thuận, Tiền Giang",
+  "diaDiemToChuc" : "Bình Thuận",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội AHDT Nguyễn Trung Trực",
   "ngayToChuc" : "",
-  "diaDiemToChuc" : "Rạch Giá, Kiên Giang",
+  "diaDiemToChuc" : "Rạch Giá",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Nguyễn Trung Trực" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội Chùa Keo",
   "ngayToChuc" : "13/9",
-  "diaDiemToChuc" : "Thái Bình, Vũ Thư",
+  "diaDiemToChuc" : "Thái Bình",
   "ngayThanhLap" : "Nhà Lý",
-  "nhanVatLienQuan" : [ "Thiền sư Không Lộ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tết cơm mới",
   "ngayToChuc" : "15/10",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Lễ hội đền Nguyễn Công Trứ",
   "ngayToChuc" : "13/11",
-  "diaDiemToChuc" : "Ninh Bình, huyện Kim Sơn",
+  "diaDiemToChuc" : "Ninh Bình",
   "ngayThanhLap" : "Nhà Nguyễn",
-  "nhanVatLienQuan" : [ "Nguyễn Công Trứ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 }, {
   "tenLeHoi" : "Tiễn Ông Táo về trời",
   "ngayToChuc" : "23/12",
   "diaDiemToChuc" : "Nhiều quốc gia",
   "ngayThanhLap" : "",
-  "nhanVatLienQuan" : [ "Thổ Công", "Thổ địa", "Thổ kỳ" ]
+  "danhSachNhanVat" : [ ],
+  "danhSachDiaDiem" : [ ],
+  "thongTinLienQuan" : [ ]
 } ]

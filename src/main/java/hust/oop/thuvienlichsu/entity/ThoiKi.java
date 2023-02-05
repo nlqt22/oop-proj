@@ -7,15 +7,17 @@ import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(value = { "tenSuKien", "tenNhanVat"})
+@JsonIgnoreProperties(value = { "tenSuKien", "tenNhanVat", "info"})
 public class ThoiKi {
     private String tenThoiKi;
     private String namBatDau;
     private String namKetThuc;
-    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
+    private List<String> tenNhanVat = new ArrayList<>();
     private List<String> tenSuKien = new ArrayList<>();
     private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
-    private List<String> tenNhanVat = new ArrayList<>();
+    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
+    
+    public List<String> info = new ArrayList<>();
 
     public void setTenThoiKi(String tenThoiKi) {
         this.tenThoiKi = tenThoiKi;
@@ -93,4 +95,16 @@ public class ThoiKi {
         return false;
     }
 
+    public void addThongTinLienQuan(){
+        for(NhanVatDTO element: this.danhSachNhanVat){
+            info.add("Nhân vật: " + element.getHoTen());
+        }
+        for(SuKienDTO element: this.getDanhSachSuKien()){
+            info.add("Sự kiện: " + element.getTenSuKien());
+        }
+    }
+
+    public List<String> getThongTinLienQuan() {
+        return info;
+    }
 }

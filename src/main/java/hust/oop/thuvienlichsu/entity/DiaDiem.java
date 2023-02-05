@@ -7,7 +7,7 @@ import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(value = {"tenNhanVat", "tenSuKien"})
+@JsonIgnoreProperties(value = {"tenNhanVat", "tenSuKien","info"})
 public class DiaDiem {
     private String tenDiaDiem;
     private String noiDung;
@@ -15,6 +15,8 @@ public class DiaDiem {
     private List<String> tenNhanVat = new ArrayList<>();
     private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
     private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
+    
+    public List<String> info = new ArrayList<>();
 
     public DiaDiem(){
     }
@@ -75,6 +77,8 @@ public class DiaDiem {
         if(suKienDTO != null) this.danhSachSuKien.add(suKienDTO);
     }
 
+    
+
     @Override
     public String toString() {
         return "DiaDiem [\n\ttenDiaDiem=" + tenDiaDiem + ",\n\tnoiDung=" + noiDung + ",\n\ttenSuKien=" + tenSuKien
@@ -89,5 +93,18 @@ public class DiaDiem {
     		return true;
         }
         return false;
+    }
+    
+    public void addThongTinLienQuan(){
+        for(SuKienDTO element: this.danhSachSuKien){
+            info.add("Sự kiện: " + element.getTenSuKien());
+        }
+        for(NhanVatDTO element: this.getDanhSachNhanVat()){
+            info.add("Nhân vật: " + element.getHoTen());
+        }
+    }
+
+    public List<String> getThongTinLienQuan() {
+        return info;
     }
 }
