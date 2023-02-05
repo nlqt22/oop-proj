@@ -37,8 +37,8 @@ public class DataMapping {
     private List<SuKien> danhSachSuKien;
     private List<DiaDiem> danhSachDiaDiem;
     private List<LeHoi> danhSachLeHoi;
-    public DataMapping() {
 
+    public DataMapping() {
         thoiKiScraper = new ThoiKiScraper();
         suKienScraper = new SuKienScraper();
         diaDiemScraper = new DiaDiemScraper();
@@ -58,7 +58,6 @@ public class DataMapping {
         thoiKiService.setDanhSachThoiKi(this.danhSachThoiKi);
         diaDiemService.setDanhSachDiaDiem(this.danhSachDiaDiem);
         nhanVatService.setDanhSachNhanVat(this.danhSachNhanVat);
-        thoiKiService.setDanhSachThoiKi(this.danhSachThoiKi);
 
         mappingSuKienToThoiKi();
         mappingThoiKiToNhanVat();
