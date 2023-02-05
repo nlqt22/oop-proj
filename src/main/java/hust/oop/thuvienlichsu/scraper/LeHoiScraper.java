@@ -25,7 +25,6 @@ public class LeHoiScraper {
 
         try {
             final Document document = Jsoup.connect(url_lehoi).get();
-            int i = 1;
             for (Element row : document.select("table.prettytable.wikitable tr")) {
                 LeHoi leHoi = new LeHoi();
                 

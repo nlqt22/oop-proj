@@ -6,7 +6,6 @@ import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 @JsonIgnoreProperties(value = {"tenThoiKi" ,"tenSuKien", "tenDiaDiem"})
@@ -109,8 +108,8 @@ public class NhanVat {
         this.hoTen.add(hoTen);
     }
 
-    public void addThoiKi(ThoiKiDTO thoiKi) {
-        this.danhSachThoiKi.add(thoiKi);
+    public void addThoiKi(ThoiKiDTO thoiKiDTO) {
+        if(thoiKiDTO != null) this.danhSachThoiKi.add(thoiKiDTO);
     }
 
     public void addSuKien(SuKienDTO suKienDTO) {
@@ -124,7 +123,7 @@ public class NhanVat {
     @Override
     public String toString() {
         return "NhanVat [\n\thoTen=" + hoTen + ",\n\tnamSinh=" + namSinh + ",\n\tnamMat=" + namMat + ",\n\tqueQuan=" + queQuan
-                + ",\n\tdanhSachThoiKi=" + Arrays.toString(danhSachThoiKi.toArray()) + ",\n\tdanhSachDiaDiem=" + danhSachDiaDiem.toString() + ",\n\tdanhSachSuKien="
+                + ",\n\tdanhSachThoiKi=" + danhSachThoiKi.toString() + ",\n\tdanhSachDiaDiem=" + danhSachDiaDiem.toString() + ",\n\tdanhSachSuKien="
                 + danhSachSuKien.toString() + "\n]";
     }
 

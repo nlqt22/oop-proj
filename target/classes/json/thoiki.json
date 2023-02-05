@@ -3,15 +3,12 @@
   "namBatDau" : "Không rõ",
   "namKetThuc" : "Không rõ",
   "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Dựng nước",
   "namBatDau" : "2000 trCN",
   "namKetThuc" : "258 trCN",
   "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "An Tiêm",
     "tenGoiKhac" : [ "An Tiêm" ],
@@ -90,14 +87,12 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Thục",
   "namBatDau" : "257 trCN",
   "namKetThuc" : "208 trCN",
   "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Cao Thông",
     "tenGoiKhac" : [ "Cao Thông", "Cao Lỗ" ],
@@ -110,14 +105,12 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần 1",
   "namBatDau" : "207 trCN",
   "namKetThuc" : "39",
   "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bốc Long",
     "tenGoiKhac" : [ "Bốc Long" ],
@@ -136,14 +129,28 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Không rõ"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Trưng Nữ Vương",
   "namBatDau" : "40",
   "namKetThuc" : "43",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
+    "namBatDau" : "42",
+    "namKetThuc" : "43"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hai Bà Trưng bùng nổ",
+    "namBatDau" : "40",
+    "namKetThuc" : "40"
+  }, {
+    "tenSuKien" : "Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương",
+    "namBatDau" : "41",
+    "namKetThuc" : "41"
+  }, {
+    "tenSuKien" : "Mã Viện đánh vào Giao Chỉ",
+    "namBatDau" : "42",
+    "namKetThuc" : "42"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "An Bình Lý",
     "tenGoiKhac" : [ "An Bình Lý" ],
@@ -156,54 +163,146 @@
     "namSinh" : "17",
     "namMat" : "43",
     "queQuan" : "Vĩnh Phúc"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần 2",
   "namBatDau" : "43",
   "namKetThuc" : "542",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lý Bí bùng nổ",
+    "namBatDau" : "542",
+    "namKetThuc" : "542"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bà Triệu",
+    "namBatDau" : "248",
+    "namKetThuc" : "248"
+  }, {
+    "tenSuKien" : "Nước Âu lạc bị quân Triệu Đà xâm chiếm",
+    "namBatDau" : "179",
+    "namKetThuc" : "179"
+  }, {
+    "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
+    "namBatDau" : "207",
+    "namKetThuc" : "207"
+  }, {
+    "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
+    "namBatDau" : "111",
+    "namKetThuc" : "111"
+  }, {
+    "tenSuKien" : "Nhà Hán lập Giao Chỉ Bộ",
+    "namBatDau" : "106",
+    "namKetThuc" : "106"
+  }, {
+    "tenSuKien" : "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán",
+    "namBatDau" : "100",
+    "namKetThuc" : "100"
+  }, {
+    "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
+    "namBatDau" : "137",
+    "namKetThuc" : "137"
+  }, {
+    "tenSuKien" : "Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta",
+    "namBatDau" : "187",
+    "namKetThuc" : "187"
+  }, {
+    "tenSuKien" : "Nhà nước Lâm Ấp được thành lập",
+    "namBatDau" : "190",
+    "namKetThuc" : "190"
+  }, {
+    "tenSuKien" : "Nhà Hán đặt Giao Chỉ thành Giao Châu",
+    "namBatDau" : "203",
+    "namKetThuc" : "203"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Nhà Tiền Lý, Triệu",
   "namBatDau" : "544",
   "namKetThuc" : "602",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Triệu Quang Phục giành lại độc lập",
+    "namBatDau" : "550",
+    "namKetThuc" : "550"
+  }, {
+    "tenSuKien" : "Nước Vạn Xuân thành lập",
+    "namBatDau" : "544",
+    "namKetThuc" : "544"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Bắc thuộc lần lần 3",
   "namBatDau" : "603",
   "namKetThuc" : "939",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà nước Văn Lang ra đời",
+    "namBatDau" : "700",
+    "namKetThuc" : "700"
+  }, {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  }, {
+    "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
+    "namBatDau" : "930",
+    "namKetThuc" : "931"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Phùng Hưng",
+    "namBatDau" : "776",
+    "namKetThuc" : "791"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Mai Thúc Loan",
+    "namBatDau" : "713",
+    "namKetThuc" : "713"
+  }, {
+    "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
+    "namBatDau" : "905",
+    "namKetThuc" : "905"
+  }, {
+    "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
+    "namBatDau" : "679",
+    "namKetThuc" : "679"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Xây nền tự chủ",
   "namBatDau" : "905",
   "namKetThuc" : "938",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
+    "namBatDau" : "930",
+    "namKetThuc" : "931"
+  }, {
+    "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
+    "namBatDau" : "905",
+    "namKetThuc" : "905"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Nhà Ngô",
   "namBatDau" : "939",
   "namKetThuc" : "965",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  }, {
+    "tenSuKien" : "Loạn 12 sứ quân",
+    "namBatDau" : "965",
+    "namKetThuc" : "967"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Nhà Đinh",
   "namBatDau" : "968",
   "namKetThuc" : "980",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Phạm Hạp",
     "tenGoiKhac" : [ "Phạm Hạp" ],
@@ -228,14 +327,24 @@
     "namSinh" : "941",
     "namMat" : "1005",
     "queQuan" : "Nam Định"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Tiền Lê",
   "namBatDau" : "980",
   "namKetThuc" : "1009",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
+    "namBatDau" : "981",
+    "namKetThuc" : "981"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
+    "namBatDau" : "1009",
+    "namKetThuc" : "1009"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Đinh Duệ",
     "tenGoiKhac" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
@@ -338,14 +447,40 @@
     "namSinh" : "Không rõ",
     "namMat" : "1018",
     "queQuan" : "Bắc Ninh"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Lý",
   "namBatDau" : "1010",
   "namKetThuc" : "1225",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  }, {
+    "tenSuKien" : "Nhà Lý ban hành bộ luật Hình thư",
+    "namBatDau" : "1042",
+    "namKetThuc" : "1042"
+  }, {
+    "tenSuKien" : "Nhà Lý đổi tên nước thành Đại Việt",
+    "namBatDau" : "1054",
+    "namKetThuc" : "1054"
+  }, {
+    "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
+    "namBatDau" : "1070",
+    "namKetThuc" : "1070"
+  }, {
+    "tenSuKien" : "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu",
+    "namBatDau" : "1075",
+    "namKetThuc" : "1075"
+  }, {
+    "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
+    "namBatDau" : "1076",
+    "namKetThuc" : "1076"
+  }, {
+    "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
+    "namBatDau" : "1077",
+    "namKetThuc" : "1077"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Đào Cam Mộc",
     "tenGoiKhac" : [ "Đào Cam Mộc" ],
@@ -490,14 +625,60 @@
     "namSinh" : "Không rõ",
     "namMat" : "1117",
     "queQuan" : "Bắc Ninh"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Trần",
   "namBatDau" : "1225",
   "namKetThuc" : "1400",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
+    "namBatDau" : "1226",
+    "namKetThuc" : "1226"
+  }, {
+    "tenSuKien" : "Ban hành Quốc triều hình luật",
+    "namBatDau" : "1230",
+    "namKetThuc" : "1230"
+  }, {
+    "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
+    "namBatDau" : "1253",
+    "namKetThuc" : "1253"
+  }, {
+    "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
+    "namBatDau" : "1258",
+    "namKetThuc" : "1258"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Trận Hàm Tử",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Trận Vân Đồn",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Nguyễn Thuyên",
     "tenGoiKhac" : [ "Nguyễn Thuyên" ],
@@ -618,38 +799,106 @@
     "namSinh" : "Không rõ",
     "namMat" : "1391",
     "queQuan" : "Không rõ"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Hồ",
   "namBatDau" : "1400",
   "namKetThuc" : "1407",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Định quan chế và hình luật của nước Đại Ngu",
+    "namBatDau" : "1401",
+    "namKetThuc" : "1401"
+  }, {
+    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Cuộc xâm lược của nhà Minh 1406-1407",
+    "namBatDau" : "1406",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
+    "namBatDau" : "1407",
+    "namKetThuc" : "1409"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Hậu Trần",
   "namBatDau" : "1407",
   "namKetThuc" : "1413",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
+    "namBatDau" : "1407",
+    "namKetThuc" : "1409"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Quý Khoáng",
+    "namBatDau" : "1409",
+    "namKetThuc" : "1414"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Thuộc Minh",
   "namBatDau" : "1414",
   "namKetThuc" : "1427",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
-  "danhSachNhanVat" : [ ],
-  "tenNhanVat" : [ ]
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
+    "namBatDau" : "1424",
+    "namKetThuc" : "1424"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  } ],
+  "danhSachNhanVat" : [ ]
 }, {
   "tenThoiKi" : "Triều Lê Sơ",
   "namBatDau" : "1428",
   "namKetThuc" : "1527",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
+    "namBatDau" : "1428",
+    "namKetThuc" : "1428"
+  }, {
+    "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
+    "namBatDau" : "1483",
+    "namKetThuc" : "1483"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Tuân",
+    "namBatDau" : "1511",
+    "namKetThuc" : "1511"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bùi Công Hành",
     "tenGoiKhac" : [ "Bùi Công Hành" ],
@@ -890,14 +1139,24 @@
     "namSinh" : "Không rõ",
     "namMat" : "Không rõ",
     "queQuan" : "Thanh Hóa"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nam - Bắc Triều",
   "namBatDau" : "1527",
   "namKetThuc" : "1592",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Giáp Hải",
     "tenGoiKhac" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
@@ -1018,14 +1277,56 @@
     "namSinh" : "Không rõ",
     "namMat" : "1593",
     "queQuan" : "Không rõ"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Trịnh - Nguyễn",
   "namBatDau" : "1533",
   "namKetThuc" : "1788",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
+    "namBatDau" : "1739",
+    "namKetThuc" : "1769"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
+    "namBatDau" : "1740",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Dương Trọng Khiêm",
     "tenGoiKhac" : [ "Dương Trọng Khiêm" ],
@@ -1506,14 +1807,36 @@
     "namSinh" : "1718",
     "namMat" : "1782",
     "queQuan" : "Bắc Ninh"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Tây Sơn",
   "namBatDau" : "1778",
   "namKetThuc" : "1802",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  }, {
+    "tenSuKien" : "Quang Trung đột ngột qua đời",
+    "namBatDau" : "1792",
+    "namKetThuc" : "1792"
+  }, {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Lê Thị Ngọc Hân",
     "tenGoiKhac" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
@@ -1610,14 +1933,72 @@
     "namSinh" : "1794",
     "namMat" : "1843",
     "queQuan" : "Hải Dương"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nhà Nguyễn độc lập",
   "namBatDau" : "1802",
   "namKetThuc" : "1883",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  }, {
+    "tenSuKien" : "Gia Long đặt quốc hiệu là Việt Nam",
+    "namBatDau" : "1804",
+    "namKetThuc" : "1804"
+  }, {
+    "tenSuKien" : "Ban hành bộ luật Hoàng triều luật lệ",
+    "namBatDau" : "1815",
+    "namKetThuc" : "1815"
+  }, {
+    "tenSuKien" : "Minh Mạng lên ngôi Hoàng Đế",
+    "namBatDau" : "1820",
+    "namKetThuc" : "1820"
+  }, {
+    "tenSuKien" : "Quốc hiệu Đại Nam",
+    "namBatDau" : "1838",
+    "namKetThuc" : "1838"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
+    "namBatDau" : "1821",
+    "namKetThuc" : "1827"
+  }, {
+    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+    "namBatDau" : "1831",
+    "namKetThuc" : "1832"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
+    "namBatDau" : "1854",
+    "namKetThuc" : "1856"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  }, {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  }, {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Nguyễn Trung Trực",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Trương Định",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
+    "namBatDau" : "1874",
+    "namKetThuc" : "1874"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Hồ Văn Bôi",
     "tenGoiKhac" : [ "Hồ Văn Bôi" ],
@@ -2260,14 +2641,108 @@
     "namSinh" : "1858",
     "namMat" : "1913",
     "queQuan" : "Hưng Yên"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Pháp đô hộ",
   "namBatDau" : "1883",
   "namKetThuc" : "1945",
-  "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Patơnốt",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1884"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Phong trào Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
+    "namBatDau" : "1887",
+    "namKetThuc" : "1892"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hương Khê",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Hội Duy Tân được thành lập",
+    "namBatDau" : "1904",
+    "namKetThuc" : "1904"
+  }, {
+    "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
+    "namBatDau" : "1912",
+    "namKetThuc" : "1912"
+  }, {
+    "tenSuKien" : "Phong trào Đông Du",
+    "namBatDau" : "1905",
+    "namKetThuc" : "1908"
+  }, {
+    "tenSuKien" : "Đông Kinh Nghĩa Thục",
+    "namBatDau" : "1907",
+    "namKetThuc" : "1907"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  }, {
+    "tenSuKien" : "Chiến tranh thế giới thứ nhất",
+    "namBatDau" : "1914",
+    "namKetThuc" : "1918"
+  }, {
+    "tenSuKien" : "Thành lập Quốc Tế Cộng Sản",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
+    "namBatDau" : "1920",
+    "namKetThuc" : "1920"
+  }, {
+    "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Ngày Quốc Tế Phụ Nữ",
+    "namBatDau" : "1910",
+    "namKetThuc" : "1910"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện",
+    "namBatDau" : "1924",
+    "namKetThuc" : "1924"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
+    "namBatDau" : "1925",
+    "namKetThuc" : "1925"
+  } ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bùi Dị",
     "tenGoiKhac" : [ "Bùi Dị", "Bùi Văn Dị" ],
@@ -3882,14 +4357,12 @@
     "namSinh" : "1913",
     "namMat" : "1996",
     "queQuan" : "Hải Dương"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 }, {
   "tenThoiKi" : "Nước Việt Nam mới",
   "namBatDau" : "1945",
   "namKetThuc" : "2023",
   "danhSachSuKien" : [ ],
-  "tenSuKien" : [ ],
   "danhSachNhanVat" : [ {
     "hoTen" : "Bàng Bá Lân",
     "tenGoiKhac" : [ "Bàng Bá Lân" ],
@@ -4940,6 +5413,5 @@
     "namSinh" : "1922",
     "namMat" : "Không rõ",
     "queQuan" : "Đồng Tháp"
-  } ],
-  "tenNhanVat" : [ ]
+  } ]
 } ]

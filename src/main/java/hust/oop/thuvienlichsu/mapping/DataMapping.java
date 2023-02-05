@@ -85,8 +85,9 @@ public class DataMapping {
         for(NhanVat nhanVat : this.danhSachNhanVat) {
             List<String> danhSachTenThoiKi = nhanVat.getTenThoiKi();
             for(String tenThoiKi : danhSachTenThoiKi) {
-                ThoiKi find = thoiKiService.findThoiKiByTen(tenThoiKi);
-                if(find != null) {
+                int f = thoiKiService.findThoiKiByTen(tenThoiKi);
+                if(f != -1) {
+                    ThoiKi find = this.danhSachThoiKi.get(f);
                     nhanVat.addThoiKi(new ThoiKiDTO(find.getTenThoiKi(), find.getNamBatDau(), find.getNamKetThuc()));
                     find.addNhanVat(new NhanVatDTO(nhanVat.getHoTen().get(0),nhanVat.getHoTen(),nhanVat.getNamSinh(),nhanVat.getNamMat(),nhanVat.getQueQuan()));
                 }
@@ -96,21 +97,22 @@ public class DataMapping {
 
     public void mappingSuKienToThoiKi() {
         for(SuKien suKien : this.danhSachSuKien) {
+            if(suKien.getNamDienRa() == null) continue;
+            if(97 <= (int) suKien.getNamDienRa().toLowerCase().charAt(0) && (int) suKien.getNamDienRa().toLowerCase().charAt(0) <= 122) continue;
+            
             int nam = Integer.parseInt(suKien.getNamDienRa());
 
             for(ThoiKi thoiKi : this.danhSachThoiKi) {
-                if( thoiKi.getNamBatDau() == "..." || thoiKi.getNamBatDau().toLowerCase().contains("trcn") || thoiKi.getNamBatDau().equals("…")) {
+                if( thoiKi.getNamBatDau().contains("Không rõ") || thoiKi.getNamBatDau().toLowerCase().contains("trcn")) {
                     continue;
                 }
-                if( Integer.parseInt(thoiKi.getNamBatDau()) <= nam && Integer.parseInt(thoiKi.getNamKetThuc()) >= nam){
+                if(Integer.parseInt(thoiKi.getNamBatDau()) <= nam && Integer.parseInt(thoiKi.getNamKetThuc()) >= nam){
                     suKien.addDThoiKi(new ThoiKiDTO( thoiKi.getTenThoiKi(),thoiKi.getNamBatDau(),thoiKi.getNamKetThuc() ));
                     thoiKi.addSuKien(new SuKienDTO(suKien.getTenSuKien(),suKien.getNamDienRa(),suKien.getNamKetThuc()));
                 }
             }
         }
     }
-
-
 
     public void mappingSuKienToNhanVat() {
         for(SuKien suKien : this.danhSachSuKien) {

@@ -11,6 +11,11 @@ import java.util.List;
 public class ThoiKi {
     private String tenThoiKi;
     private String namBatDau;
+    private String namKetThuc;
+    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
+    private List<String> tenSuKien = new ArrayList<>();
+    private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
+    private List<String> tenNhanVat = new ArrayList<>();
 
     public void setTenThoiKi(String tenThoiKi) {
         this.tenThoiKi = tenThoiKi;
@@ -31,12 +36,6 @@ public class ThoiKi {
     public void setTenNhanVat(List<String> tenNhanVat) {
         this.tenNhanVat = tenNhanVat;
     }
-
-    private String namKetThuc;
-    private List<SuKienDTO> danhSachSuKien = new ArrayList<>();
-    private List<String> tenSuKien = new ArrayList<>();
-    private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
-    private List<String> tenNhanVat = new ArrayList<>();
 
     public String getTenThoiKi() {
         return tenThoiKi;
@@ -78,9 +77,11 @@ public class ThoiKi {
     public void addSuKien(SuKienDTO suKienDTO) {
         if(suKienDTO != null) this.danhSachSuKien.add(suKienDTO);
     }
+
     @Override
     public String toString() {
-        return this.tenThoiKi + " (" + this.namBatDau + " - " + this.namKetThuc + ")";
+        return "ThoiKi [\n\ttenThoiKi=" + tenThoiKi + ",\n\tnamBatDau=" + namBatDau + ",\n\tnamKetThuc=" + namKetThuc
+                + ",\n\tdanhSachSuKien=" + danhSachSuKien.toString() + ",\n\tdanhSachNhanVat=" + danhSachNhanVat.toString() + "\n]";
     }
 
     public boolean filterProperty(String filter) {

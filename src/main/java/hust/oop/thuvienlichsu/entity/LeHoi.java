@@ -59,8 +59,8 @@ public class LeHoi {
 
     @Override
     public String toString() {
-        return "LeHoi [tenLeHoi=" + tenLeHoi + ", ngayToChuc=" + ngayToChuc + ", diaDiemToChuc=" + diaDiemToChuc
-                + ", ngayThanhLap=" + ngayThanhLap + ", nhanVatLienQuan=" + nhanVatLienQuan + "]";
+        return "LeHoi [\n\ttenLeHoi=" + tenLeHoi + ",\n\tngayToChuc=" + ngayToChuc + ",\n\tdiaDiemToChuc=" + diaDiemToChuc
+                + ",\n\tngayThanhLap=" + ngayThanhLap + ",\n\tnhanVatLienQuan=" + nhanVatLienQuan + "\n]";
     }
 
 

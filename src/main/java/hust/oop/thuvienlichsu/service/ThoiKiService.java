@@ -1,7 +1,6 @@
 package hust.oop.thuvienlichsu.service;
 
 import hust.oop.thuvienlichsu.entity.ThoiKi;
-import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 
 import java.util.List;
 
@@ -17,13 +16,12 @@ public class ThoiKiService {
         this.danhSachThoiKi = danhSachThoiKi;
     }
 
-    public ThoiKi findThoiKiByTen(String ten) {
-        for(ThoiKi thoiKi : this.danhSachThoiKi) {
-            if(thoiKi.getTenThoiKi().equals(ten)) {
-
-                return thoiKi;}
+    public int findThoiKiByTen(String ten) {
+        int notfound = -1;
+        for(int i = 0; i < danhSachThoiKi.size(); i++) {
+            if(ten.equals(danhSachThoiKi.get(i).getTenThoiKi())) return i;
         }
-        return null;
+        return notfound;
     }
 
 }

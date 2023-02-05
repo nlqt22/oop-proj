@@ -24,9 +24,8 @@ public class detail {
     @FXML
     public void backToSearchScreen(ActionEvent event) {
         java.awt.Window win[] = java.awt.Window.getWindows();
-        for(int i=0; i<win.length; i++){
+        for(int i=1; i<win.length; i++){
             win[i].setVisible(false);
         }
-        new searchScreen();
     }
 }

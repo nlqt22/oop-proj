@@ -3,7 +3,6 @@ package hust.oop.thuvienlichsu.entity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
 import hust.oop.thuvienlichsu.entity.dto.NhanVatDTO;
-import hust.oop.thuvienlichsu.entity.dto.SuKienDTO;
 import hust.oop.thuvienlichsu.entity.dto.ThoiKiDTO;
 
 import java.util.ArrayList;
