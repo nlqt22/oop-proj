@@ -9,7 +9,7 @@ public class GettingData {
         writer.nhanVatFileWriter();
         writer.suKienFileWriter();
         writer.diaDiemFileWriter();
-//        writer.leHoiFileWriter();
+        writer.leHoiFileWriter();
     }
 }
  
