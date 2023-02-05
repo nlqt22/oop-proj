@@ -12,13 +12,13 @@ public class detail {
     @FXML
     public TextArea detailField;
 
-    public Object element;
-    public detail(Object name){
-        this.element = name;
+    private Object obj;
+    public detail(Object obj){
+        this.obj = obj;
     }
 
     @FXML public void initialize(){
-        detailField.setText(element.toString());
+        detailField.setText(obj.toString());
     }
 
     @FXML
