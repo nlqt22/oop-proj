@@ -29,7 +29,8 @@ public class LeHoiScraper {
                 LeHoi leHoi = new LeHoi();
                 
                 final String day = row.select("td:nth-of-type(1)").text();
-                final String location = row.select("td:nth-of-type(2)").text();
+                final String location = row.select("td:nth-of-type(2)").text().split(",")[0];
+
                 final String name = row.select("td:nth-of-type(3)").text();
                 final String firstTime = row.select("td:nth-of-type(4)").text();
                 final String relatedFigure = row.select("td:nth-of-type(5)").text();

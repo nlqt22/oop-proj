@@ -1,5 +1,8 @@
 package hust.oop.thuvienlichsu.entity;
 
+import hust.oop.thuvienlichsu.entity.dto.DiaDiemDTO;
+import hust.oop.thuvienlichsu.entity.dto.NhanVatDTO;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,7 +12,54 @@ public class LeHoi {
     private String diaDiemToChuc;
     private String ngayThanhLap;
     private List<String> nhanVatLienQuan = new ArrayList<>();
-    
+
+    private List<String> tenNhanVat = new ArrayList<>();
+
+    private List<NhanVatDTO> danhSachNhanVat = new ArrayList<>();
+
+    public List<String> getTenNhanVat() {
+        return tenNhanVat;
+    }
+
+    private List<DiaDiemDTO> danhSachDiaDiem = new ArrayList<>();
+    private List<String> tenDiaDiem = new ArrayList<>();
+
+    public List<DiaDiemDTO> getDanhSachDiaDiem() {
+        return danhSachDiaDiem;
+    }
+
+    public void setDanhSachDiaDiem(List<DiaDiemDTO> danhSachDiaDiem) {
+        this.danhSachDiaDiem = danhSachDiaDiem;
+    }
+
+    public List<String> getTenDiaDiem() {
+        return tenDiaDiem;
+    }
+
+    public void setTenDiaDiem(List<String> tenDiaDiem) {
+        this.tenDiaDiem = tenDiaDiem;
+    }
+
+    public void setTenNhanVat(List<String> tenNhanVat) {
+        this.tenNhanVat = tenNhanVat;
+    }
+
+    public List<NhanVatDTO> getDanhSachNhanVat() {
+        return danhSachNhanVat;
+    }
+
+
+    public void setDanhSachNhanVat(List<NhanVatDTO> danhSachNhanVat) {
+        this.danhSachNhanVat = danhSachNhanVat;
+    }
+
+    public void addNhanVat(NhanVatDTO nhanVatDTO) {
+        if(nhanVatDTO != null) this.danhSachNhanVat.add(nhanVatDTO);
+    }
+    public void addDiaDiem(DiaDiemDTO diaDiemDTO) {
+        if(diaDiemDTO != null) this.danhSachDiaDiem.add(diaDiemDTO);
+    }
+
     public String getTenLeHoi() {
         return tenLeHoi;
     }

@@ -66,6 +66,8 @@ public class DataMapping {
         mappingDiaDiemToNhanVat();
         mappingNhanVatToDiaDiem();
         mappingSuKienToDiaDiem();
+
+
     }
 
     public List<NhanVat> getDanhSachNhanVat() {
@@ -196,6 +198,28 @@ public class DataMapping {
                             suKien.getNamKetThuc()
                     ));
                 }
+            }
+        }
+    }
+    public void mappingNhanVatToLeHoi() {
+        for(LeHoi leHoi : this.danhSachLeHoi){
+            for(String ten : leHoi.getNhanVatLienQuan()){
+                for(NhanVat nhanVat : this.danhSachNhanVat){
+                    for(String name : nhanVat.getHoTen())
+                        if(ten.contains(name) || name.contains(ten)){
+                            leHoi.addNhanVat(new NhanVatDTO(nhanVat.getHoTen().get(0),nhanVat.getHoTen(),nhanVat.getNamSinh(),nhanVat.getNamMat(),nhanVat.getQueQuan()));
+                        }
+                }
+            }
+        }
+    }
+
+    public void mappingDiaDiemToLeHoi() {
+        for(LeHoi leHoi : this.danhSachLeHoi){
+            for(DiaDiem diaDiem : this.danhSachDiaDiem){
+                if(leHoi.getDiaDiemToChuc().contains(diaDiem.getTenDiaDiem()) || diaDiem.getTenDiaDiem().contains(leHoi.getDiaDiemToChuc())){
+                    leHoi.addDiaDiem(new DiaDiemDTO(diaDiem.getTenDiaDiem()));
+                        }
             }
         }
     }
